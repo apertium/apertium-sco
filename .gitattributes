@@ -1,0 +1,3 @@
+* text=auto !eol
+/apertium-eng-sco.sco.dix -text
+/apertium-eng-sco.sco.tsx -text

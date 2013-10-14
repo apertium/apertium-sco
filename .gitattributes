@@ -1,3 +1,7 @@
 * text=auto !eol
-/apertium-eng-sco.sco.dix -text
-/apertium-eng-sco.sco.tsx -text
+/Makefile.am -text
+/apertium-eng-sco.sco.rlx -text
+/apertium-sco.pc.in -text
+/apertium-sco.sco.dix -text
+/apertium-sco.sco.tsx -text
+/configure.ac -text

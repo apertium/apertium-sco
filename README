@@ -1,0 +1,21 @@
+# Scots
+
+## Places to start
+
+### Adding new words
+
+Find frequent words, and add them
+
+    cat some_tokens | apertium -d . sco-tagger | grep '*' | sort | uniq -c | sort -n
+
+## References
+
+ * scots-online.org - contains a grammar!
+ * www.scotslanguage.com - text, podcasts, all sorts of things
+
+
+## Misc
+
+* ./autogen has been configured to search for mac homebrew, and use those paths
+
+    vim: set ts=4 sw=4 tw=0 syntax=markdown :

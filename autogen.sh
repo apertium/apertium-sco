@@ -31,10 +31,19 @@ fi
 
 rm -f config.cache acconfig.h
 
-DARWINPATH=/opt/local/bin
+which -s brew
+if [[ $? != 0 ]] ; then
+    DARWINPATH=/opt/local/bin
+    DARWINLOCALSHARE=/opt/local/share
+else
+    echo "Homebrew detected, assuming /usr/local/bin for stuff"
+    DARWINPATH=/usr/local/bin
+    DARWINLOCALSHARE=/usr/local/share
+fi
+
 
 echo "- aclocal."		&& \
-if test x$(uname -s) = xDarwin; then $DARWINPATH/aclocal -I /opt/local/share/aclocal ; else aclocal ; fi && \
+if test x$(uname -s) = xDarwin; then $DARWINPATH/aclocal -I $DARWINLOCALSHARE/aclocal ; else aclocal ; fi && \
 echo "- autoconf."		&& \
 if test x$(uname -s) = xDarwin; then $DARWINPATH/autoconf ; else autoconf ; fi && \
 echo "- automake."		&& \

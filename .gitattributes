@@ -12,6 +12,7 @@
 /autogen.sh -text
 /configure.ac -text
 dev/corp/sco/README.md -text
+dev/corp/sco/kingly_hooses_pdftotext_all.txt -text
 dev/corp/sco/text.txt -text
 /modes.xml -text
 /sco.prob -text

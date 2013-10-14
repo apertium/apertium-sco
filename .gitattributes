@@ -11,6 +11,7 @@
 /apertium-sco.sco.tsx -text
 /autogen.sh -text
 /configure.ac -text
+dev/corp/sco/README.md -text
 dev/corp/sco/text.txt -text
 /modes.xml -text
 /sco.prob -text

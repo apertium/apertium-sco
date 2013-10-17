@@ -31,14 +31,13 @@ fi
 
 rm -f config.cache acconfig.h
 
-which -s brew
-if [[ $? != 0 ]] ; then
-    DARWINPATH=/opt/local/bin
-    DARWINLOCALSHARE=/opt/local/share
-else
+if command -V brew 2>/dev/null >/dev/null; then
     echo "Homebrew detected, assuming /usr/local/bin for stuff"
     DARWINPATH=/usr/local/bin
     DARWINLOCALSHARE=/usr/local/share
+else
+    DARWINPATH=/opt/local/bin
+    DARWINLOCALSHARE=/opt/local/share
 fi
 
 

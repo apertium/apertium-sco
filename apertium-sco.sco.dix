@@ -847,6 +847,14 @@
         </p>
       </e>
     </pardef>
+    <pardef n="but__cnjsub">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="cnjsub"/></r>
+        </p>
+      </e>
+    </pardef>
     <pardef n="an__cnjcoo">
       <e>
         <p>
@@ -1023,6 +1031,19 @@
       <e>
         <p>
           <l>ed</l>
+          <r>ae<s n="vbhaver"/><s n="past"/></r>
+        </p>
+        <par n="na__S"/>
+      </e>
+      <e>
+        <p>
+          <l>ed</l>
+          <r>ae<s n="vbhaver"/><s n="pp"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>aed</l>
           <r>ae<s n="vbhaver"/><s n="past"/></r>
         </p>
         <par n="na__S"/>
@@ -2133,6 +2154,7 @@
     <e lm="the day"><i>the<b/>day</i><par n="mebbe__adv"/></e>
     <e lm="the nou"><i>the<b/>nou</i><par n="mebbe__adv"/></e>
     <e lm="the morn"><i>the<b/>morn</i><par n="mebbe__adv"/></e>
+    <e lm="as"><i>as</i><par n="mebbe__adv"/></e>
     <e lm="mair"><i>mair</i><par n="mebbe__adv"/></e>
     <e lm="maist"><i>maist</i><par n="mebbe__adv"/></e>
     <e lm="ootthrou"><i>ootthrou</i><par n="mebbe__adv"/></e>
@@ -2150,6 +2172,7 @@
 
     <e lm="an"><i>an</i><par n="an__cnjcoo"/></e>
     <e lm="or"><i>or</i><par n="an__cnjcoo"/></e>
+    <e lm="but"><i>but</i><par n="but__cnjsub"/></e>
 
     <e lm="verra"><i>verra</i><par n="verra__preadv"/></e>
     <e lm="mair"><i>mair</i><par n="verra__preadv"/></e>
@@ -2176,25 +2199,27 @@
 
     <e lm="thir"><i>th</i><par n="th/ir__det"/></e>
     
+    <e lm="aboot"><i>aboot</i><par n="tae__pr"/></e>
     <e lm="afore"><i>afore</i><par n="tae__pr"/></e>
+    <e lm="anent"><i>anent</i><par n="tae__pr"/></e>
     <e lm="at"><i>at</i><par n="tae__pr"/></e>
+    <e lm="bi"><i>bi</i><par n="tae__pr"/></e>
+    <e lm="fae"><i>fae</i><par n="tae__pr"/></e>
     <e lm="for tae"><i>for<b/>tae</i><par n="tae__pr"/></e>
     <e lm="for"><i>for</i><par n="tae__pr"/></e>
     <e lm="frae"><i>frae</i><par n="tae__pr"/></e>
     <e lm="in"><i>in</i><par n="tae__pr"/></e>
-    <e lm="in"><i>in</i><par n="tae__pr"/></e>
     <e lm="mair nor"><i>mair<b/>nor</i><par n="tae__pr"/></e>
     <e lm="o"><i>o</i><par n="tae__pr"/></e>
-    <e lm="o"><i>o</i><par n="tae__pr"/></e>
     <e lm="on"><i>on</i><par n="tae__pr"/></e>
-    <e lm="oot"><i>oot</i><par n="tae__pr"/></e>
     <e lm="oot"><i>oot</i><par n="tae__pr"/></e>
     <e lm="ootthrou"><i>ootthrou</i><par n="tae__pr"/></e>
     <e lm="ower"><i>ower</i><par n="tae__pr"/></e>
     <e lm="syne"><i>syne</i><par n="tae__pr"/></e>
     <e lm="tae"><i>tae</i><par n="tae__pr"/></e>
-    <e lm="tae"><i>tae</i><par n="tae__pr"/></e>
+    <e lm="til"><i>til</i><par n="tae__pr"/></e>
     <e lm="wi"><i>wi</i><par n="tae__pr"/></e>
+
 
     
 
@@ -2355,6 +2380,15 @@
 
     <!-- personal-names -->
     <!-- {{{ -->
+
+    <e lm="Jeems"><i>Jeems</i><par n="Mark__np"/></e>
+    <e lm="Dauvit"><i>Dauvit</i><par n="Mark__np"/></e>
+    <e lm="Edwart"><i>Edwart</i><par n="Mark__np"/></e>
+    <e lm="Chairles"><i>Chairles</i><par n="Mark__np"/></e>
+    <e lm="Magret"><i>Magret</i><par n="Mark__np"/></e>
+    <e lm="Maucom"><i>Maucom</i><par n="Mark__np"/></e>
+    <e lm="Hendrie"><i>Hendrie</i><par n="Mark__np"/></e>
+
 
     <e lm="Abel"><i>Abel</i><par n="Mark__np"/></e>
 
@@ -13943,6 +13977,9 @@
     <e lm="pirn"><i>pirn</i><par n="hoose__n"/></e>
     <e lm="kintra"><i>kintra</i><par n="hoose__n"/></e>
     <e lm="kinrik"><i>kinrik</i><par n="hoose__n"/></e>
+    <e lm="erle"><i>erle</i><par n="hoose__n"/></e>
+    <e lm="pairt"><i>pairt</i><par n="hoose__n"/></e>
+    <e lm="son"><i>son</i><par n="hoose__n"/></e>
 
     <!-- eng has:
     <e lm="knife"><i>kni</i><par n="li/fe__n"/></e>
@@ -14138,11 +14175,13 @@
     <e lm="basis"><i>bas</i><par n="analys/is__n"/></e>
 
     <e lm="calling code"><i>calling<b/>code</i><par n="hoose__n"/></e>
+    <e lm="king"><i>king</i><par n="hoose__n"/></e>
 
     <e lm="especially"><i>especially</i><par n="expensive__adj"/></e>
 
     <!-- adverbs -->
     <e lm="richtly"><i>richtly</i><par n="mebbe__adv"/></e>
+    <e lm="noo"><i>noo</i><par n="mebbe__adv"/></e>
 
     <!-- Verbs -->
     

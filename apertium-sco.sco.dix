@@ -8,6 +8,7 @@
   <sdefs>
     <sdef n="acr"/>
     <sdef n="predet"/>
+    <sdef n="prenom"/>
     <sdef n="detnt"/>
     <sdef n="loc"/>
     <sdef n="top"/>
@@ -904,6 +905,14 @@
         <p>
           <l>est</l>
           <r><s n="adj"/><s n="sint"/><s n="comp"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="inglis__adj">
+      <e>
+        <p>
+          <l/>
+          <r><s n="adj"/></r>
         </p>
       </e>
     </pardef>
@@ -1971,6 +1980,22 @@
         </p>
       </e>
     </pardef>
+
+    <pardef n="queen__prenom">
+      <e r="LR">
+        <p>
+          <l/>
+          <r><s n="prenom"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e r="RL">
+        <p>
+          <l/>
+          <r><s n="prenom"/><s n="sg"/></r>
+        </p>
+      </e>
+    </pardef>
+
     <pardef n="that__rel">
       <e>
         <p>
@@ -2217,8 +2242,11 @@
     <e lm="ower"><i>ower</i><par n="tae__pr"/></e>
     <e lm="syne"><i>syne</i><par n="tae__pr"/></e>
     <e lm="tae"><i>tae</i><par n="tae__pr"/></e>
+    <e lm="throu"><i>throu</i><par n="tae__pr"/></e>
     <e lm="til"><i>til</i><par n="tae__pr"/></e>
     <e lm="wi"><i>wi</i><par n="tae__pr"/></e>
+    <e lm="atween"><i>atween</i><par n="tae__pr"/></e>
+    <e lm="unner"><i>unner</i><par n="tae__pr"/></e>
 
 
     
@@ -2284,6 +2312,9 @@
     <!-- }}} --> <!-- /auxilliaries -->
     
     <!-- proper-nouns --> <!-- {{{ -->
+    <e lm="Albany"><i>Albany</i><par n="Barcelona__np"/></e>
+    <e lm="Orkney"><i>Orkney</i><par n="Barcelona__np"/></e>
+
     <e lm="Barcelona"><i>Barcelona</i><par n="Barcelona__np"/></e>
     <e lm="Sparta"><i>Sparta</i><par n="Barcelona__np"/></e>
     <e lm="Greece"><i>Greece</i><par n="Barcelona__np"/></e>
@@ -2378,6 +2409,39 @@
     <!-- }}} --> 
     <!-- /n.acr -->
 
+    <!-- month-names -->
+    <!-- {{{ -->
+    <e lm="Januar"><i>Januar</i><par n="Mark__np" /></e>
+    <e lm="Julie"><i>Julie</i><par n="Mark__np" /></e>
+    <e lm="July"><i>July</i><par n="Mark__np" /></e>
+    <e lm="Februar"><i>Februar</i><par n="Mark__np" /></e>
+    <e lm="August"><i>August</i><par n="Mark__np" /></e>
+    <e lm="Mairch"><i>Mairch</i><par n="Mark__np" /></e>
+    <e lm="September"><i>September</i><par n="Mark__np" /></e>
+    <e lm="Apryle"><i>Apryle</i><par n="Mark__np" /></e>
+    <e lm="October"><i>October</i><par n="Mark__np" /></e>
+    <e lm="Mey"><i>Mey</i><par n="Mark__np" /></e>
+    <e lm="November"><i>November</i><par n="Mark__np" /></e>
+    <e lm="Juin"><i>Juin</i><par n="Mark__np" /></e>
+    <e lm="December"><i>December</i><par n="Mark__np" /></e>
+    <e lm="Dezember"><i>Dezember</i><par n="Mark__np" /></e>
+    <!-- }}} --> 
+    <!-- /month-names -->
+
+    <!-- day-names -->
+    <!-- {{{ -->
+    <e lm="Monanday"><i>Monanday</i><par n="Mark__np" /></e>
+    <e lm="Friday"><i>Friday</i><par n="Mark__np" /></e>
+    <e lm="Tysday"><i>Tysday</i><par n="Mark__np" /></e>
+    <e lm="Seturday"><i>Seturday</i><par n="Mark__np" /></e>
+    <e lm="Wadensday"><i>Wadensday</i><par n="Mark__np" /></e>
+    <e lm="Saubath"><i>Saubath</i><par n="Mark__np" /></e>
+    <e lm="Fuirsday"><i>Fuirsday</i><par n="Mark__np" /></e>
+    <e lm="Sunday"><i>Sunday</i><par n="Mark__np" /></e>
+    <!-- }}} --> 
+    <!-- /day-names -->
+
+
     <!-- personal-names -->
     <!-- {{{ -->
 
@@ -2388,6 +2452,7 @@
     <e lm="Magret"><i>Magret</i><par n="Mark__np"/></e>
     <e lm="Maucom"><i>Maucom</i><par n="Mark__np"/></e>
     <e lm="Hendrie"><i>Hendrie</i><par n="Mark__np"/></e>
+    <e lm="Weelum"><i>Weelum</i><par n="Mark__np"/></e>
 
 
     <e lm="Abel"><i>Abel</i><par n="Mark__np"/></e>
@@ -13901,6 +13966,7 @@
 
     <!-- determiners -->
     <e lm="the"><i>the</i><par n="the__det"/></e>
+    <e lm="mony"><i>mony</i><par n="the__det"/></e>
 
     <!--  predeterminers
     	 -->
@@ -13908,7 +13974,19 @@
     <e lm="aw"><i>aw</i><par n="aw__predet"/></e>
 
 
+    <!-- pre-nominal thingies that are also nouns, Queen Leezabeth, Saunt Aundraes -->
+    <e lm="Queen"><i>Queen</i><par n="queen__prenom"/></e>
+    <e lm="Lord"><i>Lord</i><par n="queen__prenom"/></e>
+    <e lm="Bishop"><i>Bishop</i><par n="queen__prenom"/></e>
+    <e lm="Saunt"><i>Saunt</i><par n="queen__prenom"/></e>
+    <e lm="Sir"><i>Sir</i><par n="queen__prenom"/></e>
+
     <!-- Adjectives -->
+
+    <e lm="lang"><i>lang</i><par n="expensive__adj"/></e>
+    <e lm="auld"><i>auld</i><par n="expensive__adj"/></e>
+    <e lm="new"><i>new</i><par n="expensive__adj"/></e>
+    <e lm="ain"><i>ain</i><par n="expensive__adj"/></e>
 
     <e lm="accredited"><i>accredited</i><par n="expensive__adj"/></e>
     <e lm="customisable"><i>customisable</i><par n="expensive__adj"/></e>
@@ -13918,7 +13996,10 @@
     <e lm="built"><i>built</i><par n="expensive__adj"/></e>
     <e lm="departmental"><i>departmental</i><par n="expensive__adj"/></e>
     <e lm="unrealistic"><i>unrealistic</i><par n="expensive__adj"/></e>
+    <e lm="soothron"><i>soothron</i><par n="expensive__adj"/></e>
 
+    <e lm="Inglis"><i>Inglis</i><par n="inglis__adj"/></e>
+    <e lm="Frainch"><i>Frainch</i><par n="inglis__adj"/></e>
 
     <e lm="British"><i>British</i><par n="expensive__adj"/></e>
     <e lm="Cornish"><i>Cornish</i><par n="expensive__adj"/></e>
@@ -13971,6 +14052,7 @@
     kirn - kirns
     pirn - pirns
     -->
+
     <e lm="haund"><i>haund</i><par n="hoose__n"/></e>
     <e lm="heid"><i>heid</i><par n="hoose__n"/></e>
     <e lm="kirn"><i>kirn</i><par n="hoose__n"/></e>
@@ -13979,7 +14061,14 @@
     <e lm="kinrik"><i>kinrik</i><par n="hoose__n"/></e>
     <e lm="erle"><i>erle</i><par n="hoose__n"/></e>
     <e lm="pairt"><i>pairt</i><par n="hoose__n"/></e>
+    <e lm="laird"><i>laird</i><par n="hoose__n"/></e>
     <e lm="son"><i>son</i><par n="hoose__n"/></e>
+
+    <e lm="queen"><i>queen</i><par n="hoose__n"/></e>
+    <e lm="lord"><i>lord</i><par n="hoose__n"/></e>
+    <e lm="bishop"><i>bishop</i><par n="hoose__n"/></e>
+    <e lm="saunt"><i>saunt</i><par n="hoose__n"/></e>
+    <e lm="sir"><i>sir</i><par n="hoose__n"/></e>
 
     <!-- eng has:
     <e lm="knife"><i>kni</i><par n="li/fe__n"/></e>
@@ -14182,6 +14271,10 @@
     <!-- adverbs -->
     <e lm="richtly"><i>richtly</i><par n="mebbe__adv"/></e>
     <e lm="noo"><i>noo</i><par n="mebbe__adv"/></e>
+
+    <e lm="whan"><i>whan</i><par n="mebbe__adv"/></e>
+    <e lm="agin"><i>agin</i><par n="mebbe__adv"/></e>
+    <e lm="while"><i>while</i><par n="mebbe__adv"/></e>
 
     <!-- Verbs -->
     

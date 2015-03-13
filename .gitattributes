@@ -6,6 +6,8 @@
 /NEWS -text
 /README -text
 /apertium-sco.pc.in -text
+/apertium-sco.post-sco.dix -text svneol=unset#application/xml
+/apertium-sco.sco.acx -text svneol=unset#application/xml
 /apertium-sco.sco.dix -text
 /apertium-sco.sco.rlx -text
 /apertium-sco.sco.tsx -text

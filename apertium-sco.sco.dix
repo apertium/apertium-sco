@@ -146,7 +146,7 @@
     </pardef>
     
     <pardef n="na__S">
-<!--      <e>       <p><l>NON_ANALYSIS</l>          <r>DUE_TO_LT_PROC_HANG</r></p></e> -->
+      <e>       <p><l>NON_ANALYSIS</l>          <r>DUE_TO_LT_PROC_HANG</r></p></e>
       <e>
         <p>
           <l></l>

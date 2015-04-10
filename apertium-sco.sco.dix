@@ -663,6 +663,14 @@
 <e lm="ticket">          <i>ticket</i><par n="hoose__n"/></e>
 <e lm="wean">            <i>wean</i><par n="hoose__n"/></e>
 <e lm="dug">             <i>dug</i><par n="hoose__n"/></e>
+<e lm="bairn">           <i>bairn</i><par n="hoose__n"/></e>
+<e lm="advocate">        <i>advocate</i><par n="hoose__n"/></e>
+<e lm="accoont">         <i>accont</i><par n="hoose__n"/></e>
+<e lm="accoontant">      <i>accontant</i><par n="hoose__n"/></e>
+<e lm="adventur">        <i>adventur</i><par n="hoose__n"/></e>
+<e lm="affcome">         <i>affcome</i><par n="hoose__n"/></e>
+<e lm="aipple">          <i>aipple</i><par n="hoose__n"/></e>
+<e lm="airm">            <i>airm</i><par n="hoose__n"/></e>
 
     
 <e lm="whaur">           <i>whaur</i><par n="whaur__adv"/></e>

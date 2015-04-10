@@ -662,6 +662,8 @@
 <e lm="haun">            <i>haun</i><par n="hoose__n"/></e>
 <e lm="ticket">          <i>ticket</i><par n="hoose__n"/></e>
 <e lm="wean">            <i>wean</i><par n="hoose__n"/></e>
+<e lm="dug">             <i>dug</i><par n="hoose__n"/></e>
+
     
 <e lm="whaur">           <i>whaur</i><par n="whaur__adv"/></e>
 <e lm="niver">           <i>niver</i><par n="niver__adv"/></e>

@@ -671,6 +671,12 @@
 <e lm="affcome">         <i>affcome</i><par n="hoose__n"/></e>
 <e lm="aipple">          <i>aipple</i><par n="hoose__n"/></e>
 <e lm="airm">            <i>airm</i><par n="hoose__n"/></e>
+<e lm="airt">            <i>airt</i><par n="hoose__n"/></e>
+<e lm="airticle">        <i>airticle</i><par n="hoose__n"/></e>
+<e lm="annuncement">     <i>annuncement</i><par n="hoose__n"/></e>
+
+  <!-- ES NOUNS -->
+<e lm="aish">            <i>aish</i><par n="hoose__n"/></e>
 
     
 <e lm="whaur">           <i>whaur</i><par n="whaur__adv"/></e>

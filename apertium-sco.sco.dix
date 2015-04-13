@@ -235,6 +235,10 @@
   <e>       <p><l></l>          <r><s n="n"/><s n="sg"/></r></p></e>
   <e>       <p><l>s</l>         <r><s n="n"/><s n="pl"/></r></p></e>
 </pardef>
+<pardef n="aish__n">
+  <e>       <p><l></l>          <r><s n="n"/><s n="sg"/></r></p></e>
+  <e>       <p><l>es</l>         <r><s n="n"/><s n="pl"/></r></p></e>
+</pardef>
 <pardef n="habb/y__n">
   <e>       <p><l>y</l>         <r>y<s n="n"/><s n="sg"/></r></p></e>
   <e r="LR"><p><l>ie</l>        <r>y<s n="n"/><s n="sg"/></r></p></e>
@@ -614,10 +618,9 @@
     
     <!-- Regular nouns -->
 <e lm="hoose">           <i>hoose</i><par n="hoose__n"/></e>
-<e lm="leid">            <i>leid</i><par n="hoose__n"/></e>
 <e lm="habby">           <i>habb</i><par n="habb/y__n"/></e>
+<e lm="leid">            <i>leid</i><par n="hoose__n"/></e>
 <e lm="category">        <i>categor</i><par n="habb/y__n"/></e>
-<e lm="airticle">        <i>airticle</i><par n="hoose__n"/></e>
 <e lm="fitbaw">          <i>fitbaw</i><par n="hoose__n"/></e>
 <e lm="economy">         <i>econom</i><par n="habb/y__n"/></e>
 <e lm="veesitor">        <i>veesitor</i><par n="hoose__n"/></e>
@@ -629,7 +632,6 @@
 <e lm="wird">            <i>wird</i><par n="hoose__n"/></e>
 <e lm="copyricht">       <i>copyricht</i><par n="hoose__n"/></e>
 <e lm="hame">            <i>hame</i><par n="hoose__n"/></e>
-<e lm="bairn">           <i>bairn</i><par n="hoose__n"/></e>
 <e lm="schuil-bairn">    <i>schuil-bairn</i><par n="hoose__n"/></e>
 <e lm="encyclopædia">    <i>encyclopædia</i><par n="hoose__n"/></e>
 <e lm="Wikipædia">       <i>Wikipædia</i><par n="hoose__n"/></e>
@@ -662,8 +664,7 @@
 <e lm="haun">            <i>haun</i><par n="hoose__n"/></e>
 <e lm="ticket">          <i>ticket</i><par n="hoose__n"/></e>
 <e lm="wean">            <i>wean</i><par n="hoose__n"/></e>
-<e lm="dug">             <i>dug</i><par n="hoose__n"/></e>
-<e lm="bairn">           <i>bairn</i><par n="hoose__n"/></e>
+
 <e lm="advocate">        <i>advocate</i><par n="hoose__n"/></e>
 <e lm="accoont">         <i>accont</i><par n="hoose__n"/></e>
 <e lm="accoontant">      <i>accontant</i><par n="hoose__n"/></e>
@@ -674,11 +675,22 @@
 <e lm="airt">            <i>airt</i><par n="hoose__n"/></e>
 <e lm="airticle">        <i>airticle</i><par n="hoose__n"/></e>
 <e lm="annuncement">     <i>annuncement</i><par n="hoose__n"/></e>
+<e lm="address">         <i>address</i><par n="aish__n"/></e>
+<e lm="aish">            <i>aish</i><par n="aish__n"/></e>
+<e lm="appenin">         <i>appenin</i><par n="hoose__n"/></e>
+<e lm="assemmly">        <i>assemmly</i><par n="habb/y__n"/></e>
+<e lm="aurie">           <i>aurie</i><par n="hoose__n"/></e>
+<e lm="awaird">          <i>awaird</i><par n="hoose__n"/></e>
+<e lm="awner">           <i>awner</i><par n="hoose__n"/></e>
+<e lm="bahookie">        <i>bahookie</i><par n="hoose__n"/></e>
+<e lm="bairn">           <i>bairn</i><par n="hoose__n"/></e>
+<e lm="bairnheid">       <i>bairnheid</i><par n="hoose__n"/></e>
+<e lm="bairnie">         <i>bairnie</i><par n="hoose__n"/></e>
 
-  <!-- ES NOUNS -->
-<e lm="aish">            <i>aish</i><par n="hoose__n"/></e>
+<e lm="dug">             <i>dug</i><par n="hoose__n"/></e>
 
-    
+
+  <!-- ADVERBS -->    
 <e lm="whaur">           <i>whaur</i><par n="whaur__adv"/></e>
 <e lm="niver">           <i>niver</i><par n="niver__adv"/></e>
 <e lm="mebbe">           <i>mebbe</i><par n="mebbe__adv"/></e>

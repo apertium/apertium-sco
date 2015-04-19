@@ -438,11 +438,21 @@
   <e>       <p><l>in</l>        <r><s n="vblex"/><s n="pprs"/></r></p></e>
   <e>       <p><l>in</l>        <r><s n="vblex"/><s n="subs"/></r></p></e>
 </pardef>
-<pardef n="jyne__vblex">
+<pardef n="jyn/e__vblex">
+  <e>       <p><l>e</l>          <r><s n="vblex"/><s n="inf"/></r></p></e>
+  <e>       <p><l>e</l>          <r><s n="vblex"/><s n="pres"/></r></p></e>
+  <e>       <p><l>es</l>         <r><s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+  <e>       <p><l>t</l>         <r><s n="vblex"/><s n="past"/></r></p></e>
+  <e>       <p><l>t</l>         <r><s n="vblex"/><s n="pp"/></r></p></e>
+  <e>       <p><l>in</l>        <r><s n="vblex"/><s n="ger"/></r></p></e>
+  <e>       <p><l>in</l>        <r><s n="vblex"/><s n="pprs"/></r></p></e>
+  <e>       <p><l>in</l>        <r><s n="vblex"/><s n="subs"/></r></p></e>
+</pardef>
+<pardef n="belang__vblex">
   <e>       <p><l></l>          <r><s n="vblex"/><s n="inf"/></r></p></e>
   <e>       <p><l></l>          <r><s n="vblex"/><s n="pres"/></r></p></e>
   <e>       <p><l>s</l>         <r><s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
-  <e>       <p><l>t</l>         <r><s n="vblex"/><s n="past"/></r></p></e>
+  <e>       <p><l>it</l>         <r><s n="vblex"/><s n="past"/></r></p></e>
   <e>       <p><l>t</l>         <r><s n="vblex"/><s n="pp"/></r></p></e>
   <e>       <p><l>in</l>        <r><s n="vblex"/><s n="ger"/></r></p></e>
   <e>       <p><l>in</l>        <r><s n="vblex"/><s n="pprs"/></r></p></e>
@@ -458,12 +468,83 @@
   <e>       <p><l>nin</l>       <r><s n="vblex"/><s n="pprs"/></r></p></e>
   <e>       <p><l>nin</l>       <r><s n="vblex"/><s n="subs"/></r></p></e>
 </pardef>
+<pardef n="big__vblex">
+  <e>       <p><l></l>          <r><s n="vblex"/><s n="inf"/></r></p></e>
+  <e>       <p><l></l>          <r><s n="vblex"/><s n="pres"/></r></p></e>
+  <e>       <p><l>s</l>         <r><s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+  <e>       <p><l>it</l>         <r><s n="vblex"/><s n="past"/></r></p></e>
+  <e>       <p><l>it</l>         <r><s n="vblex"/><s n="pp"/></r></p></e>
+  <e>       <p><l>gin</l>       <r><s n="vblex"/><s n="ger"/></r></p></e>
+  <e>       <p><l>gin</l>       <r><s n="vblex"/><s n="pprs"/></r></p></e>
+  <e>       <p><l>gin</l>       <r><s n="vblex"/><s n="subs"/></r></p></e>
+</pardef>
 <pardef n="leuk__vblex">
   <e>       <p><l></l>          <r><s n="vblex"/><s n="inf"/></r></p></e>
   <e>       <p><l></l>          <r><s n="vblex"/><s n="pres"/></r></p></e>
   <e>       <p><l>s</l>         <r><s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
   <e>       <p><l>it</l>        <r><s n="vblex"/><s n="past"/></r></p></e>
   <e>       <p><l>it</l>        <r><s n="vblex"/><s n="pp"/></r></p></e>
+  <e>       <p><l>in</l>        <r><s n="vblex"/><s n="ger"/></r></p></e>
+  <e>       <p><l>in</l>        <r><s n="vblex"/><s n="pprs"/></r></p></e>
+  <e>       <p><l>in</l>        <r><s n="vblex"/><s n="subs"/></r></p></e>
+</pardef>
+<pardef n="airm__vblex">
+  <e>       <p><l></l>          <r><s n="vblex"/><s n="inf"/></r></p></e>
+  <e>       <p><l></l>          <r><s n="vblex"/><s n="pres"/></r></p></e>
+  <e>       <p><l>s</l>         <r><s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+  <e>       <p><l>ed</l>        <r><s n="vblex"/><s n="past"/></r></p></e>
+  <e>       <p><l>ed</l>        <r><s n="vblex"/><s n="pp"/></r></p></e>
+  <e>       <p><l>in</l>        <r><s n="vblex"/><s n="ger"/></r></p></e>
+  <e>       <p><l>in</l>        <r><s n="vblex"/><s n="pprs"/></r></p></e>
+  <e>       <p><l>in</l>        <r><s n="vblex"/><s n="subs"/></r></p></e>
+</pardef>
+<pardef n="advis/e__vblex">
+  <e>       <p><l>e</l>          <r><s n="vblex"/><s n="inf"/></r></p></e>
+  <e>       <p><l>e</l>          <r><s n="vblex"/><s n="pres"/></r></p></e>
+  <e>       <p><l>es</l>         <r><s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+  <e>       <p><l>ed</l>        <r><s n="vblex"/><s n="past"/></r></p></e>
+  <e>       <p><l>ed</l>        <r><s n="vblex"/><s n="pp"/></r></p></e>
+  <e>       <p><l>in</l>        <r><s n="vblex"/><s n="ger"/></r></p></e>
+  <e>       <p><l>in</l>        <r><s n="vblex"/><s n="pprs"/></r></p></e>
+  <e>       <p><l>in</l>        <r><s n="vblex"/><s n="subs"/></r></p></e>
+</pardef>
+<pardef n="annoonc/e__vblex">
+  <e>       <p><l>e</l>          <r><s n="vblex"/><s n="inf"/></r></p></e>
+  <e>       <p><l>e</l>          <r><s n="vblex"/><s n="pres"/></r></p></e>
+  <e>       <p><l>es</l>         <r><s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+  <e>       <p><l>ed</l>        <r><s n="vblex"/><s n="past"/></r></p></e>
+  <e>       <p><l>ed</l>        <r><s n="vblex"/><s n="pp"/></r></p></e>
+  <e>       <p><l>in</l>        <r><s n="vblex"/><s n="ger"/></r></p></e>
+  <e>       <p><l>in</l>        <r><s n="vblex"/><s n="pprs"/></r></p></e>
+  <e>       <p><l>in</l>        <r><s n="vblex"/><s n="subs"/></r></p></e>
+</pardef>
+<pardef n="bauch/le__vblex">
+  <e>       <p><l>le</l>          <r><s n="vblex"/><s n="inf"/></r></p></e>
+  <e>       <p><l>le</l>          <r><s n="vblex"/><s n="pres"/></r></p></e>
+  <e>       <p><l>les</l>         <r><s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+  <e>       <p><l>elt</l>        <r><s n="vblex"/><s n="past"/></r></p></e>
+  <e>       <p><l>elt</l>        <r><s n="vblex"/><s n="pp"/></r></p></e>
+  <e>       <p><l>lin</l>        <r><s n="vblex"/><s n="ger"/></r></p></e>
+  <e>       <p><l>lin</l>        <r><s n="vblex"/><s n="pprs"/></r></p></e>
+  <e>       <p><l>lin</l>        <r><s n="vblex"/><s n="subs"/></r></p></e>
+</pardef>
+<pardef n="bok/e__vblex">
+  <e>       <p><l>e</l>          <r><s n="vblex"/><s n="inf"/></r></p></e>
+  <e>       <p><l>e</l>          <r><s n="vblex"/><s n="pres"/></r></p></e>
+  <e>       <p><l>es</l>         <r><s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+  <e>       <p><l>it</l>        <r><s n="vblex"/><s n="past"/></r></p></e>
+  <e>       <p><l>t</l>        <r><s n="vblex"/><s n="pp"/></r></p></e>
+  <e>       <p><l>in</l>        <r><s n="vblex"/><s n="ger"/></r></p></e>
+  <e>       <p><l>in</l>        <r><s n="vblex"/><s n="pprs"/></r></p></e>
+  <e>       <p><l>in</l>        <r><s n="vblex"/><s n="subs"/></r></p></e>
+</pardef>
+<pardef n="jyne__vblex">
+  <e>       <p><l></l>          <r><s n="vblex"/><s n="inf"/></r></p></e>
+  <e>       <p><l></l>          <r><s n="vblex"/><s n="pres"/></r></p></e>
+  <e>       <p><l>s</l>         <r><s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+  <e>       <p><l>t</l>         <r><s n="vblex"/><s n="past"/></r></p></e>
+  <e>       <p><l>t</l>         <r><s n="vblex"/><s n="pp"/></r></p></e>
+  <e r="LR"><p><l>n</l>         <r><s n="vblex"/><s n="pp"/></r></p></e>
   <e>       <p><l>in</l>        <r><s n="vblex"/><s n="ger"/></r></p></e>
   <e>       <p><l>in</l>        <r><s n="vblex"/><s n="pprs"/></r></p></e>
   <e>       <p><l>in</l>        <r><s n="vblex"/><s n="subs"/></r></p></e>
@@ -1705,10 +1786,6 @@
 <e lm="yestreen">         <i>yestreen</i><par n="hoose__n"/></e>            
 <e lm="yett">             <i>yett</i><par n="hoose__n"/></e>
 
-  <!-- VERBS -->
-<e lm="act">             <i>act</i><par n="leuk__vblex"/></e>
-<e lm="admeet">          <i>admeet</i><par n="leuk__vblex"/></e>
-<e lm="belang">          <i>belang</i><par n="leuk__vblex"/></e>
 
   <!-- ADVERBS -->    
 <e lm="whaur">           <i>whaur</i><par n="whaur__adv"/></e>
@@ -1880,69 +1957,37 @@
     <!-- {{{ -->
 
 <e lm="BBC" a="doriua">  <i>BBC</i><par n="BBC__n"/></e>
-
 <e lm="CD" a="carmentano"><i>CD</i><par n="BBC__n"/></e>
-
 <e lm="CDC">             <i>CDC</i><par n="BBC__n"/></e>
-
 <e lm="DNA" a="carmentano"><i>DNA</i><par n="BBC__n"/></e>
-
 <e lm="DVD" a="carmentano"><i>DVD</i><par n="BBC__n"/></e>
-
 <e lm="ECB">             <i>ECB</i><par n="BBC__n"/></e>
-
 <e lm="ERC">             <i>ERC</i><par n="BBC__n"/></e>
-
 <e lm="ETA">             <i>ETA</i><par n="BBC__n"/></e>
-
 <e lm="FBI" a="doriua">  <i>FBI</i><par n="BBC__n"/></e>
-
 <e lm="GDP" a="carmentano"><i>GDP</i><par n="BBC__n"/></e>
-
 <e lm="IBM" a="doriua">  <i>IBM</i><par n="BBC__n"/></e>
-
 <e lm="IP" a="doriua">   <i>IP</i><par n="BBC__n"/></e>
-
 <e lm="NASA" a="doriua"> <i>NASA</i><par n="BBC__n"/></e>
-
 <e lm="NATO" a="doriua"> <i>NATO</i><par n="BBC__n"/></e>
-
 <e lm="NBC" a="doriua">  <i>NBC</i><par n="BBC__n"/></e>
-
 <e lm="PC" a="carmentano"><i>PC</i><par n="BBC__n"/></e>
-
 <e lm="PNB">             <i>PNB</i><par n="BBC__n"/></e>
-
 <e lm="PP">              <i>PP</i><par n="BBC__n"/></e>
-
 <e lm="PSC">             <i>PSC</i><par n="BBC__n"/></e>
-
 <e lm="PSOE">            <i>PSOE</i><par n="BBC__n"/></e>
-
 <e lm="TV">              <i>TV</i><par n="BBC__n"/></e>
-
 <e lm="U.N.">            <i>U.N.</i><par n="BBC__n"/></e>
-
 <e lm="UEFA">            <i>UEFA</i><par n="BBC__n"/></e>
-
 <e lm="UN">              <i>UN</i><par n="BBC__n"/></e>
-
 <e lm="VAT">             <i>VAT</i><par n="BBC__n"/></e>
-
 <e lm="NASDAQ">          <i>NASDAQ</i><par n="BBC__n"/></e>
-
 <e lm="NYSE">            <i>NYSE</i><par n="BBC__n"/></e>
-
 <e lm="USSR">            <i>USSR</i><par n="BBC__n"/></e>
-
 <e lm="S.A.">            <i>S.A.</i><par n="BBC__n"/></e>
-
 <e lm="pdf" a="prompsit2cdl"><i>pdf</i><par n="BBC__n"/></e>
-
 <e lm="http" a="prompsit2cdl"><i>http</i><par n="BBC__n"/></e>
-
 <e lm="https" a="prompsit2cdl"><i>https</i><par n="BBC__n"/></e>
-
 <e lm="mp3" a="prompsit2cdl"><i>mp3</i><par n="BBC__n"/></e>
 
     <!-- }}} --> 
@@ -13818,8 +13863,51 @@
     <!-- Verbs -->
     
 <e lm="stert">           <i>stert</i><par n="leuk__vblex"/></e>
-    <!-- }}} -->
-    <!-- /new-stuff -->
+
+<e lm="act">             <i>act</i><par n="leuk__vblex"/></e>
+<e lm="admeet">          <i>admeet</i><par n="leuk__vblex"/></e>
+<e lm="belang">          <i>belang</i><par n="leuk__vblex"/></e>
+<e lm="advise">           <i>advise</i><par n="advis/e__vblex"/></e>        
+<e lm="arm">              <i>airm</i><par n="airm__vblex"/></e>             
+<e lm="direct">           <i>airt</i><par n="leuk__vblex"/></e>             
+<e lm="guide">            <i>airt</i><par n="leuk__vblex"/></e>             
+<e lm="alarm">            <i>alairm</i><par n="airm__vblex"/></e>           
+<e lm="allow">            <i>allou</i><par n="airm__vblex"/></e>            
+<e lm="announce">         <i>annoonce</i><par n="annoonc/e__vblex"/></e>    
+<e lm="announce">         <i>annunce</i><par n="annoonc/e__vblex"/></e>     
+<e lm="open">             <i>appen</i><par n="jyne__vblex"/></e>            
+<e lm="attach">           <i>appone</i><par n="advis/e__vblex"/></e>        
+<e lm="aren't">           <i>arena</i><par n="leuk__vblex"/></e>            
+<e lm="aren't">           <i>arenae</i><par n="leuk__vblex"/></e>           
+<e lm="attempt">          <i>attempt</i><par n="leuk__vblex"/></e>          
+<e lm="awaird">           <i>awaird</i><par n="leuk__vblex"/></e>           
+<e lm="owe">              <i>awe</i><par n="leuk__vblex"/></e>              
+<e lm="own">              <i>awn</i><par n="jyne__vblex"/></e>              
+<e lm="make pregnant">    <i>bairn</i><par n="jyne__vblex"/></e>            
+<e lm="hit">              <i>banjo</i><par n="airm__vblex"/></e>            
+<e lm="baptise">          <i>bapteese</i><par n="advis/e__vblex"/></e>      
+<e lm="bother">           <i>bather</i><par n="jyne__vblex"/></e>           
+<e lm="distort">          <i>bauchle</i><par n="bauch/le__vblex"/></e>      
+<e lm="fester">           <i>beal</i><par n="jyne__vblex"/></e>             
+<e lm="bear">             <i>beir</i><par n="leuk__vblex"/></e>             
+<e lm="belong">           <i>belang</i><par n="belang__vblex"/></e>         
+<e lm="is">               <i>bes</i><par n="leuk__vblex"/></e>              
+<e lm="are">              <i>bes</i><par n="leuk__vblex"/></e>              
+<e lm="live">             <i>bide</i><par n="leuk__vblex"/></e>             
+<e lm="reside">           <i>bide</i><par n="leuk__vblex"/></e>             
+<e lm="build">            <i>big</i><par n="big__vblex"/></e>               
+<e lm="boil">             <i>bile</i><par n="jyne__vblex"/></e>             
+<e lm="bind">             <i>bind</i><par n="leuk__vblex"/></e>             
+<e lm="bite">             <i>bite</i><par n="leuk__vblex"/></e>             
+<e lm="blow">             <i>blaw</i><par n="leuk__vblex"/></e>             
+<e lm="chat">             <i>blether</i><par n="airm__vblex"/></e>          
+<e lm="talk">             <i>blether</i><par n="airm__vblex"/></e>          
+<e lm="vomit">            <i>boak</i><par n="leuk__vblex"/></e>             
+<e lm="vomit">            <i>boke</i><par n="bok/e__vblex"/></e>            
+<e lm="borrow">           <i>borrae</i><par n="gie__vblex"/></e>            
+<e lm="vomit">            <i>bowk</i><par n="leuk__vblex"/></e>             
+<e lm="broadcast">        <i>braidcast</i><par n="leuk__vblex"/></e>        
+<e lm="branch">           <i>brainch</i><par n="leuk__vblex"/></e>
 
   </section>
 </dictionary>

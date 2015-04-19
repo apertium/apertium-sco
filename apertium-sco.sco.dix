@@ -301,11 +301,7 @@
 <pardef n="caur__pl__n">
   <e>       <p><l></l>          <r><s n="n"/><s n="pl"/></r></p></e>
 </pardef>
-<pardef n="access__n">
-  <e r="RL"><p><l></l>          <r><s n="n"/><s n="sp"/></r></p></e>
-  <e>       <p><l></l>          <r><s n="n"/><s n="sg"/></r></p></e>
-  <e>       <p><l>es</l>        <r><s n="n"/><s n="pl"/></r></p></e>
-</pardef>
+
 <pardef n="access__n">
   <e r="RL"><p><l></l>          <r><s n="n"/><s n="sp"/></r></p></e>
   <e>       <p><l></l>          <r><s n="n"/><s n="sg"/></r></p></e>
@@ -665,6 +661,7 @@
 <e lm="ticket">          <i>ticket</i><par n="hoose__n"/></e>
 <e lm="wean">            <i>wean</i><par n="hoose__n"/></e>
 
+  <!-- New nouns TODO: merge with old, separate irregulars-->
 <e lm="accoont">          <i>accoont</i><par n="hoose__n"/></e>             
 <e lm="accoontant">       <i>accoontant</i><par n="hoose__n"/></e>          
 <e lm="address">          <i>address</i><par n="hoose__n"/></e>             
@@ -1708,6 +1705,10 @@
 <e lm="yestreen">         <i>yestreen</i><par n="hoose__n"/></e>            
 <e lm="yett">             <i>yett</i><par n="hoose__n"/></e>
 
+  <!-- VERBS -->
+<e lm="act">             <i>act</i><par n="leuk__vblex"/></e>
+<e lm="admeet">          <i>admeet</i><par n="leuk__vblex"/></e>
+<e lm="belang">          <i>belang</i><par n="leuk__vblex"/></e>
 
   <!-- ADVERBS -->    
 <e lm="whaur">           <i>whaur</i><par n="whaur__adv"/></e>

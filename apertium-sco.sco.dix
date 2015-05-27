@@ -651,12 +651,12 @@
   <e>       <p><l>in</l>        <r><s n="vblex"/><s n="pprs"/></r></p></e>
   <e>       <p><l>in</l>        <r><s n="vblex"/><s n="subs"/></r></p></e>
 </pardef>
-<pardef n="come__vblex">
-  <e>       <p><l></l>          <r><s n="vblex"/><s n="inf"/></r></p></e>
-  <e>       <p><l></l>          <r><s n="vblex"/><s n="pres"/></r></p></e>
-  <e>       <p><l>s</l>         <r><s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
-  <e>       <p><l></l>          <r><s n="vblex"/><s n="past"/></r></p></e>
-  <e>       <p><l></l>          <r><s n="vblex"/><s n="pp"/></r></p></e>
+<pardef n="com/e__vblex">
+  <e>       <p><l>e</l>          <r><s n="vblex"/><s n="inf"/></r></p></e>
+  <e>       <p><l>e</l>          <r><s n="vblex"/><s n="pres"/></r></p></e>
+  <e>       <p><l>es</l>         <r><s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+  <e>       <p><l>e</l>          <r><s n="vblex"/><s n="past"/></r></p></e>
+  <e>       <p><l>e</l>          <r><s n="vblex"/><s n="pp"/></r></p></e>
   <e>       <p><l>in</l>        <r><s n="vblex"/><s n="ger"/></r></p></e>
   <e>       <p><l>in</l>        <r><s n="vblex"/><s n="pprs"/></r></p></e>
   <e>       <p><l>in</l>        <r><s n="vblex"/><s n="subs"/></r></p></e>
@@ -920,6 +920,56 @@
   <e>       <p><l>kin</l>          <r><s n="vblex"/><s n="ger"/></r></p></e>
   <e>       <p><l>kin</l>          <r><s n="vblex"/><s n="pprs"/></r></p></e>
   <e>       <p><l>kin</l>          <r><s n="vblex"/><s n="subs"/></r></p></e>
+</pardef>
+<pardef n="me/et__vblex">
+  <e>       <p><l>et</l>           <r><s n="vblex"/><s n="inf"/></r></p></e>
+  <e>       <p><l>et</l>           <r><s n="vblex"/><s n="pres"/></r></p></e>
+  <e>       <p><l>ets</l>          <r><s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+  <e>       <p><l>t</l>            <r><s n="vblex"/><s n="past"/></r></p></e>
+  <e>       <p><l>t</l>            <r><s n="vblex"/><s n="pp"/></r></p></e>
+  <e>       <p><l>etin</l>         <r><s n="vblex"/><s n="ger"/></r></p></e>
+  <e>       <p><l>etin</l>         <r><s n="vblex"/><s n="pprs"/></r></p></e>
+  <e>       <p><l>etin</l>         <r><s n="vblex"/><s n="subs"/></r></p></e>
+</pardef>
+<pardef n="owerset__vblex">
+  <e>       <p><l></l>             <r><s n="vblex"/><s n="inf"/></r></p></e>
+  <e>       <p><l></l>             <r><s n="vblex"/><s n="pres"/></r></p></e>
+  <e>       <p><l>s</l>            <r><s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+  <e>       <p><l></l>             <r><s n="vblex"/><s n="past"/></r></p></e>
+  <e>       <p><l>ten</l>          <r><s n="vblex"/><s n="pp"/></r></p></e>
+  <e>       <p><l>tin</l>          <r><s n="vblex"/><s n="ger"/></r></p></e>
+  <e>       <p><l>tin</l>          <r><s n="vblex"/><s n="pprs"/></r></p></e>
+  <e>       <p><l>tin</l>          <r><s n="vblex"/><s n="subs"/></r></p></e>
+</pardef>
+<pardef n="pit__vblex">
+  <e>       <p><l></l>             <r><s n="vblex"/><s n="inf"/></r></p></e>
+  <e>       <p><l></l>             <r><s n="vblex"/><s n="pres"/></r></p></e>
+  <e>       <p><l>s</l>            <r><s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+  <e>       <p><l></l>             <r><s n="vblex"/><s n="past"/></r></p></e>
+  <e>       <p><l></l>             <r><s n="vblex"/><s n="pp"/></r></p></e>
+  <e>       <p><l>tin</l>          <r><s n="vblex"/><s n="ger"/></r></p></e>
+  <e>       <p><l>tin</l>          <r><s n="vblex"/><s n="pprs"/></r></p></e>
+  <e>       <p><l>tin</l>          <r><s n="vblex"/><s n="subs"/></r></p></e>
+</pardef>
+<pardef n="r/ead__vblex">
+  <e>       <p><l>ead</l>          <r><s n="vblex"/><s n="inf"/></r></p></e>
+  <e>       <p><l>ead</l>          <r><s n="vblex"/><s n="pres"/></r></p></e>
+  <e>       <p><l>eads</l>         <r><s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+  <e>       <p><l>ade</l>          <r><s n="vblex"/><s n="past"/></r></p></e>
+  <e>       <p><l>ead</l>          <r><s n="vblex"/><s n="pp"/></r></p></e>
+  <e>       <p><l>eadin</l>        <r><s n="vblex"/><s n="ger"/></r></p></e>
+  <e>       <p><l>eadin</l>        <r><s n="vblex"/><s n="pprs"/></r></p></e>
+  <e>       <p><l>eadin</l>        <r><s n="vblex"/><s n="subs"/></r></p></e>
+</pardef>
+<pardef n="redd__vblex">
+  <e>       <p><l></l>          <r><s n="vblex"/><s n="inf"/></r></p></e>
+  <e>       <p><l></l>          <r><s n="vblex"/><s n="pres"/></r></p></e>
+  <e>       <p><l>s</l>         <r><s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+  <e>       <p><l></l>          <r><s n="vblex"/><s n="past"/></r></p></e>
+  <e>       <p><l></l>          <r><s n="vblex"/><s n="pp"/></r></p></e>
+  <e>       <p><l>in</l>        <r><s n="vblex"/><s n="ger"/></r></p></e>
+  <e>       <p><l>in</l>        <r><s n="vblex"/><s n="pprs"/></r></p></e>
+  <e>       <p><l>in</l>        <r><s n="vblex"/><s n="subs"/></r></p></e>
 </pardef>
 <pardef n="d/ae__vaux">
   <e>       <p><l>ae</l>        <r>ae<s n="vbdo"/><s n="pres"/></r></p><par n="na__S"/></e>
@@ -8436,18 +8486,16 @@
 
     <!-- Irregular Verbs -->    
 
-<e lm="come">              <i>come</i><par n="come__vblex"/></e>
+<e lm="come">              <i>come</i><par n="com/e__vblex"/></e>
 <e lm="stoop">             <i>coorie</i><par n="cour/ie__vblex"/></e>
 <e lm="embrace">           <i>coorie</i><par n="cour/ie__vblex"/></e>
 <e lm="stoop">             <i>courie</i><par n="cour/ie__vblex"/></e>
 <e lm="embrace">           <i>courie</i><par n="cour/ie__vblex"/></e>
 <e lm="crow">              <i>crow</i><par n="craw__vblex"/></e>
-<e lm="cry">               <i>cry</i><par n="cr/y__vblex"/></e>
 <e lm="die">               <i>dee</i><par n="dee__vblex"/></e>
 <e lm="strike">            <i>ding</i><par n="d/ing__vblex"/></e>
 <e lm="vibrate">           <i>dinnle</i><par n="bauch/le__vblex"/></e>
 <e lm="vibrate">           <i>dive</i><par n="advis/e__vblex"/></e>
-<e lm="hit">               <i>dunch</i><par n="dunch__vblex"/></e>
 <e lm="eat">               <i>eat</i><par n="e/at__vblex"/></e>
 <e lm="fall">              <i>faw</i><par n="f/aw__vblex"/></e>
 <e lm="feel">              <i>feel</i><par n="fe/el__vblex"/></e>
@@ -8470,6 +8518,12 @@
 <e lm="lie">               <i>lie</i><par n="l/ie__vblex"/></e>
 <e lm="lose">              <i>loss</i><par n="los/s__vblex"/></e>
 <e lm="make">              <i>mak</i><par n="ma/k__vblex"/></e>
+<e lm="meet">              <i>mak</i><par n="me/et__vblex"/></e>
+<e lm="translate">         <i>mak</i><par n="owerset__vblex"/></e>
+<e lm="put">               <i>pit</i><par n="pit__vblex"/></e>
+<e lm="read">              <i>read</i><par n="r/ead__vblex"/></e>
+<e lm="tidy">              <i>redd</i><par n="redd__vblex"/></e>
+<e lm="prepare">           <i>redd</i><par n="redd__vblex"/></e>
 
 
     <!-- Regular Verbs -->    
@@ -8553,7 +8607,8 @@
 <e lm="grease">           <i>creash</i><par n="airm__vblex"/></e>           
 <e lm="credit">           <i>creedit</i><par n="jyne__vblex"/></e>          
 <e lm="criticise">        <i>creeticeese</i><par n="gie__vblex"/></e>       
-<e lm="crown">            <i>croun</i><par n="jyne__vblex"/></e>            
+<e lm="crown">            <i>croun</i><par n="jyne__vblex"/></e> 
+<e lm="cry">              <i>cry</i><par n="cr/y__vblex"/></e>           
 <e lm="do">               <i>dae</i><par n="gie__vblex"/></e>               
 <e lm="wander">           <i>dander</i><par n="scowf__vblex"/></e>          
 <e lm="stroll">           <i>dander</i><par n="scowf__vblex"/></e>          
@@ -8580,7 +8635,8 @@
 <e lm="suffer">           <i>dree</i><par n="gie__vblex"/></e>              
 <e lm="undergo">          <i>dree</i><par n="gie__vblex"/></e>              
 <e lm="drip">             <i>dreep</i><par n="airm__vblex"/></e>            
-<e lm="drown">            <i>droun</i><par n="scowf__vblex"/></e>           
+<e lm="drown">            <i>droun</i><par n="scowf__vblex"/></e> 
+<e lm="hit">              <i>dunch</i><par n="dunch__vblex"/></e>          
 <e lm="add">              <i>eik</i><par n="jyne__vblex"/></e>              
 <e lm="added">            <i>eikit</i><par n="jyne__vblex"/></e>            
 <e lm="elect">            <i>elect</i><par n="airm__vblex"/></e>            
@@ -8729,7 +8785,9 @@
 <e lm="note">             <i>note</i><par n="jyne__vblex"/></e>             
 <e lm="carry">            <i>oxter</i><par n="scowf__vblex"/></e>           
 <e lm="lead">             <i>oxter</i><par n="scowf__vblex"/></e>           
-<e lm="part">             <i>pairt</i><par n="jyne__vblex"/></e>            
+<e lm="part">             <i>pairt</i><par n="jyne__vblex"/></e> 
+<e lm="party">            <i>pairty</i><par n="cr/y__vblex"/></e> 
+<e lm="take sides">       <i>pairty</i><par n="cr/y__vblex"/></e>          
 <e lm="pass">             <i>pass</i><par n="scowf__vblex"/></e>            
 <e lm="shuffle">          <i>pauchle</i><par n="airm__vblex"/></e>          
 <e lm="pant">             <i>pech</i><par n="scowf__vblex"/></e>            
@@ -8743,13 +8801,15 @@
 <e lm="play">             <i>play</i><par n="airm__vblex"/></e>             
 <e lm="complain">         <i>pleen</i><par n="airm__vblex"/></e>            
 <e lm="plough">           <i>pleuch</i><par n="airm__vblex"/></e>           
-<e lm="pocket">           <i>pootch</i><par n="airm__vblex"/></e>           
+<e lm="pocket">           <i>pootch</i><par n="airm__vblex"/></e> 
+<e lm="polish">           <i>polis</i><par n="dunch__vblex"/></e>          
 <e lm="post">             <i>post</i><par n="jyne__vblex"/></e>             
 <e lm="pull">             <i>pou</i><par n="airm__vblex"/></e>              
 <e lm="present">          <i>praisent</i><par n="jyne__vblex"/></e>         
 <e lm="proceed">          <i>process</i><par n="airm__vblex"/></e>          
 <e lm="proclaim">         <i>proclaim</i><par n="airm__vblex"/></e>         
-<e lm="pronounce">        <i>pronoonce</i><par n="advis/e__vblex"/></e>   
+<e lm="pronounce">        <i>pronoonce</i><par n="advis/e__vblex"/></e> 
+<e lm="pain">             <i>pyne</i><par n="advis/e__vblex"/></e>  
 <e lm="raise">            <i>raise</i><par n="advis/e__vblex"/></e>         
 <e lm="search">           <i>rake</i><par n="airm__vblex"/></e>             
 <e lm="stretch">          <i>rax</i><par n="airm__vblex"/></e>              

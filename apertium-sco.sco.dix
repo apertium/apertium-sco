@@ -8497,31 +8497,45 @@
 
     <!-- Adjectives -->
 
-<e lm="lang">            <i>lang</i><par n="expensive__adj"/></e>
-<e lm="auld">            <i>auld</i><par n="expensive__adj"/></e>
-<e lm="new">             <i>new</i><par n="expensive__adj"/></e>
+<e lm="aa">              <i>aa</i><par n="expensive__adj"/></e>
+<e lm="aald">            <i>aald</i><par n="lang/__adj"/></e>
+<e lm="accredited">      <i>accredited</i><par n="expensive__adj"/></e>
 <e lm="ain">             <i>ain</i><par n="expensive__adj"/></e>
 
-<e lm="accredited">      <i>accredited</i><par n="expensive__adj"/></e>
-<e lm="customisable">    <i>customisable</i><par n="expensive__adj"/></e>
-<e lm="custom">          <i>custom</i><par n="expensive__adj"/></e>
-<e lm="ornate">          <i>ornate</i><par n="expensive__adj"/></e>
-<e lm="instructive">     <i>instructive</i><par n="expensive__adj"/></e>
+<e lm="auld">            <i>auld</i><par n="expensive__adj"/></e>
+
 <e lm="built">           <i>built</i><par n="expensive__adj"/></e>
+
+<e lm="custom">          <i>custom</i><par n="expensive__adj"/></e>
+<e lm="customisable">    <i>customisable</i><par n="expensive__adj"/></e>
+
 <e lm="departmental">    <i>departmental</i><par n="expensive__adj"/></e>
-<e lm="unrealistic">     <i>unrealistic</i><par n="expensive__adj"/></e>
+
+
+<e lm="instructive">     <i>instructive</i><par n="expensive__adj"/></e>
+
+<e lm="ornate">          <i>ornate</i><par n="expensive__adj"/></e>
+
+
+<e lm="lang">            <i>lang</i><par n="expensive__adj"/></e>
+<e lm="new">             <i>new</i><par n="expensive__adj"/></e>
+
 <e lm="soothron">        <i>soothron</i><par n="expensive__adj"/></e>
 
-<e lm="Inglis">          <i>Inglis</i><par n="inglis__adj"/></e>
-<e lm="Frainch">         <i>Frainch</i><par n="inglis__adj"/></e>
+<e lm="unrealistic">     <i>unrealistic</i><par n="expensive__adj"/></e>
+
+
 
 <e lm="British">         <i>British</i><par n="expensive__adj"/></e>
 <e lm="Cornish">         <i>Cornish</i><par n="expensive__adj"/></e>
 <e lm="English">         <i>English</i><par n="expensive__adj"/></e>
+<e lm="Frainch">         <i>Frainch</i><par n="inglis__adj"/></e>
+<e lm="Inglis">          <i>Inglis</i><par n="inglis__adj"/></e>
 <e lm="Jewish">          <i>Jewish</i><par n="expensive__adj"/></e>
 <e lm="Spanish">         <i>Spanish</i><par n="expensive__adj"/></e>
 <e lm="Welsh">           <i>Welsh</i><par n="expensive__adj"/></e>
 <e lm="anti-Welsh">      <i>anti-Welsh</i><par n="expensive__adj"/></e>
+
 
     <!-- TODO: need to check if these can be non-synthetic too -->
 <e lm="fresh">           <i>fresh</i><par n="lang/__adj"/></e>
@@ -8793,85 +8807,73 @@
 
     <!-- Irregular Verbs -->    
 
-<e lm="owe">               <i>a</i><par n="a/we__vblex"/></e>
-<e lm="bear">              <i>b</i><par n="b/eir__vblex"/></e>
-<e lm="live">              <i>bid</i><par n="bid/e__vblex"/></e>
-<e lm="reside">            <i>bid</i><par n="bid/e__vblex"/></e>
+<e lm="awe">               <i>a</i><par n="a/we__vblex"/></e>
+<e lm="beir">              <i>b</i><par n="b/eir__vblex"/></e>
+<e lm="bide">              <i>bid</i><par n="bid/e__vblex"/></e>
 <e lm="bind">              <i>b</i><par n="b/ind__vblex"/></e>
 <e lm="bite">              <i>b</i><par n="b/ite__vblex"/></e>
-<e lm="blow">              <i>blaw</i><par n="blaw__vblex"/></e>
-<e lm="break">             <i>brak</i><par n="brak__vblex"/></e>
-<e lm="break">             <i>brek</i><par n="brak__vblex"/></e>
+<e lm="blaw">              <i>blaw</i><par n="blaw__vblex"/></e>
+<e lm="brak">              <i>brak</i><par n="brak__vblex"/></e>
+<e lm="brek">              <i>brek</i><par n="brak__vblex"/></e>
 <e lm="bring">             <i>br</i><par n="br/ing__vblex"/></e>
 <e lm="burst">             <i>b</i><par n="b/urst__vblex"/></e>
 <e lm="buy">               <i>b</i><par n="b/uy__vblex"/></e>
 <e lm="bury">              <i>bur</i><par n="bur/y__vblex"/></e>
 <e lm="bery">              <i>ber</i><par n="bur/y__vblex"/></e>
-<e lm="boil">              <i>byl</i><par n="byl/e__vblex"/></e>
-<e lm="chew">              <i>ch</i><par n="ch/aw__vblex"/></e>
+<e lm="byle">              <i>byl</i><par n="byl/e__vblex"/></e>
+<e lm="chaw">              <i>ch</i><par n="ch/aw__vblex"/></e>
 <e lm="come">              <i>come</i><par n="com/e__vblex"/></e>
-<e lm="stoop">             <i>coorie</i><par n="cour/ie__vblex"/></e>
-<e lm="embrace">           <i>coorie</i><par n="cour/ie__vblex"/></e>
-<e lm="stoop">             <i>courie</i><par n="cour/ie__vblex"/></e>
-<e lm="embrace">           <i>courie</i><par n="cour/ie__vblex"/></e>
-<e lm="crow">              <i>crow</i><par n="craw__vblex"/></e>
-<e lm="die">               <i>dee</i><par n="dee__vblex"/></e>
-<e lm="strike">            <i>ding</i><par n="d/ing__vblex"/></e>
-<e lm="vibrate">           <i>dinnle</i><par n="bauch/le__vblex"/></e>
-<e lm="vibrate">           <i>dive</i><par n="advis/e__vblex"/></e>
-<e lm="eat">               <i>eat</i><par n="e/at__vblex"/></e>
-<e lm="fall">              <i>faw</i><par n="f/aw__vblex"/></e>
-<e lm="feel">              <i>feel</i><par n="fe/el__vblex"/></e>
-<e lm="find">              <i>find</i><par n="f/ind__vblex"/></e>
-<e lm="fling">             <i>fling</i><par n="fl/ing__vblex"/></e>
-<e lm="go">                <i>gae</i><par n="ga/e__vblex"/></e>
-<e lm="go">                <i>gan</i><par n="ga/n__vblex"/></e>
+<e lm="courie">            <i>cour</i><par n="cour/ie__vblex"/></e>
+<e lm="craw">              <i>craw</i><par n="craw__vblex"/></e>
+<e lm="dee">               <i>dee</i><par n="dee__vblex"/></e>
+<e lm="ding">              <i>d</i><par n="d/ing__vblex"/></e>
+<e lm="dinnle">            <i>dinn</i><par n="bauch/le__vblex"/></e>
+<e lm="dive">              <i>div</i><par n="advis/e__vblex"/></e>
+<e lm="eat">               <i>e</i><par n="e/at__vblex"/></e>
+<e lm="faw">               <i>f</i><par n="f/aw__vblex"/></e>
+<e lm="feel">              <i>fe</i><par n="fe/el__vblex"/></e>
+<e lm="find">              <i>f</i><par n="f/ind__vblex"/></e>
+<e lm="fling">             <i>fl</i><par n="fl/ing__vblex"/></e>
+<e lm="gae">               <i>ga</i><par n="ga/e__vblex"/></e>
+<e lm="gan">               <i>ga</i><par n="ga/n__vblex"/></e>
 <e lm="gang">              <i>ga</i><par n="ga/ng__vblex"/></e>
-<e lm="compel">            <i>gar</i><par n="gar__vblex"/></e>
-<e lm="get">               <i>get</i><par n="g/et__vblex"/></e>
-<e lm="get">               <i>git</i><par n="g/it__vblex"/></e>
-<e lm="cry">               <i>greet</i><par n="gr/eet__vblex"/></e>
-<e lm="lament">            <i>greet</i><par n="gr/eet__vblex"/></e>
-<e lm="go">                <i>gyang</i><par n="g/yang__vblex"/></e>
-<e lm="cover">             <i>hap</i><par n="hap__vblex"/></e>
-<e lm="hold">              <i>haud</i><par n="haud__vblex"/></e>
+<e lm="gar">               <i>gar</i><par n="gar__vblex"/></e>
+<e lm="get">               <i>g</i><par n="g/et__vblex"/></e>
+<e lm="git">               <i>g</i><par n="g/it__vblex"/></e>
+<e lm="greet">             <i>gr</i><par n="gr/eet__vblex"/></e>
+<e lm="gyang">             <i>g</i><par n="g/yang__vblex"/></e>
+<e lm="hapr">              <i>hap</i><par n="hap__vblex"/></e>
+<e lm="houd">              <i>haud</i><par n="haud__vblex"/></e>
 <e lm="hear">              <i>hear</i><par n="hear__vblex"/></e>
-<e lm="let">               <i>lat</i><par n="l/at__vblex"/></e>
-<e lm="leave">             <i>lea</i><par n="le/a__vblex"/></e>
+<e lm="lat">               <i>l</i><par n="l/at__vblex"/></e>
+<e lm="lea">               <i>le</i><par n="le/a__vblex"/></e>
 <e lm="let">               <i>let</i><par n="let__vblex"/></e>
-<e lm="lie">               <i>lie</i><par n="l/ie__vblex"/></e>
-<e lm="lose">              <i>loss</i><par n="los/s__vblex"/></e>
-<e lm="make">              <i>mak</i><par n="ma/k__vblex"/></e>
-<e lm="meet">              <i>mak</i><par n="me/et__vblex"/></e>
-<e lm="translate">         <i>mak</i><par n="owerset__vblex"/></e>
-<e lm="put">               <i>pit</i><par n="pit__vblex"/></e>
-<e lm="read">              <i>read</i><par n="r/ead__vblex"/></e>
-<e lm="tidy">              <i>redd</i><par n="redd__vblex"/></e>
-<e lm="prepare">           <i>redd</i><par n="redd__vblex"/></e>
+<e lm="lie">               <i>l</i><par n="l/ie__vblex"/></e>
+<e lm="loss">              <i>los</i><par n="los/s__vblex"/></e>
+<e lm="mak">               <i>ma</i><par n="ma/k__vblex"/></e>
+<e lm="owerset">           <i>owerset</i><par n="owerset__vblex"/></e>
+<e lm="pit">               <i>pit</i><par n="pit__vblex"/></e>
+<e lm="redd">              <i>redd</i><par n="redd__vblex"/></e>
 <e lm="rise">              <i>rise</i><par n="r/ise__vblex"/></e>
-<e lm="run">               <i>rin</i><par n="r/in__vblex"/></e>
+<e lm="rin">               <i>rin</i><par n="r/in__vblex"/></e>
 <e lm="send">              <i>send</i><par n="sen/d__vblex"/></e>
 <e lm="speak">             <i>speak</i><par n="sp/eak__vblex"/></e>
-<e lm="speak">             <i>speik</i><par n="sp/eik__vblex"/></e>
-<e lm="speak">             <i>spik</i><par n="sp/ik__vblex"/></e>
-<e lm="speak">             <i>spikk</i><par n="sp/ikk__vblex"/></e>
+<e lm="speik">             <i>speik</i><par n="sp/eik__vblex"/></e>
+<e lm="spik">              <i>spik</i><par n="sp/ik__vblex"/></e>
+<e lm="spikk">             <i>spikk</i><par n="sp/ikk__vblex"/></e>
 <e lm="spit">              <i>spit</i><par n="spit__vblex"/></e>
-<e lm="stand">             <i>staun</i><par n="st/aun__vblex"/></e>
-<e lm="stand">             <i>staund</i><par n="st/aund__vblex"/></e>
-<e lm="take">              <i>t</i><par n="t/ak__vblex"/></e>
-<e lm="take">              <i>tel</i><par n="tel/l__vblex"/></e>
-<e lm="throw">             <i>thr</i><par n="thr/aw__vblex"/></e>
-<e lm="defy">              <i>thr</i><par n="thr/aw__vblex"/></e>
-<e lm="lose">              <i>t</i><par n="t/yne__vblex"/></e>
-<e lm="undo">              <i>und</i><par n="d/ae__vblex"/></e>
-<e lm="understand">        <i>unnerst</i><par n="st/aun__vblex"/></e>
-<e lm="understand">        <i>unnerst</i><par n="st/aund__vblex"/></e>
-<e lm="uphold">            <i>uphaud</i><par n="haud__vblex"/></e>
-<e lm="work">              <i>w</i><par n="w/ark__vblex"/></e>
+<e lm="stan">              <i>staun</i><par n="st/aun__vblex"/></e>
+<e lm="staund">            <i>staund</i><par n="st/aund__vblex"/></e>
+<e lm="tak">               <i>t</i><par n="t/ak__vblex"/></e>
+<e lm="tell">              <i>tel</i><par n="tel/l__vblex"/></e>
+<e lm="thraw">             <i>thr</i><par n="thr/aw__vblex"/></e>
+<e lm="tyne">              <i>t</i><par n="t/yne__vblex"/></e>
+<e lm="undae">             <i>und</i><par n="d/ae__vblex"/></e>
+<e lm="unnerstaun">        <i>unnerst</i><par n="st/aun__vblex"/></e>
+<e lm="unnerstaund">       <i>unnerst</i><par n="st/aund__vblex"/></e>
+<e lm="uphoud">            <i>uphaud</i><par n="haud__vblex"/></e>
+<e lm="wark">              <i>w</i><par n="w/ark__vblex"/></e>
 <e lm="win">               <i>w</i><par n="w/in__vblex"/></e>
-<e lm="beat">              <i>w</i><par n="w/in__vblex"/></e>
-<e lm="earn">              <i>w</i><par n="w/in__vblex"/></e>
-<e lm="arrive">            <i>w</i><par n="w/in__vblex"/></e>
 <e lm="write">             <i>wr</i><par n="wr/ite__vblex"/></e>
 
 

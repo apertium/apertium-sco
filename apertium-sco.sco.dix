@@ -8499,10 +8499,21 @@
 
 <e lm="aa">              <i>aa</i><par n="expensive__adj"/></e>
 <e lm="aald">            <i>aald</i><par n="lang/__adj"/></e>
+<e lm="aaricht">         <i>aaricht</i><par n="expensive__adj"/></e>
 <e lm="accredited">      <i>accredited</i><par n="expensive__adj"/></e>
+<e lm="adoptit">         <i>adoptit</i><par n="expensive__adj"/></e>
+<e lm="ae">              <i>ae</i><par n="expensive__adj"/></e>
+<e lm="aefauld">         <i>aefauld</i><par n="expensive__adj"/></e>
 <e lm="ain">             <i>ain</i><par n="expensive__adj"/></e>
-
-<e lm="auld">            <i>auld</i><par n="expensive__adj"/></e>
+<e lm="airmed">          <i>airmed</i><par n="expensive__adj"/></e>
+<e lm="alane">           <i>alane</i><par n="expensive__adj"/></e>
+<e lm="altho">           <i>altho</i><par n="expensive__adj"/></e>
+<e lm="ane">             <i>ane</i><par n="expensive__adj"/></e>
+<e lm="anither">         <i>anither</i><par n="expensive__adj"/></e>
+<e lm="artifeecial">     <i>artifeecial</i><par n="expensive__adj"/></e>
+<e lm="artifeecal">      <i>artifeecal</i><par n="expensive__adj"/></e>
+<e lm="atween">          <i>atween</i><par n="expensive__adj"/></e> 
+<e lm="auld">            <i>auld</i><par n="lang/__adj"/></e>
 
 <e lm="built">           <i>built</i><par n="expensive__adj"/></e>
 
@@ -8525,7 +8536,7 @@
 <e lm="unrealistic">     <i>unrealistic</i><par n="expensive__adj"/></e>
 
 
-
+<e lm="Africaen">        <i>Africaen</i><par n="expensive__adj"/></e>
 <e lm="British">         <i>British</i><par n="expensive__adj"/></e>
 <e lm="Cornish">         <i>Cornish</i><par n="expensive__adj"/></e>
 <e lm="English">         <i>English</i><par n="expensive__adj"/></e>

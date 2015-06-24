@@ -348,6 +348,21 @@
   <e>       <p><l>er</l>        <r><s n="adj"/><s n="sint"/><s n="comp"/></r></p></e>
   <e>       <p><l>est</l>       <r><s n="adj"/><s n="sint"/><s n="sup"/></r></p></e>
 </pardef>
+<pardef n="big/__adj">
+  <e>       <p><l></l>          <r><s n="adj"/><s n="sint"/></r></p></e>
+  <e>       <p><l>ger</l>        <r><s n="adj"/><s n="sint"/><s n="comp"/></r></p></e>
+  <e>       <p><l>gest</l>       <r><s n="adj"/><s n="sint"/><s n="sup"/></r></p></e>
+</pardef>
+<pardef n="bairnie/__adj">
+  <e>       <p><l></l>          <r><s n="adj"/><s n="sint"/></r></p></e>
+  <e>       <p><l>r</l>         <r><s n="adj"/><s n="sint"/><s n="comp"/></r></p></e>
+  <e>       <p><l>st</l>        <r><s n="adj"/><s n="sint"/><s n="sup"/></r></p></e>
+</pardef>
+<pardef n="barr/y__adj">
+  <e>       <p><l>y</l>         <r><s n="adj"/><s n="sint"/></r></p></e>
+  <e>       <p><l>ier</l>       <r><s n="adj"/><s n="sint"/><s n="comp"/></r></p></e>
+  <e>       <p><l>iest</l>      <r><s n="adj"/><s n="sint"/><s n="sup"/></r></p></e>
+</pardef>
 <pardef n="/guid__adj">
   <e>       <p><l>guid</l>      <r>guid<s n="adj"/><s n="sint"/></r></p></e>
   <e>       <p><l>better</l>    <r>guid<s n="adj"/><s n="sint"/><s n="comp"/></r></p></e>
@@ -355,6 +370,12 @@
 </pardef>
 <pardef n="/bad__adj">
   <e>       <p><l>bad</l>       <r>bad<s n="adj"/><s n="sint"/></r></p></e>
+  <e>       <p><l>warse</l>     <r>bad<s n="adj"/><s n="sint"/><s n="comp"/></r></p></e>
+  <e r="LR"><p><l>waur</l>      <r>bad<s n="adj"/><s n="sint"/><s n="comp"/></r></p></e>
+  <e>       <p><l>warst</l>     <r>bad<s n="adj"/><s n="sint"/><s n="comp"/></r></p></e>
+</pardef>
+<pardef n="/baud__adj">
+  <e>       <p><l>baud</l>       <r>bad<s n="adj"/><s n="sint"/></r></p></e>
   <e>       <p><l>warse</l>     <r>bad<s n="adj"/><s n="sint"/><s n="comp"/></r></p></e>
   <e r="LR"><p><l>waur</l>      <r>bad<s n="adj"/><s n="sint"/><s n="comp"/></r></p></e>
   <e>       <p><l>warst</l>     <r>bad<s n="adj"/><s n="sint"/><s n="comp"/></r></p></e>
@@ -2545,6 +2566,104 @@
 <e lm="unner">           <i>unner</i><par n="tae__pr"/></e>
 
 
+    <!-- Adjectives -->
+
+<e lm="aa">              <i>aa</i><par n="expensive__adj"/></e>
+<e lm="aald">            <i>aald</i><par n="lang/__adj"/></e>
+<e lm="aaricht">         <i>aaricht</i><par n="expensive__adj"/></e>
+<e lm="accredited">      <i>accredited</i><par n="expensive__adj"/></e>
+<e lm="adoptit">         <i>adoptit</i><par n="expensive__adj"/></e>
+<e lm="ae">              <i>ae</i><par n="expensive__adj"/></e>
+<e lm="aefauld">         <i>aefauld</i><par n="expensive__adj"/></e>
+<e lm="ain">             <i>ain</i><par n="expensive__adj"/></e>
+<e lm="airmed">          <i>airmed</i><par n="expensive__adj"/></e>
+<e lm="alane">           <i>alane</i><par n="expensive__adj"/></e>
+<e lm="altho">           <i>altho</i><par n="expensive__adj"/></e>
+<e lm="ane">             <i>ane</i><par n="expensive__adj"/></e>
+<e lm="anither">         <i>anither</i><par n="expensive__adj"/></e>
+<e lm="artifeecial">     <i>artifeecial</i><par n="expensive__adj"/></e>
+<e lm="artifeecal">      <i>artifeecal</i><par n="expensive__adj"/></e>
+<e lm="atween">          <i>atween</i><par n="expensive__adj"/></e> 
+<e lm="auld">            <i>auld</i><par n="lang/__adj"/></e>
+<e lm="auld-fashioned">  <i>auld-fashioned</i><par n="expensive__adj"/></e>
+<e lm="auncient">        <i>auncient</i><par n="expensive__adj"/></e>
+<e lm="aw">              <i>aw</i><par n="expensive__adj"/></e>
+<e lm="awa">             <i>awa</i><par n="expensive__adj"/></e>
+<e lm="awfie">           <i>awfie</i><par n="expensive__adj"/></e>
+<e lm="awfu">            <i>awfu</i><par n="expensive__adj"/></e>
+<e lm="awn">             <i>awn</i><par n="expensive__adj"/></e>
+<e lm="awthegither">     <i>awthegither</i><par n="expensive__adj"/></e>
+<e lm="ayn">             <i>ayn</i><par n="expensive__adj"/></e>
+<e lm="bairnie">         <i>ayn</i><par n="bairnie/__adj"/></e>
+<e lm="baith">           <i>baith</i><par n="expensive__adj"/></e>
+<e lm="barrie">          <i>barrie</i><par n="bairnie/__adj"/></e>
+<e lm="barry">           <i>barr</i><par n="barr/y__adj"/></e>
+<e lm="bad">             <i></i><par n="/baud__adj"/></e>
+<e lm="bealin">          <i>bealin</i><par n="expensive__adj"/></e>
+<e lm="begrutten">       <i>begrutten</i><par n="expensive__adj"/></e>
+<e lm="bealin">          <i>bealin</i><par n="expensive__adj"/></e>
+<e lm="ben">             <i>ben</i><par n="expensive__adj"/></e>
+<e lm="big">             <i>big</i><par n="big/__adj"/></e>
+<e lm="birkie">          <i>birkie</i><par n="bairnie/__adj"/></e>
+<e lm="blank">           <i>blank</i><par n="lang/__adj"/></e>
+<e lm="blate">           <i>blate</i><par n="expensive__adj"/></e>
+<e lm="blythe">          <i>blythe</i><par n="bairnie/__adj"/></e>
+<e lm="bonnie">          <i>bonnie</i><par n="bairnie/__adj"/></e>
+<e lm="bonny">           <i>bonn</i><par n="barr/y__adj"/></e>
+<e lm="bour">            <i>bour</i><par n="expensive__adj"/></e>
+<e lm="braw">            <i>braw</i><par n="lang/__adj"/></e>
+<e lm="bricht">          <i>bricht</i><par n="lang/__adj"/></e>
+<e lm="broon">           <i>broon</i><par n="lang/__adj"/></e>
+<e lm="built">           <i>built</i><par n="expensive__adj"/></e>
+<e lm="buskit">          <i>buskit</i><par n="expensive__adj"/></e>
+<e lm="busy">            <i>bus</i><par n="barr/y__adj"/></e>
+<e lm="but">             <i>but</i><par n="expensive__adj"/></e>
+<e lm="byordinar">       <i>byordinar</i><par n="expensive__adj"/></e>
+<e lm="caald">           <i>cauld</i><par n="lang/__adj"/></e>
+<e lm="caller">          <i>caller</i><par n="expensive__adj"/></e>
+<e lm="cannei">          <i>cannei</i><par n="expensive__adj"/></e>
+
+<e lm="custom">          <i>custom</i><par n="expensive__adj"/></e>
+<e lm="customisable">    <i>customisable</i><par n="expensive__adj"/></e>
+
+<e lm="departmental">    <i>departmental</i><par n="expensive__adj"/></e>
+
+
+<e lm="instructive">     <i>instructive</i><par n="expensive__adj"/></e>
+
+<e lm="ornate">          <i>ornate</i><par n="expensive__adj"/></e>
+
+
+<e lm="lang">            <i>lang</i><par n="expensive__adj"/></e>
+<e lm="new">             <i>new</i><par n="expensive__adj"/></e>
+
+<e lm="soothron">        <i>soothron</i><par n="expensive__adj"/></e>
+
+<e lm="unrealistic">     <i>unrealistic</i><par n="expensive__adj"/></e>
+
+
+<e lm="Africaen">        <i>Africaen</i><par n="expensive__adj"/></e>
+<e lm="British">         <i>British</i><par n="expensive__adj"/></e>
+<e lm="Cornish">         <i>Cornish</i><par n="expensive__adj"/></e>
+<e lm="English">         <i>English</i><par n="expensive__adj"/></e>
+<e lm="Frainch">         <i>Frainch</i><par n="inglis__adj"/></e>
+<e lm="Inglis">          <i>Inglis</i><par n="inglis__adj"/></e>
+<e lm="Jewish">          <i>Jewish</i><par n="expensive__adj"/></e>
+<e lm="Spanish">         <i>Spanish</i><par n="expensive__adj"/></e>
+<e lm="Welsh">           <i>Welsh</i><par n="expensive__adj"/></e>
+<e lm="anti-Welsh">      <i>anti-Welsh</i><par n="expensive__adj"/></e>
+
+
+    <!-- TODO: need to check if these can be non-synthetic too -->
+<e lm="fresh">           <i>fresh</i><par n="lang/__adj"/></e>
+<e lm="fresh">           <i>fresh</i><par n="lang/__adj"/></e>
+<e lm="fresh">           <i>fresh</i><par n="lang/__adj"/></e>
+<e lm="harsh">           <i>harsh</i><par n="lang/__adj"/></e>
+
+<e lm="ticklish">        <i>ticklish</i><par n="expensive__adj"/></e>
+
+<e lm="generous">        <i>generous</i><par n="expensive__adj"/></e>
+
     
 
     <!-- Irregular comparatives -->
@@ -2555,7 +2674,6 @@
 <e lm="braw">            <i>braw</i><par n="braw__adj"/></e>
 <e lm="straucht">        <i>straucht</i><par n="braw__adj"/></e>
     
-<e lm="bricht">          <i>bricht</i><par n="bricht__adj"/></e>
 <e lm="puir">            <i>puir</i><par n="bricht__adj"/></e>
 <e lm="greet">           <i>greet</i><par n="bricht__adj"/></e>
 <e lm="scienteefic">     <i>scienteefic</i><par n="bricht__adj"/></e>
@@ -8495,68 +8613,6 @@
 <e lm="Saunt">           <i>Saunt</i><par n="queen__prenom"/></e>
 <e lm="Sir">             <i>Sir</i><par n="queen__prenom"/></e>
 
-    <!-- Adjectives -->
-
-<e lm="aa">              <i>aa</i><par n="expensive__adj"/></e>
-<e lm="aald">            <i>aald</i><par n="lang/__adj"/></e>
-<e lm="aaricht">         <i>aaricht</i><par n="expensive__adj"/></e>
-<e lm="accredited">      <i>accredited</i><par n="expensive__adj"/></e>
-<e lm="adoptit">         <i>adoptit</i><par n="expensive__adj"/></e>
-<e lm="ae">              <i>ae</i><par n="expensive__adj"/></e>
-<e lm="aefauld">         <i>aefauld</i><par n="expensive__adj"/></e>
-<e lm="ain">             <i>ain</i><par n="expensive__adj"/></e>
-<e lm="airmed">          <i>airmed</i><par n="expensive__adj"/></e>
-<e lm="alane">           <i>alane</i><par n="expensive__adj"/></e>
-<e lm="altho">           <i>altho</i><par n="expensive__adj"/></e>
-<e lm="ane">             <i>ane</i><par n="expensive__adj"/></e>
-<e lm="anither">         <i>anither</i><par n="expensive__adj"/></e>
-<e lm="artifeecial">     <i>artifeecial</i><par n="expensive__adj"/></e>
-<e lm="artifeecal">      <i>artifeecal</i><par n="expensive__adj"/></e>
-<e lm="atween">          <i>atween</i><par n="expensive__adj"/></e> 
-<e lm="auld">            <i>auld</i><par n="lang/__adj"/></e>
-
-<e lm="built">           <i>built</i><par n="expensive__adj"/></e>
-
-<e lm="custom">          <i>custom</i><par n="expensive__adj"/></e>
-<e lm="customisable">    <i>customisable</i><par n="expensive__adj"/></e>
-
-<e lm="departmental">    <i>departmental</i><par n="expensive__adj"/></e>
-
-
-<e lm="instructive">     <i>instructive</i><par n="expensive__adj"/></e>
-
-<e lm="ornate">          <i>ornate</i><par n="expensive__adj"/></e>
-
-
-<e lm="lang">            <i>lang</i><par n="expensive__adj"/></e>
-<e lm="new">             <i>new</i><par n="expensive__adj"/></e>
-
-<e lm="soothron">        <i>soothron</i><par n="expensive__adj"/></e>
-
-<e lm="unrealistic">     <i>unrealistic</i><par n="expensive__adj"/></e>
-
-
-<e lm="Africaen">        <i>Africaen</i><par n="expensive__adj"/></e>
-<e lm="British">         <i>British</i><par n="expensive__adj"/></e>
-<e lm="Cornish">         <i>Cornish</i><par n="expensive__adj"/></e>
-<e lm="English">         <i>English</i><par n="expensive__adj"/></e>
-<e lm="Frainch">         <i>Frainch</i><par n="inglis__adj"/></e>
-<e lm="Inglis">          <i>Inglis</i><par n="inglis__adj"/></e>
-<e lm="Jewish">          <i>Jewish</i><par n="expensive__adj"/></e>
-<e lm="Spanish">         <i>Spanish</i><par n="expensive__adj"/></e>
-<e lm="Welsh">           <i>Welsh</i><par n="expensive__adj"/></e>
-<e lm="anti-Welsh">      <i>anti-Welsh</i><par n="expensive__adj"/></e>
-
-
-    <!-- TODO: need to check if these can be non-synthetic too -->
-<e lm="fresh">           <i>fresh</i><par n="lang/__adj"/></e>
-<e lm="fresh">           <i>fresh</i><par n="lang/__adj"/></e>
-<e lm="fresh">           <i>fresh</i><par n="lang/__adj"/></e>
-<e lm="harsh">           <i>harsh</i><par n="lang/__adj"/></e>
-
-<e lm="ticklish">        <i>ticklish</i><par n="expensive__adj"/></e>
-
-<e lm="generous">        <i>generous</i><par n="expensive__adj"/></e>
 
     <!--
 

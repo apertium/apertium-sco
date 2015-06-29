@@ -2717,7 +2717,10 @@
 <e lm="hamelt">          <i>hamelt</i><par n="expensive__adj"/></e>
 <e lm="hamely">          <i>hamely</i><par n="expensive__adj"/></e>
 <e lm="hamespun">        <i>hamespun</i><par n="expensive__adj"/></e>
-
+<e lm="hamit">           <i>hamit</i><par n="expensive__adj"/></e>
+<e lm="hamle">           <i>hamle</i><par n="expensive__adj"/></e>
+<e lm="hauf">            <i>hauf</i><par n="expensive__adj"/></e>
+<e lm="haundy">          <i>haundy</i><par n="barr/y__adj"/></e>
 
 <e lm="instructive">     <i>instructive</i><par n="expensive__adj"/></e>
 

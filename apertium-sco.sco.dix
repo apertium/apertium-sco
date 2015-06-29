@@ -1393,6 +1393,8 @@
 <e lm="guiss">           <i>g</i><par n="g/uiss__n"/></e>
 <e lm="man">             <i>m</i><par n="m/an__n"/></e>
 <e lm="cou">             <i></i><par n="/cou__n"/></e>
+
+
     
     <!-- Regular nouns -->
 <e lm="hoose">           <i>hoose</i><par n="hoose__n"/></e>
@@ -2619,14 +2621,36 @@
 <e lm="busy">            <i>bus</i><par n="barr/y__adj"/></e>
 <e lm="but">             <i>but</i><par n="expensive__adj"/></e>
 <e lm="byordinar">       <i>byordinar</i><par n="expensive__adj"/></e>
-<e lm="caald">           <i>cauld</i><par n="lang/__adj"/></e>
+<e lm="caald">           <i>caald</i><par n="lang/__adj"/></e>
 <e lm="caller">          <i>caller</i><par n="expensive__adj"/></e>
 <e lm="cannei">          <i>cannei</i><par n="expensive__adj"/></e>
-
+<e lm="cannie">          <i>cannie</i><par n="bairnie/__adj"/></e>
+<e lm="canny">           <i>cann</i><par n="barr/y__adj"/></e>
+<e lm="cantie">          <i>cantie</i><par n="bairnie/__adj"/></e>
+<e lm="carnaptious">     <i>carnaptious</i><par n="expensive__adj"/></e>
+<e lm="cauld">           <i>cauld</i><par n="lang/__adj"/></e>
+<e lm="caur">            <i>caur</i><par n="lang/__adj"/></e>
+<e lm="ceevil">          <i>ceevil</i><par n="expensive__adj"/></e>
+<e lm="chappit">         <i>chappit</i><par n="expensive__adj"/></e>
+<e lm="clattie">         <i>clattie</i><par n="bairnie/__adj"/></e>
+<e lm="clatty">          <i>clatt</i><par n="barr/y__adj"/></e>
+<e lm="clear">           <i>clear</i><par n="lang/__adj"/></e>
+<e lm="cliver">          <i>cliver</i><par n="lang/__adj"/></e>
+<e lm="clivver">         <i>clivver</i><par n="lang/__adj"/></e>
+<e lm="conflummixt">     <i>conflummixt</i><par n="expensive__adj"/></e>
+<e lm="coorse">          <i>coorse</i><par n="bairnie/__adj"/></e>
+<e lm="crabbit">         <i>crabbit</i><par n="expensive__adj"/></e>
+<e lm="creetical">       <i>creetical</i><par n="expensive__adj"/></e>
+<e lm="cuntit">          <i>cuntit</i><par n="expensive__adj"/></e>
 <e lm="custom">          <i>custom</i><par n="expensive__adj"/></e>
 <e lm="customisable">    <i>customisable</i><par n="expensive__adj"/></e>
-
+<e lm="deid">            <i>deid</i><par n="lang/__adj"/></e>
+<e lm="deidly">          <i>deidl</i><par n="barr/y__adj"/></e>
 <e lm="departmental">    <i>departmental</i><par n="expensive__adj"/></e>
+<e lm="derk">            <i>derk</i><par n="lang/__adj"/></e>
+<e lm="different">       <i>different</i><par n="expensive__adj"/></e>
+<e lm="dink">            <i>dink</i><par n="expensive__adj"/></e>
+<e lm="dotit">           <i>dotit</i><par n="expensive__adj"/></e>
 
 
 <e lm="instructive">     <i>instructive</i><par n="expensive__adj"/></e>
@@ -2645,6 +2669,7 @@
 <e lm="Africaen">        <i>Africaen</i><par n="expensive__adj"/></e>
 <e lm="British">         <i>British</i><par n="expensive__adj"/></e>
 <e lm="Cornish">         <i>Cornish</i><par n="expensive__adj"/></e>
+<e lm="Dens">            <i>Dens</i><par n="expensive__adj"/></e>
 <e lm="English">         <i>English</i><par n="expensive__adj"/></e>
 <e lm="Frainch">         <i>Frainch</i><par n="inglis__adj"/></e>
 <e lm="Inglis">          <i>Inglis</i><par n="inglis__adj"/></e>
@@ -8825,6 +8850,8 @@
 <e lm="swine">           <i>swine</i><par n="deer__n"/></e>
 <e lm="troot">           <i>troot</i><par n="deer__n"/></e>
 
+<e lm="dookers">         <i>dookers</i><par n="deer__n"/></e>
+
     <!-- these nouns are only in singular -->
 <e lm="wast">            <i>wast</i><par n="wast__n"/></e>
 <e lm="sooth">           <i>sooth</i><par n="wast__n"/></e>
@@ -9037,7 +9064,9 @@
 <e lm="demit">            <i>demit</i><par n="jyne__vblex"/></e>            
 <e lm="depairt">          <i>depairt</i><par n="jyne__vblex"/></e>          
 <e lm="develop">          <i>develop</i><par n="jyne__vblex"/></e>          
-<e lm="differ">           <i>differ</i><par n="airm__vblex"/></e>           
+<e lm="differ">           <i>differ</i><par n="airm__vblex"/></e> 
+<e lm="dink">             <i>differ</i><par n="scowf__vblex"/></e> 
+<e lm="dirk">             <i>dirk</i><par n="scowf__vblex"/></e> 
 <e lm="disrespect">       <i>disrespect</i><par n="jyne__vblex"/></e>       
 <e lm="divide">           <i>divide</i><par n="jyne__vblex"/></e>           
 <e lm="doot">             <i>doot</i><par n="jyne__vblex"/></e>             

@@ -364,14 +364,19 @@
   <e>       <p><l>iest</l>      <r><s n="adj"/><s n="sint"/><s n="sup"/></r></p></e>
 </pardef>
 <pardef n="fat/__adj">
-  <e>       <p><l></l>         <r><s n="adj"/><s n="sint"/></r></p></e>
+  <e>       <p><l></l>          <r><s n="adj"/><s n="sint"/></r></p></e>
   <e>       <p><l>ter</l>       <r><s n="adj"/><s n="sint"/><s n="comp"/></r></p></e>
   <e>       <p><l>test</l>      <r><s n="adj"/><s n="sint"/><s n="sup"/></r></p></e>
 </pardef>
 <pardef n="gled/__adj">
-  <e>       <p><l></l>         <r><s n="adj"/><s n="sint"/></r></p></e>
+  <e>       <p><l></l>          <r><s n="adj"/><s n="sint"/></r></p></e>
   <e>       <p><l>der</l>       <r><s n="adj"/><s n="sint"/><s n="comp"/></r></p></e>
   <e>       <p><l>dest</l>      <r><s n="adj"/><s n="sint"/><s n="sup"/></r></p></e>
+</pardef>
+<pardef n="h/eich__adj">
+  <e>       <p><l>eich</l>      <r><s n="adj"/><s n="sint"/></r></p></e>
+  <e>       <p><l>hier</l>      <r><s n="adj"/><s n="sint"/><s n="comp"/></r></p></e>
+  <e>       <p><l>hiest</l>     <r><s n="adj"/><s n="sint"/><s n="sup"/></r></p></e>
 </pardef>
 <pardef n="/guid__adj">
   <e>       <p><l>guid</l>      <r>guid<s n="adj"/><s n="sint"/></r></p></e>
@@ -2709,7 +2714,7 @@
 <e lm="haill">           <i>haill</i><par n="expensive__adj"/></e>
 <e lm="haird">           <i>haird</i><par n="lang/__adj"/></e>
 <e lm="hairsh">          <i>hairsh</i><par n="lang/__adj"/></e>
-<e lm="haly">            <i>haly</i><par n="barr/y__adj"/></e>
+<e lm="haly">            <i>hal</i><par n="barr/y__adj"/></e>
 <e lm="hame-aboot">      <i>hame-aboot</i><par n="expensive__adj"/></e>
 <e lm="hame-drauchtit">  <i>hame-aboot</i><par n="expensive__adj"/></e>
 <e lm="hame-made">       <i>hame-made</i><par n="expensive__adj"/></e>
@@ -2720,9 +2725,30 @@
 <e lm="hamit">           <i>hamit</i><par n="expensive__adj"/></e>
 <e lm="hamle">           <i>hamle</i><par n="expensive__adj"/></e>
 <e lm="hauf">            <i>hauf</i><par n="expensive__adj"/></e>
-<e lm="haundy">          <i>haundy</i><par n="barr/y__adj"/></e>
-
+<e lm="haundy">          <i>haund</i><par n="barr/y__adj"/></e>
+<e lm="haurd">           <i>haurd</i><par n="lang/__adj"/></e>
+<e lm="heich">           <i>h</i><par n="h/eich__adj"/></e>
+<e lm="hersh">           <i>hersh</i><par n="lang/__adj"/></e>
+<e lm="het">             <i>het</i><par n="fat/__adj"/></e>
+<e lm="hett">            <i>hett</i><par n="lang/__adj"/></e>
+<e lm="hieland">         <i>hieland</i><par n="expensive__adj"/></e>
+<e lm="hivy">            <i>hiv</i><par n="barr/y__adj"/></e>
+<e lm="hoatchin">        <i>hoatchin</i><par n="expensive__adj"/></e>
+<e lm="honest">          <i>honest</i><par n="expensive__adj"/></e>
+<e lm="hotchin">         <i>hotchin</i><par n="expensive__adj"/></e>
+<e lm="howe">            <i>how</i><par n="bairnie/__adj"/></e>
+<e lm="humphie">         <i>humphie</i><par n="expensive__adj"/></e>
+<e lm="humphie-backit">  <i>humphie-backit</i><par n="expensive__adj"/></e>
+<e lm="ilk">             <i>ilk</i><par n="expensive__adj"/></e>
+<e lm="ilka">            <i>each</i><par n="expensive__adj"/></e>
+<e lm="ill-tricket">     <i>ill-tricket</i><par n="expensive__adj"/></e>
+<e lm="immis">           <i>immis</i><par n="expensive__adj"/></e>
+<e lm="infineet">        <i>infineet</i><par n="expensive__adj"/></e>
 <e lm="instructive">     <i>instructive</i><par n="expensive__adj"/></e>
+<e lm="internaitional">  <i>internaitional</i><par n="expensive__adj"/></e>
+<e lm="ither">           <i>ither</i><par n="expensive__adj"/></e>
+<e lm="joco">            <i>joco</i><par n="expensive__adj"/></e>
+
 
 <e lm="ornate">          <i>ornate</i><par n="expensive__adj"/></e>
 

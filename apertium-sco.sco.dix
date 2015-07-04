@@ -378,6 +378,11 @@
   <e>       <p><l>hier</l>      <r><s n="adj"/><s n="sint"/><s n="comp"/></r></p></e>
   <e>       <p><l>hiest</l>     <r><s n="adj"/><s n="sint"/><s n="sup"/></r></p></e>
 </pardef>
+<pardef n="sma/__adj">
+  <e>       <p><l></l>          <r><s n="adj"/><s n="sint"/></r></p></e>
+  <e>       <p><l>'er</l>      <r><s n="adj"/><s n="sint"/><s n="comp"/></r></p></e>
+  <e>       <p><l>'est</l>     <r><s n="adj"/><s n="sint"/><s n="sup"/></r></p></e>
+</pardef>
 <pardef n="/guid__adj">
   <e>       <p><l>guid</l>      <r>guid<s n="adj"/><s n="sint"/></r></p></e>
   <e>       <p><l>better</l>    <r>guid<s n="adj"/><s n="sint"/><s n="comp"/></r></p></e>
@@ -2782,6 +2787,7 @@
 <e lm="nebbit">          <i>nebbit</i><par n="expensive__adj"/></e>
 <e lm="neebour-like">    <i>neeboor-like</i><par n="expensive__adj"/></e>
 <e lm="neist">           <i>neist</i><par n="expensive__adj"/></e>
+<e lm="new">             <i>new</i><par n="lang/__adj"/></e>
 <e lm="niest">           <i>niest</i><par n="expensive__adj"/></e>
 <e lm="nor">             <i>nor</i><par n="expensive__adj"/></e>
 <e lm="nor'lin">         <i>nor'lin</i><par n="expensive__adj"/></e>
@@ -2798,6 +2804,93 @@
 <e lm="pally">           <i>pall</i><par n="barr/y__adj"/></e>
 <e lm="pechie">          <i>pechie</i><par n="expensive__adj"/></e>
 <e lm="pecht">           <i>pecht</i><par n="expensive__adj"/></e>
+<e lm="peelie">          <i>peelie</i><par n="expensive__adj"/></e>
+<e lm="peelie-wally">    <i>peelie-wally</i><par n="expensive__adj"/></e>
+<e lm="peeliewally">     <i>peeliewally</i><par n="expensive__adj"/></e>
+<e lm="peerie">          <i>peerie</i><par n="bairnie/__adj"/></e>
+<e lm="pheesical">       <i>pheesical</i><par n="expensive__adj"/></e>
+<e lm="pish">            <i>pish</i><par n="expensive__adj"/></e>
+<e lm="pished">          <i>pished</i><par n="expensive__adj"/></e>
+<e lm="placit">          <i>placit</i><par n="expensive__adj"/></e>
+<e lm="plouk">           <i>plouk</i><par n="expensive__adj"/></e>
+<e lm="pokey">           <i>pokey</i><par n="expensive__adj"/></e>
+<e lm="poleetical">      <i>poleetical</i><par n="expensive__adj"/></e>
+<e lm="praisent">        <i>praisent</i><par n="expensive__adj"/></e>
+<e lm="puir">            <i>puir</i><par n="lang/__adj"/></e>
+<e lm="pure">            <i>pure</i><par n="bairnie/__adj"/></e>
+<e lm="quaet">           <i>quaet</i><par n="lang/__adj"/></e>
+<e lm="quate">           <i>quate</i><par n="lang/__adj"/></e>
+<e lm="queem">           <i>queem</i><par n="lang/__adj"/></e>
+<e lm="quick">           <i>quick</i><par n="expensive__adj"/></e>
+<e lm="quick">           <i>quick</i><par n="lang/__adj"/></e>
+<e lm="radge">           <i>radge</i><par n="expensive__adj"/></e>
+<e lm="rare">            <i>rare</i><par n="bairnie/__adj"/></e>
+<e lm="reekin">          <i>reekin</i><par n="expensive__adj"/></e>
+<e lm="reekit">          <i>reekit</i><par n="expensive__adj"/></e>
+<e lm="reid">            <i>reid</i><par n="gled/__adj"/></e>
+<e lm="releegious">      <i>releegious</i><par n="expensive__adj"/></e>
+<e lm="resident">        <i>reesident</i><par n="expensive__adj"/></e>
+<e lm="richt">           <i>richt</i><par n="expensive__adj"/></e>
+<e lm="ringit">          <i>ringit</i><par n="expensive__adj"/></e>
+<e lm="rinnie">          <i>rinnie</i><par n="bairnie/__adj"/></e>
+<e lm="risin">           <i>risin</i><par n="expensive__adj"/></e>
+<e lm="roch">            <i>roch</i><par n="lang/__adj"/></e>
+<e lm="roon">            <i>roon</i><par n="lang/__adj"/></e>
+<e lm="roond">           <i>roond</i><par n="lang/__adj"/></e>
+<e lm="ryal">            <i>ryal</i><par n="expensive__adj"/></e>
+<e lm="saft">            <i>saft</i><par n="lang/__adj"/></e>
+<e lm="sair">            <i>sair</i><par n="expensive__adj"/></e>
+<e lm="sairy">           <i>sairy</i><par n="expensive__adj"/></e>
+<e lm="sauchie">         <i>sauchie</i><par n="expensive__adj"/></e>
+<e lm="sauntit">         <i>sauntit</i><par n="expensive__adj"/></e>
+<e lm="scienteefic">     <i>scienteefic</i><par n="expensive__adj"/></e>
+<e lm="scuddie">         <i>scuddie</i><par n="expensive__adj"/></e>
+<e lm="scunnert">        <i>scunnert</i><par n="expensive__adj"/></e>
+<e lm="seek">            <i>seek</i><par n="lang/__adj"/></e>
+<e lm="seestematic">     <i>seestematic</i><par n="expensive__adj"/></e>
+<e lm="seicont">         <i>seicont</i><par n="expensive__adj"/></e>
+<e lm="seik">            <i>seik</i><par n="lang/__adj"/></e>
+<e lm="shair">           <i>shair</i><par n="lang/__adj"/></e>
+<e lm="shairp">          <i>shairp</i><par n="lang/__adj"/></e>
+<e lm="shairp-witted">   <i>shairp-witted</i><par n="lang/__adj"/></e>
+<e lm="shuir">           <i>shuir</i><par n="lang/__adj"/></e>
+<e lm="sic">             <i>sic</i><par n="expensive__adj"/></e>
+<e lm="siccar">          <i>siccar</i><par n="lang/__adj"/></e>
+<e lm="siller">          <i>siller</i><par n="expensive__adj"/></e>
+<e lm="sindrie">         <i>sindrie</i><par n="expensive__adj"/></e>
+<e lm="sindry">          <i>sindry</i><par n="expensive__adj"/></e>
+<e lm="skaithed">        <i>skaithed</i><par n="expensive__adj"/></e>
+<e lm="skinklin">        <i>skinklin</i><par n="expensive__adj"/></e>
+<e lm="skitey">          <i>skitey</i><par n="expensive__adj"/></e>
+<e lm="skitie">          <i>skitie</i><par n="expensive__adj"/></e>
+<e lm="sleek">           <i>sleek</i><par n="expensive__adj"/></e>
+<e lm="sleekit">         <i>sleekit</i><par n="expensive__adj"/></e>
+<e lm="slicht">          <i>slicht</i><par n="lang/__adj"/></e>
+<e lm="sma">             <i>sma</i><par n="sma/__adj"/></e>
+<e lm="snawy">           <i>sma</i><par n="lang/__adj"/></e>
+<e lm="some">            <i>some</i><par n="expensive__adj"/></e>
+<e lm="soothern">        <i>soothern</i><par n="expensive__adj"/></e>
+<e lm="soothren">        <i>soothren</i><par n="expensive__adj"/></e>
+<e lm="sootie">          <i>sootie</i><par n="expensive__adj"/></e>
+<e lm="sortit">          <i>sortit</i><par n="expensive__adj"/></e>
+<e lm="souple">          <i>souple</i><par n="expensive__adj"/></e>
+<e lm="special">         <i>special</i><par n="expensive__adj"/></e>
+<e lm="speeritit">       <i>speeritit</i><par n="expensive__adj"/></e>
+<e lm="speeritual">      <i>speeritual</i><par n="expensive__adj"/></e>
+<e lm="speicial">        <i>speicial</i><par n="expensive__adj"/></e>
+<e lm="steidy">          <i>steid</i><par n="barr/y__adj"/></e>
+<e lm="strang">          <i>strang</i><par n="lang/__adj"/></e>
+<e lm="straucht">        <i>straucht</i><par n="lang/__adj"/></e>
+<e lm="strict">          <i>strict</i><par n="lang/__adj"/></e>
+<e lm="strippit">        <i>strippit</i><par n="expensive__adj"/></e>
+<e lm="stupit">          <i>stupit</i><par n="fat/__adj"/></e>
+<e lm="suffeecient">     <i>suffeecient</i><par n="expensive__adj"/></e>
+<e lm="suin">            <i>suin</i><par n="expensive__adj"/></e>
+<e lm="supernaitural">   <i>supernaitural</i><par n="expensive__adj"/></e>
+<e lm="sweet">           <i>sweet</i><par n="lang/__adj"/></e>
+<e lm="sweirt">          <i>sweirt</i><par n="expensive__adj"/></e>
+<e lm="swirly">          <i>swirl</i><par n="barr/y__adj"/></e>
+<e lm="tairtan">         <i>tairtan</i><par n="expensive__adj"/></e>
 
 
 <e lm="lang">            <i>lang</i><par n="expensive__adj"/></e>
@@ -2817,7 +2910,11 @@
 <e lm="French">          <i>French</i><par n="inglis__adj"/></e>
 <e lm="Inglis">          <i>Inglis</i><par n="inglis__adj"/></e>
 <e lm="Jewish">          <i>Jewish</i><par n="expensive__adj"/></e>
+<e lm="Polis">           <i>Polis</i><par n="expensive__adj"/></e>
+<e lm="Scots">           <i>Scots</i><par n="expensive__adj"/></e>
+<e lm="Scottish">        <i>Scottish</i><par n="expensive__adj"/></e>
 <e lm="Spanish">         <i>Spanish</i><par n="expensive__adj"/></e>
+<e lm="Swadish">         <i>Swadish</i><par n="expensive__adj"/></e>
 <e lm="Welsh">           <i>Welsh</i><par n="expensive__adj"/></e>
 <e lm="anti-Welsh">      <i>anti-Welsh</i><par n="expensive__adj"/></e>
 

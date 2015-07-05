@@ -2511,20 +2511,28 @@
 
 
   <!-- ADVERBS -->    
-<e lm="whaur">           <i>whaur</i><par n="whaur__adv"/></e>
-<e lm="niver">           <i>niver</i><par n="niver__adv"/></e>
-<e lm="mebbe">           <i>mebbe</i><par n="mebbe__adv"/></e>
-<e lm="the nicht">       <i>the<b/>nicht</i><par n="mebbe__adv"/></e>
-<e lm="the day">         <i>the<b/>day</i><par n="mebbe__adv"/></e>
-<e lm="the nou">         <i>the<b/>nou</i><par n="mebbe__adv"/></e>
-<e lm="the morn">        <i>the<b/>morn</i><par n="mebbe__adv"/></e>
+
+<e lm="agin">            <i>agin</i><par n="mebbe__adv"/></e>
+<e lm="an aw">           <i>an<b/>aw</i><par n="mebbe__adv"/></e>
 <e lm="as">              <i>as</i><par n="mebbe__adv"/></e>
 <e lm="mair">            <i>mair</i><par n="mebbe__adv"/></e>
 <e lm="maist">           <i>maist</i><par n="mebbe__adv"/></e>
-<e lm="ootthrou">        <i>ootthrou</i><par n="mebbe__adv"/></e>
+<e lm="mebbe">           <i>mebbe</i><par n="mebbe__adv"/></e>
+<e lm="niver">           <i>niver</i><par n="niver__adv"/></e>
+<e lm="noo">             <i>noo</i><par n="mebbe__adv"/></e>
 <e lm="onwarts">         <i>onwarts</i><par n="mebbe__adv"/></e>
-<e lm="an aw">           <i>an<b/>aw</i><par n="mebbe__adv"/></e>
+<e lm="ootthrou">        <i>ootthrou</i><par n="mebbe__adv"/></e>
+<e lm="the day">         <i>the<b/>day</i><par n="mebbe__adv"/></e>
+<e lm="the morn">        <i>the<b/>morn</i><par n="mebbe__adv"/></e>
+<e lm="the nicht">       <i>the<b/>nicht</i><par n="mebbe__adv"/></e>
+<e lm="the nou">         <i>the<b/>nou</i><par n="mebbe__adv"/></e>
+<e lm="richtly">         <i>richtly</i><par n="mebbe__adv"/></e>
 <e lm="syne">            <i>syne</i><par n="mebbe__adv"/></e>
+
+<e lm="whan">            <i>whan</i><par n="mebbe__adv"/></e>
+
+<e lm="whaur">           <i>whaur</i><par n="whaur__adv"/></e>
+<e lm="while">           <i>while</i><par n="mebbe__adv"/></e>
 
     <!-- predeterminer -->
 <e lm="aw">              <i>aw</i><par n="aw__predet"/></e>
@@ -2805,8 +2813,8 @@
 <e lm="pechie">          <i>pechie</i><par n="expensive__adj"/></e>
 <e lm="pecht">           <i>pecht</i><par n="expensive__adj"/></e>
 <e lm="peelie">          <i>peelie</i><par n="expensive__adj"/></e>
-<e lm="peelie-wally">    <i>peelie-wally</i><par n="expensive__adj"/></e>
-<e lm="peeliewally">     <i>peeliewally</i><par n="expensive__adj"/></e>
+<e lm="peelie-wally">    <i>peelie-wally</i><par n="bairnie/__adj"/></e>
+<e lm="peeliewally">     <i>peeliewally</i><par n="bairnie/__adj"/></e>
 <e lm="peerie">          <i>peerie</i><par n="bairnie/__adj"/></e>
 <e lm="pheesical">       <i>pheesical</i><par n="expensive__adj"/></e>
 <e lm="pish">            <i>pish</i><par n="expensive__adj"/></e>
@@ -2891,6 +2899,51 @@
 <e lm="sweirt">          <i>sweirt</i><par n="expensive__adj"/></e>
 <e lm="swirly">          <i>swirl</i><par n="barr/y__adj"/></e>
 <e lm="tairtan">         <i>tairtan</i><par n="expensive__adj"/></e>
+<e lm="tap">             <i>tap</i><par n="expensive__adj"/></e>
+<e lm="tapmaist">        <i>tapmaist</i><par n="expensive__adj"/></e>
+<e lm="tappit">          <i>tappit</i><par n="expensive__adj"/></e>
+<e lm="teepical">        <i>teepical</i><par n="expensive__adj"/></e>
+<e lm="thae">            <i>thae</i><par n="expensive__adj"/></e>
+<e lm="that">            <i>that</i><par n="expensive__adj"/></e>
+<e lm="their">           <i>their</i><par n="expensive__adj"/></e>
+<e lm="this">            <i>this</i><par n="expensive__adj"/></e>
+<e lm="thon">            <i>thon</i><par n="expensive__adj"/></e>
+<e lm="three">           <i>three</i><par n="expensive__adj"/></e>
+<e lm="tied">            <i>tied</i><par n="expensive__adj"/></e>
+<e lm="tottie">          <i>tottie</i><par n="expensive__adj"/></e>
+<e lm="tradeetional">    <i>tradeetional</i><par n="expensive__adj"/></e>
+<e lm="unchancy">        <i>unchanc</i><par n="barr/y__adj"/></e>
+<e lm="unco">            <i>unco</i><par n="lang/__adj"/></e>
+<e lm="ungrate">         <i>ungrate</i><par n="expensive__adj"/></e>
+<e lm="ungratefu">       <i>ungrategu</i><par n="expensive__adj"/></e>
+<e lm="unitit">          <i>unitit</i><par n="expensive__adj"/></e>
+<e lm="unlawfu">         <i>unlawfu</i><par n="expensive__adj"/></e>
+<e lm="unner">           <i>unner</i><par n="expensive__adj"/></e>
+<e lm="unskaithed">      <i>uskaithed</i><par n="expensive__adj"/></e>
+<e lm="wabbit">          <i>wabbit</i><par n="expensive__adj"/></e>
+<e lm="waik">            <i>waik</i><par n="lang/__adj"/></e>
+<e lm="wallie">          <i>wallie</i><par n="expensive__adj"/></e>
+<e lm="walthy">          <i>walth</i><par n="barr/y__adj"/></e>
+<e lm="wanchancy">       <i>wanchanc</i><par n="barr/y__adj"/></e>
+<e lm="wantit">          <i>wantit</i><par n="expensive__adj"/></e>
+<e lm="wappin">          <i>wappin</i><par n="expensive__adj"/></e>
+<e lm="wast">            <i>wast</i><par n="expensive__adj"/></e>
+<e lm="waster">          <i>waster</i><par n="expensive__adj"/></e>
+<e lm="wastmaist">       <i>wastmaist</i><par n="expensive__adj"/></e>
+<e lm="weanish">         <i>weanish</i><par n="expensive__adj"/></e>
+<e lm="wee">             <i>wee</i><par n="lang/__adj"/></e>
+<e lm="weel">            <i></i><par n="/guid__adj"/></e>
+<e lm="weel-kent">       <i>weel-kent</i><par n="expensive__adj"/></e>
+<e lm="weet">            <i>weet</i><par n="lang/__adj"/></e>
+<e lm="weird">           <i>weird</i><par n="lang/__adj"/></e>
+<e lm="whilk">           <i>whilk</i><par n="expensive__adj"/></e>
+<e lm="white">           <i>white</i><par n="bairnie/__adj"/></e>
+<e lm="widden">          <i>widden</i><par n="expensive__adj"/></e>
+<e lm="wir">             <i>wir</i><par n="expensive__adj"/></e>
+<e lm="worth">           <i>worth</i><par n="expensive__adj"/></e>
+<e lm="wrang">           <i>wrang</i><par n="expensive__adj"/></e>
+<e lm="yella">           <i>yella</i><par n="expensive__adj"/></e>
+<e lm="yellae">          <i>yellae</i><par n="expensive__adj"/></e>
 
 
 <e lm="lang">            <i>lang</i><par n="expensive__adj"/></e>
@@ -2915,6 +2968,7 @@
 <e lm="Scottish">        <i>Scottish</i><par n="expensive__adj"/></e>
 <e lm="Spanish">         <i>Spanish</i><par n="expensive__adj"/></e>
 <e lm="Swadish">         <i>Swadish</i><par n="expensive__adj"/></e>
+<e lm="Weegie">          <i>Weegie</i><par n="expensive__adj"/></e>
 <e lm="Welsh">           <i>Welsh</i><par n="expensive__adj"/></e>
 <e lm="anti-Welsh">      <i>anti-Welsh</i><par n="expensive__adj"/></e>
 
@@ -9130,13 +9184,7 @@
 
 <e lm="especially">      <i>especially</i><par n="expensive__adj"/></e>
 
-    <!-- adverbs -->
-<e lm="richtly">         <i>richtly</i><par n="mebbe__adv"/></e>
-<e lm="noo">             <i>noo</i><par n="mebbe__adv"/></e>
 
-<e lm="whan">            <i>whan</i><par n="mebbe__adv"/></e>
-<e lm="agin">            <i>agin</i><par n="mebbe__adv"/></e>
-<e lm="while">           <i>while</i><par n="mebbe__adv"/></e>
 
 
     <!-- Irregular Verbs -->    

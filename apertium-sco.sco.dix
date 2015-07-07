@@ -2522,6 +2522,7 @@
 <e lm="noo">             <i>noo</i><par n="mebbe__adv"/></e>
 <e lm="onwarts">         <i>onwarts</i><par n="mebbe__adv"/></e>
 <e lm="ootthrou">        <i>ootthrou</i><par n="mebbe__adv"/></e>
+<e lm="owerly">          <i>owerly</i><par n="mebbe__adv"/></e>
 <e lm="the day">         <i>the<b/>day</i><par n="mebbe__adv"/></e>
 <e lm="the morn">        <i>the<b/>morn</i><par n="mebbe__adv"/></e>
 <e lm="the nicht">       <i>the<b/>nicht</i><par n="mebbe__adv"/></e>
@@ -2942,8 +2943,8 @@
 <e lm="wir">             <i>wir</i><par n="expensive__adj"/></e>
 <e lm="worth">           <i>worth</i><par n="expensive__adj"/></e>
 <e lm="wrang">           <i>wrang</i><par n="expensive__adj"/></e>
-<e lm="yella">           <i>yella</i><par n="expensive__adj"/></e>
-<e lm="yellae">          <i>yellae</i><par n="expensive__adj"/></e>
+<e lm="yella">           <p><l>yella</l><r>yella</r></p><par n="expensive__adj"/></e>
+<e lm="yellae" r="LR"><p><l>yella</l><r>yellae</r></p><par n="expensive__adj"/></e>
 
 
 <e lm="lang">            <i>lang</i><par n="expensive__adj"/></e>

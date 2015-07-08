@@ -2512,9 +2512,35 @@
 
   <!-- ADVERBS -->    
 
+<e lm="ablo">            <i>ablo</i><par n="mebbe__adv"/></e>
 <e lm="agin">            <i>agin</i><par n="mebbe__adv"/></e>
+<e lm="across">          <i>across</i><par n="mebbe__adv"/></e>
+<e lm="aff">             <i>aff</i><par n="mebbe__adv"/></e>
+<e lm="affen">           <i>affen</i><par n="mebbe__adv"/></e>
+<e lm="agane">           <i>agane</i><par n="mebbe__adv"/></e>
+<e lm="ahame">           <i>ahame</i><par n="mebbe__adv"/></e>
+<e lm="aheid">           <i>aheid</i><par n="mebbe__adv"/></e>
+<e lm="ahint">           <i>ahint</i><par n="mebbe__adv"/></e>
+<e lm="aiblins">         <i>aiblins</i><par n="mebbe__adv"/></e>
+<e lm="ainly">           <i>ainly</i><par n="mebbe__adv"/></e>
+<e lm="ajee">            <i>ajee</i><par n="mebbe__adv"/></e>
+<e lm="alane">           <i>alane</i><par n="mebbe__adv"/></e>
+<e lm="alang">           <i>alang</i><par n="mebbe__adv"/></e>
+<e lm="almaist">         <i>almaist</i><par n="mebbe__adv"/></e>
 <e lm="an aw">           <i>an<b/>aw</i><par n="mebbe__adv"/></e>
+<e lm="ance">            <i>ance</i><par n="mebbe__adv"/></e>
+<e lm="aneath">          <i>aneath</i><par n="mebbe__adv"/></e>
+<e lm="anely">           <i>anely</i><par n="mebbe__adv"/></e>
+<e lm="apairt">          <i>apairt</i><par n="mebbe__adv"/></e>
+<e lm="aroon">           <i>aroon</i><par n="mebbe__adv"/></e>
+<e lm="aroond">          <i>aroond</i><par n="mebbe__adv"/></e>
 <e lm="as">              <i>as</i><par n="mebbe__adv"/></e>
+<e lm="athwart">         <i>athwart</i><par n="mebbe__adv"/></e>
+<e lm="ava">             <i>ava</i><par n="mebbe__adv"/></e>
+<e lm="aw">              <i>aw</i><par n="mebbe__adv"/></e>
+<e lm="awa">             <i>awa</i><par n="mebbe__adv"/></e>
+
+
 <e lm="mair">            <i>mair</i><par n="mebbe__adv"/></e>
 <e lm="maist">           <i>maist</i><par n="mebbe__adv"/></e>
 <e lm="mebbe">           <i>mebbe</i><par n="mebbe__adv"/></e>
@@ -2523,13 +2549,14 @@
 <e lm="onwarts">         <i>onwarts</i><par n="mebbe__adv"/></e>
 <e lm="ootthrou">        <i>ootthrou</i><par n="mebbe__adv"/></e>
 <e lm="owerly">          <i>owerly</i><par n="mebbe__adv"/></e>
+<e lm="queem">           <i>queem</i><par n="mebbe__adv"/></e>
 <e lm="the day">         <i>the<b/>day</i><par n="mebbe__adv"/></e>
 <e lm="the morn">        <i>the<b/>morn</i><par n="mebbe__adv"/></e>
 <e lm="the nicht">       <i>the<b/>nicht</i><par n="mebbe__adv"/></e>
 <e lm="the nou">         <i>the<b/>nou</i><par n="mebbe__adv"/></e>
 <e lm="richtly">         <i>richtly</i><par n="mebbe__adv"/></e>
 <e lm="syne">            <i>syne</i><par n="mebbe__adv"/></e>
-
+<e lm="umwhile">         <i>umwhile</i><par n="mebbe__adv"/></e>
 <e lm="whan">            <i>whan</i><par n="mebbe__adv"/></e>
 
 <e lm="whaur">           <i>whaur</i><par n="whaur__adv"/></e>
@@ -2943,8 +2970,9 @@
 <e lm="wir">             <i>wir</i><par n="expensive__adj"/></e>
 <e lm="worth">           <i>worth</i><par n="expensive__adj"/></e>
 <e lm="wrang">           <i>wrang</i><par n="expensive__adj"/></e>
-<e lm="yella">           <p><l>yella</l><r>yella</r></p><par n="expensive__adj"/></e>
-<e lm="yellae" r="LR"><p><l>yella</l><r>yellae</r></p><par n="expensive__adj"/></e>
+<e lm="yella" r="LR"><p><l>yellae</l><r>yella</r></p><par n="expensive__adj"/></e>
+<e lm="yellae">          <i>yellae</i><par n="expensive__adj"/></e>
+
 
 
 <e lm="lang">            <i>lang</i><par n="expensive__adj"/></e>

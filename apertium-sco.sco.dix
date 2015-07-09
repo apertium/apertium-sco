@@ -108,6 +108,11 @@
     <sdef n="dim" 	c="Diminutive"/> 
   </sdefs>
   <pardefs>
+
+<pardef n="acause__cnjadv">
+    <e>     <p><l></l>          <r><s n="cnjadv"/></r></p></e>
+</pardef>
+
 <pardef n="'s__gen">
   <e>       <p><l></l>          <r><s n="gen"/></r></p></e>
 </pardef>
@@ -1276,7 +1281,7 @@
   <e>       <p><l>aw</l>           <r><s n="vblex"/><s n="inf"/></r></p></e>
   <e>       <p><l>aw</l>           <r><s n="vblex"/><s n="pres"/></r></p></e>
   <e>       <p><l>aws</l>          <r><s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
-  <e>       <p><l>ew</l>          <r><s n="vblex"/><s n="past"/></r></p></e>
+  <e>       <p><l>ew</l>           <r><s n="vblex"/><s n="past"/></r></p></e>
   <e>       <p><l>awn</l>          <r><s n="vblex"/><s n="pp"/></r></p></e>
   <e>       <p><l>awin</l>         <r><s n="vblex"/><s n="ger"/></r></p></e>
   <e>       <p><l>awin</l>         <r><s n="vblex"/><s n="pprs"/></r></p></e>
@@ -1400,6 +1405,27 @@
 
 <e lm="prsubj">          <i></i><par n="prsubj__prn"/></e>
 <e lm="probj">           <i></i><par n="probj__prn"/></e>
+
+
+
+    <!-- Conjunctions -->
+<e lm="acause">          <i>acause</i><par n="acause__cnjadv"/></e>
+<e lm="afore">           <i>afore</i><par n="acause__cnjadv"/></e>
+<e lm="altho">           <i>altho</i><par n="acause__cnjadv"/></e>
+<e lm="an">              <i>an</i><par n="an__cnjcoo"/></e>
+<e lm="and">             <i>and</i><par n="an__cnjcoo"/></e>
+<e lm="as">              <i>as</i><par n="acause__cnjadv"/></e>
+<e lm="awtho">           <i>awtho</i><par n="acause__cnjadv"/></e>
+<e lm="but">             <i>but</i><par n="but__cnjsub"/></e>
+<e lm="gin">             <i>gin</i><par n="acause__cnjadv"/></e>
+<e lm="nor">             <i>nor</i><par n="an__cnjcoo"/></e>
+<e lm="or">              <i>or</i><par n="an__cnjcoo"/></e>
+<e lm="whan">            <i>whan</i><par n="acause__cnjadv"/></e>
+<e lm="whiniver">        <i>whiniver</i><par n="but__cnjsub"/></e>
+<e lm="whiles">          <i>whiles</i><par n="acause__cnjadv"/></e>
+<e lm="withoot">         <i>withoot</i><par n="acause__cnjadv"/></e>
+
+
 
     <!-- Irregular nouns -->
 <e lm="cauf">            <i>cau</i><par n="cau/f__n"/></e>
@@ -1960,7 +1986,9 @@
 <e lm="jobbie">           <i>jobbie</i><par n="hoose__n"/></e>              
 <e lm="jobbie">           <i>jobbie</i><par n="hoose__n"/></e>              
 <e lm="jobby">            <i>jobby</i><par n="habb/y__n"/></e>              
-<e lm="jobby">            <i>jobby</i><par n="habb/y__n"/></e>              
+<e lm="jobby">            <i>jobby</i><par n="habb/y__n"/></e> 
+<e lm="joog">             <i>joog</i><par n="hoose__n"/></e>
+<e lm="joug">             <i>joug</i><par n="hoose__n"/></e>
 <e lm="jottin">           <i>jottin</i><par n="hoose__n"/></e>              
 <e lm="jotting">          <i>jotting</i><par n="hoose__n"/></e>             
 <e lm="juistice">         <i>juistice</i><par n="hoose__n"/></e>            
@@ -2562,6 +2590,7 @@
 <e lm="easy">            <i>easy</i><par n="mebbe__adv"/></e>
 <e lm="eence">           <i>eence</i><par n="mebbe__adv"/></e>
 <e lm="efter">           <i>efter</i><par n="mebbe__adv"/></e>
+<e lm="even">            <i>even</i><par n="mebbe__adv"/></e>
 <e lm="fair">            <i>fair</i><par n="mebbe__adv"/></e>
 <e lm="fan">             <i>fan</i><par n="whaur__adv"/></e>
 <e lm="faur">            <i>faur</i><par n="mebbe__adv"/></e>
@@ -2579,6 +2608,7 @@
 <e lm="haurdly">         <i>haurdly</i><par n="mebbe__adv"/></e>
 <e lm="heich">           <i>heich</i><par n="mebbe__adv"/></e>
 <e lm="here">            <i>here</i><par n="mebbe__adv"/></e>
+<e lm="het">             <i>het</i><par n="mebbe__adv"/></e>
 <e lm="hinderly">        <i>hinderly</i><par n="mebbe__adv"/></e>
 <e lm="hoo">             <i>hoo</i><par n="whaur__adv"/></e>
 <e lm="hooanever">       <i>hooanever</i><par n="whaur__adv"/></e>
@@ -2608,33 +2638,104 @@
 <e lm="nivver">          <i>nivver</i><par n="niver__adv"/></e>
 <e lm="no">              <i>no</i><par n="niver__adv"/></e>
 <e lm="noo">             <i>noo</i><par n="mebbe__adv"/></e>
+<e lm="nooadays">        <i>nooadays</i><par n="mebbe__adv"/></e>
+<e lm="nou">             <i>nou</i><par n="mebbe__adv"/></e>
+<e lm="nouadays">        <i>nouadays</i><par n="mebbe__adv"/></e>
+<e lm="now">             <i>now</i><par n="mebbe__adv"/></e>
 <e lm="onwarts">         <i>onwarts</i><par n="mebbe__adv"/></e>
+<e lm="onywey">          <i>onywey</i><par n="mebbe__adv"/></e>
+<e lm="ootside">         <i>ootside</i><par n="mebbe__adv"/></e>
 <e lm="ootthrou">        <i>ootthrou</i><par n="mebbe__adv"/></e>
+<e lm="ordinar">         <i>ordinar</i><par n="mebbe__adv"/></e>
+<e lm="ordnar">          <i>ordnar</i><par n="mebbe__adv"/></e>
+<e lm="oreeginally">     <i>oreeginally</i><par n="mebbe__adv"/></e>
+<e lm="out">             <i>out</i><par n="mebbe__adv"/></e>
+<e lm="ower">            <i>ower</i><par n="mebbe__adv"/></e>
 <e lm="owerly">          <i>owerly</i><par n="mebbe__adv"/></e>
+<e lm="pairtly">         <i>pairtly</i><par n="mebbe__adv"/></e>
 <e lm="queem">           <i>queem</i><par n="mebbe__adv"/></e>
+<e lm="quick">           <i>quick</i><par n="mebbe__adv"/></e>
+<e lm="richt">           <i>richt</i><par n="mebbe__adv"/></e>
+<e lm="richtly">         <i>richtly</i><par n="mebbe__adv"/></e>
+<e lm="sae">             <i>sae</i><par n="mebbe__adv"/></e>
+<e lm="saft">            <i>saft</i><par n="mebbe__adv"/></e>
+<e lm="sic">             <i>sic</i><par n="mebbe__adv"/></e>
+<e lm="sindrie">         <i>sindrie</i><par n="mebbe__adv"/></e>
+<e lm="sindry">          <i>sindry</i><par n="mebbe__adv"/></e>
+<e lm="so">              <i>so</i><par n="mebbe__adv"/></e>
+<e lm="some">            <i>some</i><par n="mebbe__adv"/></e>
+<e lm="sooth">           <i>sooth</i><par n="mebbe__adv"/></e>
+<e lm="souple">          <i>souple</i><par n="mebbe__adv"/></e>
+<e lm="special">         <i>special</i><par n="mebbe__adv"/></e>
+<e lm="speicial">        <i>speicial</i><par n="mebbe__adv"/></e>
+<e lm="still">           <i>still</i><par n="mebbe__adv"/></e>
+<e lm="strang">          <i>strang</i><par n="mebbe__adv"/></e>
+<e lm="straucht">        <i>straucht</i><par n="mebbe__adv"/></e>
+<e lm="stull">           <i>stull</i><par n="mebbe__adv"/></e>
+<e lm="suin">            <i>suin</i><par n="mebbe__adv"/></e>
+<e lm="syne">            <i>syne</i><par n="mebbe__adv"/></e>
+<e lm="tae">             <i>tae</i><par n="mebbe__adv"/></e>
+<e lm="that">            <i>that</i><par n="mebbe__adv"/></e>
 <e lm="the day">         <i>the<b/>day</i><par n="mebbe__adv"/></e>
 <e lm="the morn">        <i>the<b/>morn</i><par n="mebbe__adv"/></e>
+<e lm="the morra">       <i>the<b/>morra</i><par n="mebbe__adv"/></e>
 <e lm="the nicht">       <i>the<b/>nicht</i><par n="mebbe__adv"/></e>
+<e lm="the noo">         <i>the<b/>noo</i><par n="mebbe__adv"/></e>
 <e lm="the nou">         <i>the<b/>nou</i><par n="mebbe__adv"/></e>
-<e lm="richtly">         <i>richtly</i><par n="mebbe__adv"/></e>
-<e lm="syne">            <i>syne</i><par n="mebbe__adv"/></e>
 <e lm="umwhile">         <i>umwhile</i><par n="mebbe__adv"/></e>
-<e lm="whan">            <i>whan</i><par n="mebbe__adv"/></e>
-
+<e lm="unner">           <i>unner</i><par n="mebbe__adv"/></e>
+<e lm="up">              <i>up</i><par n="mebbe__adv"/></e>
+<e lm="waik">            <i>waik</i><par n="mebbe__adv"/></e>
+<e lm="weel">            <i>weel</i><par n="mebbe__adv"/></e>
+<e lm="whan">            <i>whan</i><par n="whaur__adv"/></e>
 <e lm="whaur">           <i>whaur</i><par n="whaur__adv"/></e>
+<e lm="when">            <i>when</i><par n="whaur__adv"/></e>
+<e lm="wherr">           <i>wherr</i><par n="whaur__adv"/></e>
 <e lm="while">           <i>while</i><par n="mebbe__adv"/></e>
+<e lm="whiles">          <i>whiles</i><par n="mebbe__adv"/></e>
+<e lm="whitwey">         <i>whitwey</i><par n="whaur__adv"/></e>
+<e lm="wioot">           <i>wioot</i><par n="mebbe__adv"/></e>
+<e lm="withoot">         <i>withoot</i><par n="mebbe__adv"/></e>
+<e lm="yestreen">        <i>yestreen</i><par n="mebbe__adv"/></e>
+<e lm="yince">           <i>yince</i><par n="mebbe__adv"/></e>
 
-    <!-- predeterminer -->
+
+
+    <!-- DETERMINERS -->
+
+<e r="LR" lm="a">        <i>a</i><par n="a__det"/></e>
+<e r="RL" lm="a">        <p><l><a/>a</l><r>a</r></p><par n="a__det"/></e>
+<e lm="anither">         <i>anither</i><par n="anither__det"/></e>
+<e lm="eneuch">          <i>eneuch</i><par n="eneuch__det"/></e>
+<e lm="her">             <i>her</i><par n="her__det"/></e>
+<e lm="his">             <i>his</i><par n="her__det"/></e>
+<e lm="ilk">             <i>ilk</i><par n="eneuch__det"/></e>
+<e lm="ither">           <i>ither</i><par n="ither__det"/></e>
+<e lm="its">             <i>its</i><par n="her__det"/></e>
+<e lm="ma">              <i>ma</i><par n="her__det"/></e>
+<e lm="mair">            <i>mair</i><par n="eneuch__det"/></e>
+<e lm="maist">           <i>maist</i><par n="eneuch__det"/></e>
+<e lm="mony">            <i>mony</i><par n="the__det"/></e>
+<e lm="my">              <i>my</i><par n="her__det"/></e>
+<e lm="no">              <i>no</i><par n="eneuch__det"/></e>
+<e lm="some">            <i>some</i><par n="eneuch__det"/></e>
+<e lm="the">             <i>the</i><par n="the__det"/></e>
+<e lm="thir">            <i>th</i><par n="th/ir__det"/></e>
+<e lm="whit">            <i>whit</i><par n="whit__det"/></e>
+<e lm="yer">             <i>yer</i><par n="her__det"/></e>
+<e lm="your">            <i>your</i><par n="her__det"/></e>
+
+
+
+    <!--  predeterminers -->
+
 <e lm="aw">              <i>aw</i><par n="aw__predet"/></e>
+
 
     <!-- relative pronoun -->
 <e lm="that">            <i>that</i><par n="that__rel"/></e>
 
-    <!-- conjunctions -->
 
-<e lm="an">              <i>an</i><par n="an__cnjcoo"/></e>
-<e lm="or">              <i>or</i><par n="an__cnjcoo"/></e>
-<e lm="but">             <i>but</i><par n="but__cnjsub"/></e>
 
 <e lm="verra">           <i>verra</i><par n="verra__preadv"/></e>
 <e lm="mair">            <i>mair</i><par n="verra__preadv"/></e>
@@ -2644,22 +2745,6 @@
 <e lm="efter">           <i>efter</i><par n="efter__cnjadv"/></e>
 <e lm="as weel as">      <i>as<b/>weel<b/>as</i><par n="efter__cnjadv"/></e>
 
-    
-<e r="LR" lm="a">        <i>a</i><par n="a__det"/></e>
-<e r="RL" lm="a">        <p><l><a/>a</l>     <r>a</r></p><par n="a__det"/></e>
-<e lm="anither">         <i>anither</i><par n="anither__det"/></e>
-<e lm="eneuch">          <i>eneuch</i><par n="eneuch__det"/></e>
-<e lm="her">             <i>her</i><par n="her__det"/></e>
-<e lm="his">             <i>his</i><par n="her__det"/></e>
-<e lm="ither">           <i>ither</i><par n="ither__det"/></e>
-<e lm="ma">              <i>ma</i><par n="her__det"/></e>
-<e lm="mair">            <i>mair</i><par n="eneuch__det"/></e>
-<e lm="maist">           <i>maist</i><par n="eneuch__det"/></e>
-<e lm="my">              <i>my</i><par n="her__det"/></e>
-<e lm="the">             <i>the</i><par n="the__det"/></e>
-<e lm="whit">            <i>whit</i><par n="whit__det"/></e>
-
-<e lm="thir">            <i>th</i><par n="th/ir__det"/></e>
     
 <e lm="aboot">           <i>aboot</i><par n="tae__pr"/></e>
 <e lm="afore">           <i>afore</i><par n="tae__pr"/></e>
@@ -2734,6 +2819,7 @@
 <e lm="braw">            <i>braw</i><par n="lang/__adj"/></e>
 <e lm="bricht">          <i>bricht</i><par n="lang/__adj"/></e>
 <e lm="broon">           <i>broon</i><par n="lang/__adj"/></e>
+<e lm="bruckle">         <i>bruckle</i><par n="bairnie/__adj"/></e>
 <e lm="built">           <i>built</i><par n="expensive__adj"/></e>
 <e lm="buskit">          <i>buskit</i><par n="expensive__adj"/></e>
 <e lm="busy">            <i>bus</i><par n="barr/y__adj"/></e>
@@ -3132,29 +3218,42 @@
 <e lm="shoud">           <i>shoud</i><par n="will/__vbmod"/></e>
     <!-- }}} --> <!-- /auxilliaries -->
     
-    <!-- proper-nouns --> <!-- {{{ -->
-<e lm="Albany">          <i>Albany</i><par n="Barcelona__np"/></e>
-<e lm="Orkney">          <i>Orkney</i><par n="Barcelona__np"/></e>
 
+
+    <!-- PROPER NOUNS - NNPs --> <!-- {{{ -->
+
+      <!-- Places -->
+<e lm="Africae">         <i>Africae</i><par n="Barcelona__np"/></e>
+<e lm="Aiberdeen">       <i>Aiberdeen</i><par n="Barcelona__np"/></e>
+<e lm="Airlan">          <i>Airlan</i><par n="Barcelona__np"/></e>
+<e lm="Albany">          <i>Albany</i><par n="Barcelona__np"/></e>
+<e lm="Americae">        <i>Americae</i><par n="Barcelona__np"/></e>
 <e lm="Barcelona">       <i>Barcelona</i><par n="Barcelona__np"/></e>
-<e lm="Sparta">          <i>Sparta</i><par n="Barcelona__np"/></e>
+<e lm="Catalonie">       <i>Catalonie</i><par n="Barcelona__np"/></e>
+<e lm="Erse Sea">        <i>Erse<b/>Sea</i><par n="Barcelona__np"/></e>
+<e lm="Fraunce">         <i>Fraunce</i><par n="Barcelona__np"/></e>
+<e lm="German Ocean">    <i>German<b/>Ocean</i><par n="Barcelona__np"/></e>
 <e lm="Greece">          <i>Greece</i><par n="Barcelona__np"/></e>
-<e lm="Spain">           <i>Spain</i><par n="Barcelona__np"/></e>
-<e lm="Scotland">        <i>Scotland</i><par n="Barcelona__np"/></e>
 <e lm="Ingland">         <i>Ingland</i><par n="Barcelona__np"/></e>
-<e lm="Unitit Kinrick">  <i>Unitit<b/>Kinrick</i><par n="Barcelona__np"/></e>
+<e lm="Inglis Chainnel"> <i>Inglis<b/>Chainnel</i><par n="Barcelona__np"/></e>
+<e lm="Ireland">         <i>Ireland</i><par n="Barcelona__np"/></e>
+<e lm="Irland">          <i>Irland</i><par n="Barcelona__np"/></e>
 <e lm="Lunnon">          <i>Lunnon</i><par n="Barcelona__np"/></e>
 <e lm="Northren Ireland"><i>Northren<b/>Ireland</i><par n="Barcelona__np"/></e>
-<e lm="Ireland">         <i>Ireland</i><par n="Barcelona__np"/></e>
 <e lm="Northren Irland"> <i>Northren<b/>Irland</i><par n="Barcelona__np"/></e>
-<e lm="Irland">          <i>Irland</i><par n="Barcelona__np"/></e>
-<e lm="German Ocean">    <i>German<b/>Ocean</i><par n="Barcelona__np"/></e>
-<e lm="Catalonie">       <i>Catalonie</i><par n="Barcelona__np"/></e>
-<e lm="Fraunce">         <i>Fraunce</i><par n="Barcelona__np"/></e>
-<e lm="Inglis Chainnel"> <i>Inglis<b/>Chainnel</i><par n="Barcelona__np"/></e>
-<e lm="Erse Sea">        <i>Erse<b/>Sea</i><par n="Barcelona__np"/></e>
-<e lm="Wastmeenster">    <i>Wastmeenster</i><par n="Barcelona__np"/></e>
+<e lm="Orkney">          <i>Orkney</i><par n="Barcelona__np"/></e>
 <e lm="Roushie">         <i>Roushie</i><par n="Barcelona__np"/></e>
+<e lm="Scotland">        <i>Scotland</i><par n="Barcelona__np"/></e>
+<e lm="Spain">           <i>Spain</i><par n="Barcelona__np"/></e>
+<e lm="Sparta">          <i>Sparta</i><par n="Barcelona__np"/></e>
+<e lm="Unitit Kinrick">  <i>Unitit<b/>Kinrick</i><par n="Barcelona__np"/></e>
+<e lm="Wastmeenster">    <i>Wastmeenster</i><par n="Barcelona__np"/></e>
+
+      <!-- Places -->
+<e lm="Aprile">          <i>Aprile</i><par n="Barcelona__np"/></e>
+
+
+
     <!-- }}} --> <!-- /proper-nouns -->
 
 
@@ -9006,14 +9105,6 @@
 
 
 
-    <!-- determiners -->
-<e lm="the">             <i>the</i><par n="the__det"/></e>
-<e lm="mony">            <i>mony</i><par n="the__det"/></e>
-
-    <!--  predeterminers
-    	 -->
-
-<e lm="aw">              <i>aw</i><par n="aw__predet"/></e>
 
 
     <!-- pre-nominal thingies that are also nouns, Queen Leezabeth, Saunt Aundraes -->

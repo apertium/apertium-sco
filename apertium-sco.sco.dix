@@ -781,17 +781,7 @@
   <e>       <p><l>in</l>        <r><s n="vblex"/><s n="pprs"/></r></p></e>
   <e>       <p><l>in</l>        <r><s n="vblex"/><s n="subs"/></r></p></e>
 </pardef>
-<pardef n="jyn/e__vblex">
-  <e>       <p><l>e</l>         <r>e<s n="vblex"/><s n="inf"/></r></p></e>
-  <e>       <p><l>e</l>         <r>e<s n="vblex"/><s n="pres"/></r></p></e>
-  <e>       <p><l>s</l>         <r>e<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
-  <e>       <p><l>t</l>         <r>e<s n="vblex"/><s n="past"/></r></p></e>
-  <e>       <p><l>t</l>         <r>e<s n="vblex"/><s n="pp"/></r></p></e>
-  <e r="LR"><p><l>n</l>         <r>e<s n="vblex"/><s n="pp"/></r></p></e>
-  <e>       <p><l>in</l>        <r>e<s n="vblex"/><s n="ger"/></r></p></e>
-  <e>       <p><l>in</l>        <r>e<s n="vblex"/><s n="pprs"/></r></p></e>
-  <e>       <p><l>in</l>        <r>e<s n="vblex"/><s n="subs"/></r></p></e>
-</pardef>
+
 <pardef n="gie__vblex">
   <e>       <p><l></l>          <r><s n="vblex"/><s n="inf"/></r></p></e>
   <e>       <p><l></l>          <r><s n="vblex"/><s n="pres"/></r></p></e>
@@ -1385,14 +1375,14 @@
   <e>       <p><l>innin</l>         <r><s n="vblex"/><s n="subs"/></r></p></e>
 </pardef>
 <pardef n="wr/ite__vblex">
-  <e>       <p><l>ite</l>           <r><s n="vblex"/><s n="inf"/></r></p></e>
-  <e>       <p><l>ite</l>           <r><s n="vblex"/><s n="pres"/></r></p></e>
-  <e>       <p><l>ites</l>          <r><s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
-  <e>       <p><l>it</l>          <r><s n="vblex"/><s n="past"/></r></p></e>
-  <e>       <p><l>ote</l>          <r><s n="vblex"/><s n="pp"/></r></p></e>
-  <e>       <p><l>itin</l>         <r><s n="vblex"/><s n="ger"/></r></p></e>
-  <e>       <p><l>itin</l>         <r><s n="vblex"/><s n="pprs"/></r></p></e>
-  <e>       <p><l>itin</l>         <r><s n="vblex"/><s n="subs"/></r></p></e>
+  <e>       <p><l>ite</l>           <r>ite<s n="vblex"/><s n="inf"/></r></p></e>
+  <e>       <p><l>ite</l>           <r>ite<s n="vblex"/><s n="pres"/></r></p></e>
+  <e>       <p><l>ites</l>          <r>ite<s n="vblex"/><s n="pres"/><s n="p3"/><s n="sg"/></r></p></e>
+  <e>       <p><l>it</l>          <r>ite<s n="vblex"/><s n="past"/></r></p></e>
+  <e>       <p><l>ote</l>          <r>ite<s n="vblex"/><s n="pp"/></r></p></e>
+  <e>       <p><l>itin</l>         <r>ite<s n="vblex"/><s n="ger"/></r></p></e>
+  <e>       <p><l>itin</l>         <r>ite<s n="vblex"/><s n="pprs"/></r></p></e>
+  <e>       <p><l>itin</l>         <r>ite<s n="vblex"/><s n="subs"/></r></p></e>
 </pardef>
 <pardef n="d/ae__vaux">
   <e>       <p><l>ae</l>        <r>ae<s n="vbdo"/><s n="pres"/></r></p><par n="na__S"/></e>

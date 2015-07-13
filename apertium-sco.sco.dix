@@ -451,74 +451,74 @@
   <e>       <p><l>bein</l>      <r>be<s n="vbser"/><s n="subs"/></r></p></e>
 </pardef>
 <pardef n="a/we__vblex">
-  <e>       <p><l>we</l>       <r>ing<s n="vblex"/><s n="inf"/></r></p></e>
-  <e>       <p><l>we</l>       <r>ing<s n="vblex"/><s n="pres"/></r></p></e>
-  <e>       <p><l>wes</l>      <r>ing<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
-  <e>       <p><l>ucht</l>      <r>ing<s n="vblex"/><s n="past"/></r></p></e>
-  <e>       <p><l>ucht</l>      <r>ing<s n="vblex"/><s n="pp"/></r></p></e>
-  <e>       <p><l>win</l>     <r>ing<s n="vblex"/><s n="ger"/></r></p></e>
-  <e>       <p><l>win</l>     <r>ing<s n="vblex"/><s n="pprs"/></r></p></e>
-  <e>       <p><l>win</l>     <r>ing<s n="vblex"/><s n="subs"/></r></p></e>
+  <e>       <p><l>we</l>       <r>we<s n="vblex"/><s n="inf"/></r></p></e>
+  <e>       <p><l>we</l>       <r>we<s n="vblex"/><s n="pres"/></r></p></e>
+  <e>       <p><l>wes</l>      <r>we<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+  <e>       <p><l>ucht</l>      <r>we<s n="vblex"/><s n="past"/></r></p></e>
+  <e>       <p><l>ucht</l>      <r>we<s n="vblex"/><s n="pp"/></r></p></e>
+  <e>       <p><l>win</l>     <r>we<s n="vblex"/><s n="ger"/></r></p></e>
+  <e>       <p><l>win</l>     <r>we<s n="vblex"/><s n="pprs"/></r></p></e>
+  <e>       <p><l>win</l>     <r>we<s n="vblex"/><s n="subs"/></r></p></e>
 </pardef>
 <pardef n="b/eir__vblex">
-  <e>       <p><l>eir</l>       <r>ing<s n="vblex"/><s n="inf"/></r></p></e>
-  <e>       <p><l>eir</l>       <r>ing<s n="vblex"/><s n="pres"/></r></p></e>
-  <e>       <p><l>eirs</l>      <r>ing<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
-  <e>       <p><l>uir</l>      <r>ing<s n="vblex"/><s n="past"/></r></p></e>
-  <e>       <p><l>orn</l>      <r>ing<s n="vblex"/><s n="pp"/></r></p></e>
-  <e>       <p><l>eirin</l>     <r>ing<s n="vblex"/><s n="ger"/></r></p></e>
-  <e>       <p><l>eirin</l>     <r>ing<s n="vblex"/><s n="pprs"/></r></p></e>
-  <e>       <p><l>eirin</l>     <r>ing<s n="vblex"/><s n="subs"/></r></p></e>
+  <e>       <p><l>eir</l>       <r>eir<s n="vblex"/><s n="inf"/></r></p></e>
+  <e>       <p><l>eir</l>       <r>eir<s n="vblex"/><s n="pres"/></r></p></e>
+  <e>       <p><l>eirs</l>      <r>eir<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+  <e>       <p><l>uir</l>      <r>eir<s n="vblex"/><s n="past"/></r></p></e>
+  <e>       <p><l>orn</l>      <r>eir<s n="vblex"/><s n="pp"/></r></p></e>
+  <e>       <p><l>eirin</l>     <r>eir<s n="vblex"/><s n="ger"/></r></p></e>
+  <e>       <p><l>eirin</l>     <r>eir<s n="vblex"/><s n="pprs"/></r></p></e>
+  <e>       <p><l>eirin</l>     <r>eir<s n="vblex"/><s n="subs"/></r></p></e>
 </pardef>
 <pardef n="bid/e__vblex">
-  <e>       <p><l>e</l>       <r>ing<s n="vblex"/><s n="inf"/></r></p></e>
-  <e>       <p><l>e</l>       <r>ing<s n="vblex"/><s n="pres"/></r></p></e>
-  <e>       <p><l>es</l>      <r>ing<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
-  <e>       <p><l>id</l>      <r>ing<s n="vblex"/><s n="past"/></r></p></e>
-  <e>       <p><l>id</l>      <r>ing<s n="vblex"/><s n="pp"/></r></p></e>
-  <e>       <p><l>in</l>     <r>ing<s n="vblex"/><s n="ger"/></r></p></e>
-  <e>       <p><l>in</l>     <r>ing<s n="vblex"/><s n="pprs"/></r></p></e>
-  <e>       <p><l>in</l>     <r>ing<s n="vblex"/><s n="subs"/></r></p></e>
+  <e>       <p><l>e</l>       <r>e<s n="vblex"/><s n="inf"/></r></p></e>
+  <e>       <p><l>e</l>       <r>e<s n="vblex"/><s n="pres"/></r></p></e>
+  <e>       <p><l>es</l>      <r>e<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+  <e>       <p><l>id</l>      <r>e<s n="vblex"/><s n="past"/></r></p></e>
+  <e>       <p><l>id</l>      <r>e<s n="vblex"/><s n="pp"/></r></p></e>
+  <e>       <p><l>in</l>     <r>e<s n="vblex"/><s n="ger"/></r></p></e>
+  <e>       <p><l>in</l>     <r>e<s n="vblex"/><s n="pprs"/></r></p></e>
+  <e>       <p><l>in</l>     <r>e<s n="vblex"/><s n="subs"/></r></p></e>
 </pardef>
 <pardef n="b/ind__vblex">
-  <e>       <p><l>ind</l>       <r>ing<s n="vblex"/><s n="inf"/></r></p></e>
-  <e>       <p><l>ind</l>       <r>ing<s n="vblex"/><s n="pres"/></r></p></e>
-  <e>       <p><l>inds</l>      <r>ing<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
-  <e>       <p><l>and</l>      <r>ing<s n="vblex"/><s n="past"/></r></p></e>
-  <e>       <p><l>und</l>      <r>ing<s n="vblex"/><s n="pp"/></r></p></e>
-  <e>       <p><l>indin</l>     <r>ing<s n="vblex"/><s n="ger"/></r></p></e>
-  <e>       <p><l>indin</l>     <r>ing<s n="vblex"/><s n="pprs"/></r></p></e>
-  <e>       <p><l>indin</l>     <r>ing<s n="vblex"/><s n="subs"/></r></p></e>
+  <e>       <p><l>ind</l>       <r>ind<s n="vblex"/><s n="inf"/></r></p></e>
+  <e>       <p><l>ind</l>       <r>ind<s n="vblex"/><s n="pres"/></r></p></e>
+  <e>       <p><l>inds</l>      <r>ind<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+  <e>       <p><l>and</l>      <r>ind<s n="vblex"/><s n="past"/></r></p></e>
+  <e>       <p><l>und</l>      <r>ind<s n="vblex"/><s n="pp"/></r></p></e>
+  <e>       <p><l>indin</l>     <r>ind<s n="vblex"/><s n="ger"/></r></p></e>
+  <e>       <p><l>indin</l>     <r>ind<s n="vblex"/><s n="pprs"/></r></p></e>
+  <e>       <p><l>indin</l>     <r>ind<s n="vblex"/><s n="subs"/></r></p></e>
 </pardef>
 <pardef n="b/ite__vblex">
-  <e>       <p><l>ite</l>       <r>ing<s n="vblex"/><s n="inf"/></r></p></e>
-  <e>       <p><l>ite</l>       <r>ing<s n="vblex"/><s n="pres"/></r></p></e>
-  <e>       <p><l>ites</l>      <r>ing<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
-  <e>       <p><l>ait</l>      <r>ing<s n="vblex"/><s n="past"/></r></p></e>
-  <e>       <p><l>itten</l>      <r>ing<s n="vblex"/><s n="pp"/></r></p></e>
-  <e>       <p><l>itin</l>     <r>ing<s n="vblex"/><s n="ger"/></r></p></e>
-  <e>       <p><l>itin</l>     <r>ing<s n="vblex"/><s n="pprs"/></r></p></e>
-  <e>       <p><l>itin</l>     <r>ing<s n="vblex"/><s n="subs"/></r></p></e>
+  <e>       <p><l>ite</l>       <r>ite<s n="vblex"/><s n="inf"/></r></p></e>
+  <e>       <p><l>ite</l>       <r>ite<s n="vblex"/><s n="pres"/></r></p></e>
+  <e>       <p><l>ites</l>      <r>ite<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+  <e>       <p><l>ait</l>      <r>ite<s n="vblex"/><s n="past"/></r></p></e>
+  <e>       <p><l>itten</l>      <r>ite<s n="vblex"/><s n="pp"/></r></p></e>
+  <e>       <p><l>itin</l>     <r>ite<s n="vblex"/><s n="ger"/></r></p></e>
+  <e>       <p><l>itin</l>     <r>ite<s n="vblex"/><s n="pprs"/></r></p></e>
+  <e>       <p><l>itin</l>     <r>ite<s n="vblex"/><s n="subs"/></r></p></e>
 </pardef>
 <pardef n="blaw__vblex">
-  <e>       <p><l></l>       <r>ing<s n="vblex"/><s n="inf"/></r></p></e>
-  <e>       <p><l></l>       <r>ing<s n="vblex"/><s n="pres"/></r></p></e>
-  <e>       <p><l>s</l>      <r>ing<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
-  <e>       <p><l>d</l>      <r>ing<s n="vblex"/><s n="past"/></r></p></e>
-  <e>       <p><l>n</l>      <r>ing<s n="vblex"/><s n="pp"/></r></p></e>
-  <e>       <p><l>in</l>     <r>ing<s n="vblex"/><s n="ger"/></r></p></e>
-  <e>       <p><l>in</l>     <r>ing<s n="vblex"/><s n="pprs"/></r></p></e>
-  <e>       <p><l>in</l>     <r>ing<s n="vblex"/><s n="subs"/></r></p></e>
+  <e>       <p><l></l>       <r><s n="vblex"/><s n="inf"/></r></p></e>
+  <e>       <p><l></l>       <r><s n="vblex"/><s n="pres"/></r></p></e>
+  <e>       <p><l>s</l>      <r><s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+  <e>       <p><l>d</l>      <r><s n="vblex"/><s n="past"/></r></p></e>
+  <e>       <p><l>n</l>      <r><s n="vblex"/><s n="pp"/></r></p></e>
+  <e>       <p><l>in</l>     <r><s n="vblex"/><s n="ger"/></r></p></e>
+  <e>       <p><l>in</l>     <r><s n="vblex"/><s n="pprs"/></r></p></e>
+  <e>       <p><l>in</l>     <r><s n="vblex"/><s n="subs"/></r></p></e>
 </pardef>
 <pardef n="brak__vblex">
-  <e>       <p><l></l>       <r>ing<s n="vblex"/><s n="inf"/></r></p></e>
-  <e>       <p><l></l>       <r>ing<s n="vblex"/><s n="pres"/></r></p></e>
-  <e>       <p><l>s</l>      <r>ing<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
-  <e>       <p><l></l>      <r>ing<s n="vblex"/><s n="past"/></r></p></e>
-  <e>       <p><l></l>      <r>ing<s n="vblex"/><s n="pp"/></r></p></e>
-  <e>       <p><l>kin</l>     <r>ing<s n="vblex"/><s n="ger"/></r></p></e>
-  <e>       <p><l>kin</l>     <r>ing<s n="vblex"/><s n="pprs"/></r></p></e>
-  <e>       <p><l>kin</l>     <r>ing<s n="vblex"/><s n="subs"/></r></p></e>
+  <e>       <p><l></l>       <r><s n="vblex"/><s n="inf"/></r></p></e>
+  <e>       <p><l></l>       <r><s n="vblex"/><s n="pres"/></r></p></e>
+  <e>       <p><l>s</l>      <r><s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+  <e>       <p><l></l>      <r><s n="vblex"/><s n="past"/></r></p></e>
+  <e>       <p><l></l>      <r><s n="vblex"/><s n="pp"/></r></p></e>
+  <e>       <p><l>kin</l>     <r><s n="vblex"/><s n="ger"/></r></p></e>
+  <e>       <p><l>kin</l>     <r><s n="vblex"/><s n="pprs"/></r></p></e>
+  <e>       <p><l>kin</l>     <r><s n="vblex"/><s n="subs"/></r></p></e>
 </pardef>
 <pardef n="br/ing__vblex">
   <e>       <p><l>ing</l>       <r>ing<s n="vblex"/><s n="inf"/></r></p></e>
@@ -531,14 +531,14 @@
   <e>       <p><l>ingin</l>     <r>ing<s n="vblex"/><s n="subs"/></r></p></e>
 </pardef>
 <pardef n="b/urst__vblex">
-  <e>       <p><l>urst</l>         <r>y<s n="vblex"/><s n="inf"/></r></p></e>
-  <e>       <p><l>urst</l>         <r>y<s n="vblex"/><s n="pres"/></r></p></e>
-  <e>       <p><l>ursts</l>       <r>y<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
-  <e>       <p><l>arst</l>       <r>y<s n="vblex"/><s n="past"/></r></p></e>
-  <e>       <p><l>urstit</l>       <r>y<s n="vblex"/><s n="pp"/></r></p></e>
-  <e>       <p><l>urstin</l>       <r>y<s n="vblex"/><s n="ger"/></r></p></e>
-  <e>       <p><l>urstin</l>       <r>y<s n="vblex"/><s n="pprs"/></r></p></e>
-  <e>       <p><l>urstin</l>       <r>y<s n="vblex"/><s n="subs"/></r></p></e>
+  <e>       <p><l>urst</l>         <r>urst<s n="vblex"/><s n="inf"/></r></p></e>
+  <e>       <p><l>urst</l>         <r>urst<s n="vblex"/><s n="pres"/></r></p></e>
+  <e>       <p><l>ursts</l>       <r>urst<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+  <e>       <p><l>arst</l>       <r>urst<s n="vblex"/><s n="past"/></r></p></e>
+  <e>       <p><l>urstit</l>       <r>urst<s n="vblex"/><s n="pp"/></r></p></e>
+  <e>       <p><l>urstin</l>       <r>urst<s n="vblex"/><s n="ger"/></r></p></e>
+  <e>       <p><l>urstin</l>       <r>urst<s n="vblex"/><s n="pprs"/></r></p></e>
+  <e>       <p><l>urstin</l>       <r>urst<s n="vblex"/><s n="subs"/></r></p></e>
 </pardef>
 <pardef n="bur/y__vblex">
   <e>       <p><l>y</l>         <r>y<s n="vblex"/><s n="inf"/></r></p></e>
@@ -551,44 +551,44 @@
   <e>       <p><l>yin</l>       <r>y<s n="vblex"/><s n="subs"/></r></p></e>
 </pardef>
 <pardef n="b/uy__vblex">
-  <e>       <p><l>uy</l>         <r>y<s n="vblex"/><s n="inf"/></r></p></e>
-  <e>       <p><l>uy</l>         <r>y<s n="vblex"/><s n="pres"/></r></p></e>
-  <e>       <p><l>uys</l>       <r>y<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
-  <e>       <p><l>ocht</l>       <r>y<s n="vblex"/><s n="past"/></r></p></e>
-  <e>       <p><l>ocht</l>       <r>y<s n="vblex"/><s n="pp"/></r></p></e>
-  <e>       <p><l>uyin</l>       <r>y<s n="vblex"/><s n="ger"/></r></p></e>
-  <e>       <p><l>uyin</l>       <r>y<s n="vblex"/><s n="pprs"/></r></p></e>
-  <e>       <p><l>uyin</l>       <r>y<s n="vblex"/><s n="subs"/></r></p></e>
+  <e>       <p><l>uy</l>         <r>uy<s n="vblex"/><s n="inf"/></r></p></e>
+  <e>       <p><l>uy</l>         <r>uy<s n="vblex"/><s n="pres"/></r></p></e>
+  <e>       <p><l>uys</l>       <r>uy<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+  <e>       <p><l>ocht</l>       <r>uy<s n="vblex"/><s n="past"/></r></p></e>
+  <e>       <p><l>ocht</l>       <r>uy<s n="vblex"/><s n="pp"/></r></p></e>
+  <e>       <p><l>uyin</l>       <r>uy<s n="vblex"/><s n="ger"/></r></p></e>
+  <e>       <p><l>uyin</l>       <r>uy<s n="vblex"/><s n="pprs"/></r></p></e>
+  <e>       <p><l>uyin</l>       <r>uy<s n="vblex"/><s n="subs"/></r></p></e>
 </pardef>
 <pardef n="byl/e__vblex">
-  <e>       <p><l>e</l>         <r>y<s n="vblex"/><s n="inf"/></r></p></e>
-  <e>       <p><l>e</l>         <r>y<s n="vblex"/><s n="pres"/></r></p></e>
-  <e>       <p><l>es</l>       <r>y<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
-  <e>       <p><l>t</l>       <r>y<s n="vblex"/><s n="past"/></r></p></e>
-  <e>       <p><l>ed</l>       <r>y<s n="vblex"/><s n="pp"/></r></p></e>
-  <e>       <p><l>in</l>       <r>y<s n="vblex"/><s n="ger"/></r></p></e>
-  <e>       <p><l>in</l>       <r>y<s n="vblex"/><s n="pprs"/></r></p></e>
-  <e>       <p><l>in</l>       <r>y<s n="vblex"/><s n="subs"/></r></p></e>
+  <e>       <p><l>e</l>         <r>e<s n="vblex"/><s n="inf"/></r></p></e>
+  <e>       <p><l>e</l>         <r>e<s n="vblex"/><s n="pres"/></r></p></e>
+  <e>       <p><l>es</l>       <r>e<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+  <e>       <p><l>t</l>       <r>e<s n="vblex"/><s n="past"/></r></p></e>
+  <e>       <p><l>ed</l>       <r>e<s n="vblex"/><s n="pp"/></r></p></e>
+  <e>       <p><l>in</l>       <r>e<s n="vblex"/><s n="ger"/></r></p></e>
+  <e>       <p><l>in</l>       <r>e<s n="vblex"/><s n="pprs"/></r></p></e>
+  <e>       <p><l>in</l>       <r>e<s n="vblex"/><s n="subs"/></r></p></e>
 </pardef>
 <pardef n="ch/aw__vblex">
-  <e>       <p><l>aw</l>         <r>y<s n="vblex"/><s n="inf"/></r></p></e>
-  <e>       <p><l>aw</l>         <r>y<s n="vblex"/><s n="pres"/></r></p></e>
-  <e>       <p><l>aws</l>       <r>y<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
-  <e>       <p><l>ew</l>       <r>y<s n="vblex"/><s n="past"/></r></p></e>
-  <e>       <p><l>awed</l>       <r>y<s n="vblex"/><s n="pp"/></r></p></e>
-  <e>       <p><l>awin</l>       <r>y<s n="vblex"/><s n="ger"/></r></p></e>
-  <e>       <p><l>awin</l>       <r>y<s n="vblex"/><s n="pprs"/></r></p></e>
-  <e>       <p><l>awin</l>       <r>y<s n="vblex"/><s n="subs"/></r></p></e>
+  <e>       <p><l>aw</l>         <r>aw<s n="vblex"/><s n="inf"/></r></p></e>
+  <e>       <p><l>aw</l>         <r>aw<s n="vblex"/><s n="pres"/></r></p></e>
+  <e>       <p><l>aws</l>       <r>aw<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+  <e>       <p><l>ew</l>       <r>aw<s n="vblex"/><s n="past"/></r></p></e>
+  <e>       <p><l>awed</l>       <r>aw<s n="vblex"/><s n="pp"/></r></p></e>
+  <e>       <p><l>awin</l>       <r>aw<s n="vblex"/><s n="ger"/></r></p></e>
+  <e>       <p><l>awin</l>       <r>aw<s n="vblex"/><s n="pprs"/></r></p></e>
+  <e>       <p><l>awin</l>       <r>aw<s n="vblex"/><s n="subs"/></r></p></e>
 </pardef>
 <pardef n="ch/uise__vblex">
-  <e>       <p><l>uise</l>         <r>y<s n="vblex"/><s n="inf"/></r></p></e>
-  <e>       <p><l>uise</l>         <r>y<s n="vblex"/><s n="pres"/></r></p></e>
-  <e>       <p><l>uises</l>       <r>y<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
-  <e>       <p><l>uised</l>       <r>y<s n="vblex"/><s n="past"/></r></p></e>
-  <e>       <p><l>osen</l>       <r>y<s n="vblex"/><s n="pp"/></r></p></e>
-  <e>       <p><l>uisin</l>       <r>y<s n="vblex"/><s n="ger"/></r></p></e>
-  <e>       <p><l>uisin</l>       <r>y<s n="vblex"/><s n="pprs"/></r></p></e>
-  <e>       <p><l>uisin</l>       <r>y<s n="vblex"/><s n="subs"/></r></p></e>
+  <e>       <p><l>uise</l>         <r>uise<s n="vblex"/><s n="inf"/></r></p></e>
+  <e>       <p><l>uise</l>         <r>uise<s n="vblex"/><s n="pres"/></r></p></e>
+  <e>       <p><l>uises</l>       <r>uise<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+  <e>       <p><l>uised</l>       <r>uise<s n="vblex"/><s n="past"/></r></p></e>
+  <e>       <p><l>osen</l>       <r>uise<s n="vblex"/><s n="pp"/></r></p></e>
+  <e>       <p><l>uisin</l>       <r>uise<s n="vblex"/><s n="ger"/></r></p></e>
+  <e>       <p><l>uisin</l>       <r>uise<s n="vblex"/><s n="pprs"/></r></p></e>
+  <e>       <p><l>uisin</l>       <r>uise<s n="vblex"/><s n="subs"/></r></p></e>
 </pardef>
 <pardef n="ga/ng__vblex">
   <e>       <p><l>ng</l>        <r>ng<s n="vblex"/><s n="inf"/></r></p></e>
@@ -621,14 +621,14 @@
   <e>       <p><l>in</l>        <r><s n="vblex"/><s n="subs"/></r></p></e>
 </pardef>
 <pardef n="jyn/e__vblex">
-  <e>       <p><l>e</l>          <r><s n="vblex"/><s n="inf"/></r></p></e>
-  <e>       <p><l>e</l>          <r><s n="vblex"/><s n="pres"/></r></p></e>
-  <e>       <p><l>es</l>         <r><s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
-  <e>       <p><l>t</l>         <r><s n="vblex"/><s n="past"/></r></p></e>
-  <e>       <p><l>t</l>         <r><s n="vblex"/><s n="pp"/></r></p></e>
-  <e>       <p><l>in</l>        <r><s n="vblex"/><s n="ger"/></r></p></e>
-  <e>       <p><l>in</l>        <r><s n="vblex"/><s n="pprs"/></r></p></e>
-  <e>       <p><l>in</l>        <r><s n="vblex"/><s n="subs"/></r></p></e>
+  <e>       <p><l>e</l>          <r>e<s n="vblex"/><s n="inf"/></r></p></e>
+  <e>       <p><l>e</l>          <r>e<s n="vblex"/><s n="pres"/></r></p></e>
+  <e>       <p><l>es</l>         <r>e<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+  <e>       <p><l>t</l>         <r>e<s n="vblex"/><s n="past"/></r></p></e>
+  <e>       <p><l>t</l>         <r>e<s n="vblex"/><s n="pp"/></r></p></e>
+  <e>       <p><l>in</l>        <r>e<s n="vblex"/><s n="ger"/></r></p></e>
+  <e>       <p><l>in</l>        <r>e<s n="vblex"/><s n="pprs"/></r></p></e>
+  <e>       <p><l>in</l>        <r>e<s n="vblex"/><s n="subs"/></r></p></e>
 </pardef>
 <pardef n="belang__vblex">
   <e>       <p><l></l>          <r><s n="vblex"/><s n="inf"/></r></p></e>
@@ -711,64 +711,64 @@
   <e>       <p><l>in</l>        <r><s n="vblex"/><s n="subs"/></r></p></e>
 </pardef>
 <pardef n="advis/e__vblex">
-  <e>       <p><l>e</l>         <r><s n="vblex"/><s n="inf"/></r></p></e>
-  <e>       <p><l>e</l>         <r><s n="vblex"/><s n="pres"/></r></p></e>
-  <e>       <p><l>es</l>        <r><s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
-  <e>       <p><l>ed</l>        <r><s n="vblex"/><s n="past"/></r></p></e>
-  <e>       <p><l>ed</l>        <r><s n="vblex"/><s n="pp"/></r></p></e>
-  <e>       <p><l>in</l>        <r><s n="vblex"/><s n="ger"/></r></p></e>
-  <e>       <p><l>in</l>        <r><s n="vblex"/><s n="pprs"/></r></p></e>
-  <e>       <p><l>in</l>        <r><s n="vblex"/><s n="subs"/></r></p></e>
+  <e>       <p><l>e</l>         <r>e<s n="vblex"/><s n="inf"/></r></p></e>
+  <e>       <p><l>e</l>         <r>e<s n="vblex"/><s n="pres"/></r></p></e>
+  <e>       <p><l>es</l>        <r>e<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+  <e>       <p><l>ed</l>        <r>e<s n="vblex"/><s n="past"/></r></p></e>
+  <e>       <p><l>ed</l>        <r>e<s n="vblex"/><s n="pp"/></r></p></e>
+  <e>       <p><l>in</l>        <r>e<s n="vblex"/><s n="ger"/></r></p></e>
+  <e>       <p><l>in</l>        <r>e<s n="vblex"/><s n="pprs"/></r></p></e>
+  <e>       <p><l>in</l>        <r>e<s n="vblex"/><s n="subs"/></r></p></e>
 </pardef>
 <pardef n="annoonc/e__vblex">
-  <e>       <p><l>e</l>         <r><s n="vblex"/><s n="inf"/></r></p></e>
-  <e>       <p><l>e</l>         <r><s n="vblex"/><s n="pres"/></r></p></e>
-  <e>       <p><l>es</l>        <r><s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
-  <e>       <p><l>it</l>        <r><s n="vblex"/><s n="past"/></r></p></e>
-  <e>       <p><l>it</l>        <r><s n="vblex"/><s n="pp"/></r></p></e>
-  <e>       <p><l>in</l>        <r><s n="vblex"/><s n="ger"/></r></p></e>
-  <e>       <p><l>in</l>        <r><s n="vblex"/><s n="pprs"/></r></p></e>
-  <e>       <p><l>in</l>        <r><s n="vblex"/><s n="subs"/></r></p></e>
+  <e>       <p><l>e</l>         <r>e<s n="vblex"/><s n="inf"/></r></p></e>
+  <e>       <p><l>e</l>         <r>e<s n="vblex"/><s n="pres"/></r></p></e>
+  <e>       <p><l>es</l>        <r>e<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+  <e>       <p><l>it</l>        <r>e<s n="vblex"/><s n="past"/></r></p></e>
+  <e>       <p><l>it</l>        <r>e<s n="vblex"/><s n="pp"/></r></p></e>
+  <e>       <p><l>in</l>        <r>e<s n="vblex"/><s n="ger"/></r></p></e>
+  <e>       <p><l>in</l>        <r>e<s n="vblex"/><s n="pprs"/></r></p></e>
+  <e>       <p><l>in</l>        <r>e<s n="vblex"/><s n="subs"/></r></p></e>
 </pardef>
 <pardef n="bauch/le__vblex">
-  <e>       <p><l>le</l>        <r><s n="vblex"/><s n="inf"/></r></p></e>
-  <e>       <p><l>le</l>        <r><s n="vblex"/><s n="pres"/></r></p></e>
-  <e>       <p><l>les</l>       <r><s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
-  <e>       <p><l>elt</l>       <r><s n="vblex"/><s n="past"/></r></p></e>
-  <e>       <p><l>elt</l>       <r><s n="vblex"/><s n="pp"/></r></p></e>
-  <e>       <p><l>lin</l>       <r><s n="vblex"/><s n="ger"/></r></p></e>
-  <e>       <p><l>lin</l>       <r><s n="vblex"/><s n="pprs"/></r></p></e>
-  <e>       <p><l>lin</l>       <r><s n="vblex"/><s n="subs"/></r></p></e>
+  <e>       <p><l>le</l>        <r>le<s n="vblex"/><s n="inf"/></r></p></e>
+  <e>       <p><l>le</l>        <r>le<s n="vblex"/><s n="pres"/></r></p></e>
+  <e>       <p><l>les</l>       <r>le<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+  <e>       <p><l>elt</l>       <r>le<s n="vblex"/><s n="past"/></r></p></e>
+  <e>       <p><l>elt</l>       <r>le<s n="vblex"/><s n="pp"/></r></p></e>
+  <e>       <p><l>lin</l>       <r>le<s n="vblex"/><s n="ger"/></r></p></e>
+  <e>       <p><l>lin</l>       <r>le<s n="vblex"/><s n="pprs"/></r></p></e>
+  <e>       <p><l>lin</l>       <r>le<s n="vblex"/><s n="subs"/></r></p></e>
 </pardef>
 <pardef n="bok/e__vblex">
-  <e>       <p><l>e</l>         <r><s n="vblex"/><s n="inf"/></r></p></e>
-  <e>       <p><l>e</l>         <r><s n="vblex"/><s n="pres"/></r></p></e>
-  <e>       <p><l>es</l>        <r><s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
-  <e>       <p><l>it</l>        <r><s n="vblex"/><s n="past"/></r></p></e>
-  <e>       <p><l>t</l>         <r><s n="vblex"/><s n="pp"/></r></p></e>
-  <e>       <p><l>in</l>        <r><s n="vblex"/><s n="ger"/></r></p></e>
-  <e>       <p><l>in</l>        <r><s n="vblex"/><s n="pprs"/></r></p></e>
-  <e>       <p><l>in</l>        <r><s n="vblex"/><s n="subs"/></r></p></e>
+  <e>       <p><l>e</l>         <r>e<s n="vblex"/><s n="inf"/></r></p></e>
+  <e>       <p><l>e</l>         <r>e<s n="vblex"/><s n="pres"/></r></p></e>
+  <e>       <p><l>es</l>        <r>e<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+  <e>       <p><l>it</l>        <r>e<s n="vblex"/><s n="past"/></r></p></e>
+  <e>       <p><l>t</l>         <r>e<s n="vblex"/><s n="pp"/></r></p></e>
+  <e>       <p><l>in</l>        <r>e<s n="vblex"/><s n="ger"/></r></p></e>
+  <e>       <p><l>in</l>        <r>e<s n="vblex"/><s n="pprs"/></r></p></e>
+  <e>       <p><l>in</l>        <r>e<s n="vblex"/><s n="subs"/></r></p></e>
 </pardef>
 <pardef n="bus/y__vblex">
-  <e>       <p><l>y</l>          <r><s n="vblex"/><s n="inf"/></r></p></e>
-  <e>       <p><l>y</l>          <r><s n="vblex"/><s n="pres"/></r></p></e>
-  <e>       <p><l>ies</l>         <r><s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
-  <e>       <p><l>it</l>        <r><s n="vblex"/><s n="past"/></r></p></e>
-  <e>       <p><l>it</l>        <r><s n="vblex"/><s n="pp"/></r></p></e>
-  <e>       <p><l>yin</l>        <r><s n="vblex"/><s n="ger"/></r></p></e>
-  <e>       <p><l>yin</l>        <r><s n="vblex"/><s n="pprs"/></r></p></e>
-  <e>       <p><l>yin</l>        <r><s n="vblex"/><s n="subs"/></r></p></e>
+  <e>       <p><l>y</l>          <r>y<s n="vblex"/><s n="inf"/></r></p></e>
+  <e>       <p><l>y</l>          <r>y<s n="vblex"/><s n="pres"/></r></p></e>
+  <e>       <p><l>ies</l>         <r>y<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+  <e>       <p><l>it</l>        <r>y<s n="vblex"/><s n="past"/></r></p></e>
+  <e>       <p><l>it</l>        <r>y<s n="vblex"/><s n="pp"/></r></p></e>
+  <e>       <p><l>yin</l>        <r>y<s n="vblex"/><s n="ger"/></r></p></e>
+  <e>       <p><l>yin</l>        <r>y<s n="vblex"/><s n="pprs"/></r></p></e>
+  <e>       <p><l>yin</l>        <r>y<s n="vblex"/><s n="subs"/></r></p></e>
 </pardef>
 <pardef n="chor/ie__vblex">
-  <e>       <p><l>ie</l>          <r><s n="vblex"/><s n="inf"/></r></p></e>
-  <e>       <p><l>ie</l>          <r><s n="vblex"/><s n="pres"/></r></p></e>
-  <e>       <p><l>ies</l>         <r><s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
-  <e>       <p><l>ied</l>        <r><s n="vblex"/><s n="past"/></r></p></e>
-  <e>       <p><l>ied</l>        <r><s n="vblex"/><s n="pp"/></r></p></e>
-  <e>       <p><l>yin</l>        <r><s n="vblex"/><s n="ger"/></r></p></e>
-  <e>       <p><l>yin</l>        <r><s n="vblex"/><s n="pprs"/></r></p></e>
-  <e>       <p><l>yin</l>        <r><s n="vblex"/><s n="subs"/></r></p></e>
+  <e>       <p><l>ie</l>          <r>ie<s n="vblex"/><s n="inf"/></r></p></e>
+  <e>       <p><l>ie</l>          <r>ie<s n="vblex"/><s n="pres"/></r></p></e>
+  <e>       <p><l>ies</l>         <r>ie<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+  <e>       <p><l>ied</l>        <r>ie<s n="vblex"/><s n="past"/></r></p></e>
+  <e>       <p><l>ied</l>        <r>ie<s n="vblex"/><s n="pp"/></r></p></e>
+  <e>       <p><l>yin</l>        <r>ie<s n="vblex"/><s n="ger"/></r></p></e>
+  <e>       <p><l>yin</l>        <r>ie<s n="vblex"/><s n="pprs"/></r></p></e>
+  <e>       <p><l>yin</l>        <r>ie<s n="vblex"/><s n="subs"/></r></p></e>
 </pardef>
 <pardef n="jyne__vblex">
   <e>       <p><l></l>          <r><s n="vblex"/><s n="inf"/></r></p></e>
@@ -855,14 +855,14 @@
   <e>       <p><l>in</l>         <r>e<s n="vblex"/><s n="subs"/></r></p></e>
 </pardef>
 <pardef n="cour/ie__vblex">
-  <e>       <p><l>ie</l>          <r><s n="vblex"/><s n="inf"/></r></p></e>
-  <e>       <p><l>ie</l>          <r><s n="vblex"/><s n="pres"/></r></p></e>
-  <e>       <p><l>ies</l>         <r><s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
-  <e>       <p><l>it</l>          <r><s n="vblex"/><s n="past"/></r></p></e>
-  <e>       <p><l>it</l>          <r><s n="vblex"/><s n="pp"/></r></p></e>
-  <e>       <p><l>yin</l>        <r><s n="vblex"/><s n="ger"/></r></p></e>
-  <e>       <p><l>yin</l>        <r><s n="vblex"/><s n="pprs"/></r></p></e>
-  <e>       <p><l>yin</l>        <r><s n="vblex"/><s n="subs"/></r></p></e>
+  <e>       <p><l>ie</l>          <r>ie<s n="vblex"/><s n="inf"/></r></p></e>
+  <e>       <p><l>ie</l>          <r>ie<s n="vblex"/><s n="pres"/></r></p></e>
+  <e>       <p><l>ies</l>         <r>ie<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+  <e>       <p><l>it</l>          <r>ie<s n="vblex"/><s n="past"/></r></p></e>
+  <e>       <p><l>it</l>          <r>ie<s n="vblex"/><s n="pp"/></r></p></e>
+  <e>       <p><l>yin</l>        <r>ie<s n="vblex"/><s n="ger"/></r></p></e>
+  <e>       <p><l>yin</l>        <r>ie<s n="vblex"/><s n="pprs"/></r></p></e>
+  <e>       <p><l>yin</l>        <r>ie<s n="vblex"/><s n="subs"/></r></p></e>
 </pardef>
 <pardef n="craw__vblex">
   <e>       <p><l></l>          <r><s n="vblex"/><s n="inf"/></r></p></e>
@@ -875,14 +875,14 @@
   <e>       <p><l>in</l>        <r><s n="vblex"/><s n="subs"/></r></p></e>
 </pardef>
 <pardef n="cr/y__vblex">
-  <e>       <p><l>y</l>          <r><s n="vblex"/><s n="inf"/></r></p></e>
-  <e>       <p><l>y</l>          <r><s n="vblex"/><s n="pres"/></r></p></e>
-  <e>       <p><l>ies</l>         <r><s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
-  <e>       <p><l>ied</l>          <r><s n="vblex"/><s n="past"/></r></p></e>
-  <e>       <p><l>ied</l>          <r><s n="vblex"/><s n="pp"/></r></p></e>
-  <e>       <p><l>yin</l>        <r><s n="vblex"/><s n="ger"/></r></p></e>
-  <e>       <p><l>yin</l>        <r><s n="vblex"/><s n="pprs"/></r></p></e>
-  <e>       <p><l>yin</l>        <r><s n="vblex"/><s n="subs"/></r></p></e>
+  <e>       <p><l>y</l>          <r>y<s n="vblex"/><s n="inf"/></r></p></e>
+  <e>       <p><l>y</l>          <r>y<s n="vblex"/><s n="pres"/></r></p></e>
+  <e>       <p><l>ies</l>         <r>y<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+  <e>       <p><l>ied</l>          <r>y<s n="vblex"/><s n="past"/></r></p></e>
+  <e>       <p><l>ied</l>          <r>y<s n="vblex"/><s n="pp"/></r></p></e>
+  <e>       <p><l>yin</l>        <r>y<s n="vblex"/><s n="ger"/></r></p></e>
+  <e>       <p><l>yin</l>        <r>y<s n="vblex"/><s n="pprs"/></r></p></e>
+  <e>       <p><l>yin</l>        <r>y<s n="vblex"/><s n="subs"/></r></p></e>
 </pardef>
 <pardef n="dee__vblex">
   <e>       <p><l></l>          <r><s n="vblex"/><s n="inf"/></r></p></e>
@@ -895,14 +895,14 @@
   <e>       <p><l>in</l>        <r><s n="vblex"/><s n="subs"/></r></p></e>
 </pardef>
 <pardef n="d/ing__vblex">
-  <e>       <p><l>ing</l>          <r><s n="vblex"/><s n="inf"/></r></p></e>
-  <e>       <p><l>ing</l>          <r><s n="vblex"/><s n="pres"/></r></p></e>
-  <e>       <p><l>ings</l>         <r><s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
-  <e>       <p><l>ang</l>          <r><s n="vblex"/><s n="past"/></r></p></e>
-  <e>       <p><l>ung</l>          <r><s n="vblex"/><s n="pp"/></r></p></e>
-  <e>       <p><l>ingin</l>        <r><s n="vblex"/><s n="ger"/></r></p></e>
-  <e>       <p><l>ingin</l>        <r><s n="vblex"/><s n="pprs"/></r></p></e>
-  <e>       <p><l>ingin</l>        <r><s n="vblex"/><s n="subs"/></r></p></e>
+  <e>       <p><l>ing</l>          <r>ing<s n="vblex"/><s n="inf"/></r></p></e>
+  <e>       <p><l>ing</l>          <r>ing<s n="vblex"/><s n="pres"/></r></p></e>
+  <e>       <p><l>ings</l>         <r>ing<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+  <e>       <p><l>ang</l>          <r>ing<s n="vblex"/><s n="past"/></r></p></e>
+  <e>       <p><l>ung</l>          <r>ing<s n="vblex"/><s n="pp"/></r></p></e>
+  <e>       <p><l>ingin</l>        <r>ing<s n="vblex"/><s n="ger"/></r></p></e>
+  <e>       <p><l>ingin</l>        <r>ing<s n="vblex"/><s n="pprs"/></r></p></e>
+  <e>       <p><l>ingin</l>        <r>ing<s n="vblex"/><s n="subs"/></r></p></e>
 </pardef>
 <pardef n="dunch__vblex">
   <e>       <p><l></l>          <r><s n="vblex"/><s n="inf"/></r></p></e>
@@ -915,74 +915,74 @@
   <e>       <p><l>in</l>         <r><s n="vblex"/><s n="subs"/></r></p></e>
 </pardef>
 <pardef n="e/at__vblex">
-  <e>       <p><l>at</l>          <r><s n="vblex"/><s n="inf"/></r></p></e>
-  <e>       <p><l>at</l>          <r><s n="vblex"/><s n="pres"/></r></p></e>
-  <e>       <p><l>ats</l>         <r><s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
-  <e>       <p><l>tt</l>          <r><s n="vblex"/><s n="past"/></r></p></e>
-  <e>       <p><l>aten</l>        <r><s n="vblex"/><s n="pp"/></r></p></e>
-  <e>       <p><l>atin</l>        <r><s n="vblex"/><s n="ger"/></r></p></e>
-  <e>       <p><l>atin</l>        <r><s n="vblex"/><s n="pprs"/></r></p></e>
-  <e>       <p><l>atin</l>        <r><s n="vblex"/><s n="subs"/></r></p></e>
+  <e>       <p><l>at</l>          <r>at<s n="vblex"/><s n="inf"/></r></p></e>
+  <e>       <p><l>at</l>          <r>at<s n="vblex"/><s n="pres"/></r></p></e>
+  <e>       <p><l>ats</l>         <r>at<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+  <e>       <p><l>tt</l>          <r>at<s n="vblex"/><s n="past"/></r></p></e>
+  <e>       <p><l>aten</l>        <r>at<s n="vblex"/><s n="pp"/></r></p></e>
+  <e>       <p><l>atin</l>        <r>at<s n="vblex"/><s n="ger"/></r></p></e>
+  <e>       <p><l>atin</l>        <r>at<s n="vblex"/><s n="pprs"/></r></p></e>
+  <e>       <p><l>atin</l>        <r>at<s n="vblex"/><s n="subs"/></r></p></e>
 </pardef>
 <pardef n="f/aw__vblex">
-  <e>       <p><l>aw</l>          <r><s n="vblex"/><s n="inf"/></r></p></e>
-  <e>       <p><l>aw</l>          <r><s n="vblex"/><s n="pres"/></r></p></e>
-  <e>       <p><l>aws</l>         <r><s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
-  <e>       <p><l>ell</l>         <r><s n="vblex"/><s n="past"/></r></p></e>
-  <e>       <p><l>awen</l>        <r><s n="vblex"/><s n="pp"/></r></p></e>
-  <e>       <p><l>awin</l>        <r><s n="vblex"/><s n="ger"/></r></p></e>
-  <e>       <p><l>awin</l>        <r><s n="vblex"/><s n="pprs"/></r></p></e>
-  <e>       <p><l>awin</l>        <r><s n="vblex"/><s n="subs"/></r></p></e>
+  <e>       <p><l>aw</l>          <r>aw<s n="vblex"/><s n="inf"/></r></p></e>
+  <e>       <p><l>aw</l>          <r>aw<s n="vblex"/><s n="pres"/></r></p></e>
+  <e>       <p><l>aws</l>         <r>aw<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+  <e>       <p><l>ell</l>         <r>aw<s n="vblex"/><s n="past"/></r></p></e>
+  <e>       <p><l>awen</l>        <r>aw<s n="vblex"/><s n="pp"/></r></p></e>
+  <e>       <p><l>awin</l>        <r>aw<s n="vblex"/><s n="ger"/></r></p></e>
+  <e>       <p><l>awin</l>        <r>aw<s n="vblex"/><s n="pprs"/></r></p></e>
+  <e>       <p><l>awin</l>        <r>aw<s n="vblex"/><s n="subs"/></r></p></e>
 </pardef>
 <pardef n="fe/el__vblex">
-  <e>       <p><l>el</l>          <r><s n="vblex"/><s n="inf"/></r></p></e>
-  <e>       <p><l>el</l>          <r><s n="vblex"/><s n="pres"/></r></p></e>
-  <e>       <p><l>els</l>         <r><s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
-  <e>       <p><l>lt</l>          <r><s n="vblex"/><s n="past"/></r></p></e>
-  <e>       <p><l>lt</l>          <r><s n="vblex"/><s n="pp"/></r></p></e>
-  <e>       <p><l>elin</l>        <r><s n="vblex"/><s n="ger"/></r></p></e>
-  <e>       <p><l>elin</l>        <r><s n="vblex"/><s n="pprs"/></r></p></e>
-  <e>       <p><l>elin</l>        <r><s n="vblex"/><s n="subs"/></r></p></e>
+  <e>       <p><l>el</l>          <r>aw<s n="vblex"/><s n="inf"/></r></p></e>
+  <e>       <p><l>el</l>          <r>aw<s n="vblex"/><s n="pres"/></r></p></e>
+  <e>       <p><l>els</l>         <r>aw<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+  <e>       <p><l>lt</l>          <r>aw<s n="vblex"/><s n="past"/></r></p></e>
+  <e>       <p><l>lt</l>          <r>aw<s n="vblex"/><s n="pp"/></r></p></e>
+  <e>       <p><l>elin</l>        <r>aw<s n="vblex"/><s n="ger"/></r></p></e>
+  <e>       <p><l>elin</l>        <r>aw<s n="vblex"/><s n="pprs"/></r></p></e>
+  <e>       <p><l>elin</l>        <r>aw<s n="vblex"/><s n="subs"/></r></p></e>
 </pardef>
 <pardef n="f/ind__vblex">
-  <e>       <p><l>ind</l>          <r><s n="vblex"/><s n="inf"/></r></p></e>
-  <e>       <p><l>ind</l>          <r><s n="vblex"/><s n="pres"/></r></p></e>
-  <e>       <p><l>inds</l>         <r><s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
-  <e>       <p><l>and</l>          <r><s n="vblex"/><s n="past"/></r></p></e>
-  <e>       <p><l>und</l>          <r><s n="vblex"/><s n="pp"/></r></p></e>
-  <e>       <p><l>indin</l>        <r><s n="vblex"/><s n="ger"/></r></p></e>
-  <e>       <p><l>indin</l>        <r><s n="vblex"/><s n="pprs"/></r></p></e>
-  <e>       <p><l>indin</l>        <r><s n="vblex"/><s n="subs"/></r></p></e>
+  <e>       <p><l>ind</l>          <r>ind<s n="vblex"/><s n="inf"/></r></p></e>
+  <e>       <p><l>ind</l>          <r>ind<s n="vblex"/><s n="pres"/></r></p></e>
+  <e>       <p><l>inds</l>         <r>ind<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+  <e>       <p><l>and</l>          <r>ind<s n="vblex"/><s n="past"/></r></p></e>
+  <e>       <p><l>und</l>          <r>ind<s n="vblex"/><s n="pp"/></r></p></e>
+  <e>       <p><l>indin</l>        <r>ind<s n="vblex"/><s n="ger"/></r></p></e>
+  <e>       <p><l>indin</l>        <r>ind<s n="vblex"/><s n="pprs"/></r></p></e>
+  <e>       <p><l>indin</l>        <r>ind<s n="vblex"/><s n="subs"/></r></p></e>
 </pardef>
 <pardef n="fl/ing__vblex">
-  <e>       <p><l>ing</l>          <r><s n="vblex"/><s n="inf"/></r></p></e>
-  <e>       <p><l>ing</l>          <r><s n="vblex"/><s n="pres"/></r></p></e>
-  <e>       <p><l>ings</l>         <r><s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
-  <e>       <p><l>ang</l>          <r><s n="vblex"/><s n="past"/></r></p></e>
-  <e>       <p><l>ung</l>          <r><s n="vblex"/><s n="pp"/></r></p></e>
-  <e>       <p><l>ingin</l>        <r><s n="vblex"/><s n="ger"/></r></p></e>
-  <e>       <p><l>ingin</l>        <r><s n="vblex"/><s n="pprs"/></r></p></e>
-  <e>       <p><l>ingin</l>        <r><s n="vblex"/><s n="subs"/></r></p></e>
+  <e>       <p><l>ing</l>          <r>ing<s n="vblex"/><s n="inf"/></r></p></e>
+  <e>       <p><l>ing</l>          <r>ing<s n="vblex"/><s n="pres"/></r></p></e>
+  <e>       <p><l>ings</l>         <r>ing<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+  <e>       <p><l>ang</l>          <r>ing<s n="vblex"/><s n="past"/></r></p></e>
+  <e>       <p><l>ung</l>          <r>ing<s n="vblex"/><s n="pp"/></r></p></e>
+  <e>       <p><l>ingin</l>        <r>ing<s n="vblex"/><s n="ger"/></r></p></e>
+  <e>       <p><l>ingin</l>        <r>ing<s n="vblex"/><s n="pprs"/></r></p></e>
+  <e>       <p><l>ingin</l>        <r>ing<s n="vblex"/><s n="subs"/></r></p></e>
 </pardef>
 <pardef n="ga/e__vblex">
-  <e>       <p><l>e</l>           <r><s n="vblex"/><s n="inf"/></r></p></e>
-  <e>       <p><l>e</l>           <r><s n="vblex"/><s n="pres"/></r></p></e>
-  <e>       <p><l>es</l>          <r><s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
-  <e>       <p><l>ed</l>          <r><s n="vblex"/><s n="past"/></r></p></e>
-  <e>       <p><l>ne</l>          <r><s n="vblex"/><s n="pp"/></r></p></e>
-  <e>       <p><l>ein</l>         <r><s n="vblex"/><s n="ger"/></r></p></e>
-  <e>       <p><l>ein</l>         <r><s n="vblex"/><s n="pprs"/></r></p></e>
-  <e>       <p><l>ein</l>         <r><s n="vblex"/><s n="subs"/></r></p></e>
+  <e>       <p><l>e</l>           <r>e<s n="vblex"/><s n="inf"/></r></p></e>
+  <e>       <p><l>e</l>           <r>e<s n="vblex"/><s n="pres"/></r></p></e>
+  <e>       <p><l>es</l>          <r>e<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+  <e>       <p><l>ed</l>          <r>e<s n="vblex"/><s n="past"/></r></p></e>
+  <e>       <p><l>ne</l>          <r>e<s n="vblex"/><s n="pp"/></r></p></e>
+  <e>       <p><l>ein</l>         <r>e<s n="vblex"/><s n="ger"/></r></p></e>
+  <e>       <p><l>ein</l>         <r>e<s n="vblex"/><s n="pprs"/></r></p></e>
+  <e>       <p><l>ein</l>         <r>e<s n="vblex"/><s n="subs"/></r></p></e>
 </pardef>
 <pardef n="ga/n__vblex">
-  <e>       <p><l>n</l>           <r><s n="vblex"/><s n="inf"/></r></p></e>
-  <e>       <p><l>n</l>           <r><s n="vblex"/><s n="pres"/></r></p></e>
-  <e>       <p><l>ns</l>          <r><s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
-  <e>       <p><l>ed</l>          <r><s n="vblex"/><s n="past"/></r></p></e>
-  <e>       <p><l>en</l>          <r><s n="vblex"/><s n="pp"/></r></p></e>
-  <e>       <p><l>un</l>          <r><s n="vblex"/><s n="ger"/></r></p></e>
-  <e>       <p><l>un</l>          <r><s n="vblex"/><s n="pprs"/></r></p></e>
-  <e>       <p><l>un</l>          <r><s n="vblex"/><s n="subs"/></r></p></e>
+  <e>       <p><l>n</l>           <r>n<s n="vblex"/><s n="inf"/></r></p></e>
+  <e>       <p><l>n</l>           <r>n<s n="vblex"/><s n="pres"/></r></p></e>
+  <e>       <p><l>ns</l>          <r>n<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+  <e>       <p><l>ed</l>          <r>n<s n="vblex"/><s n="past"/></r></p></e>
+  <e>       <p><l>en</l>          <r>n<s n="vblex"/><s n="pp"/></r></p></e>
+  <e>       <p><l>un</l>          <r>n<s n="vblex"/><s n="ger"/></r></p></e>
+  <e>       <p><l>un</l>          <r>n<s n="vblex"/><s n="pprs"/></r></p></e>
+  <e>       <p><l>un</l>          <r>n<s n="vblex"/><s n="subs"/></r></p></e>
 </pardef>
 <pardef n="gar__vblex">
   <e>       <p><l></l>             <r><s n="vblex"/><s n="inf"/></r></p></e>
@@ -995,44 +995,44 @@
   <e>       <p><l>rin</l>          <r><s n="vblex"/><s n="subs"/></r></p></e>
 </pardef>
 <pardef n="g/et__vblex">
-  <e>       <p><l>et</l>           <r><s n="vblex"/><s n="inf"/></r></p></e>
-  <e>       <p><l>et</l>           <r><s n="vblex"/><s n="pres"/></r></p></e>
-  <e>       <p><l>ets</l>          <r><s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
-  <e>       <p><l>at</l>           <r><s n="vblex"/><s n="past"/></r></p></e>
-  <e>       <p><l>otten</l>        <r><s n="vblex"/><s n="pp"/></r></p></e>
-  <e>       <p><l>ettin</l>        <r><s n="vblex"/><s n="ger"/></r></p></e>
-  <e>       <p><l>ettin</l>        <r><s n="vblex"/><s n="pprs"/></r></p></e>
-  <e>       <p><l>ettin</l>        <r><s n="vblex"/><s n="subs"/></r></p></e>
+  <e>       <p><l>et</l>           <r>et<s n="vblex"/><s n="inf"/></r></p></e>
+  <e>       <p><l>et</l>           <r>et<s n="vblex"/><s n="pres"/></r></p></e>
+  <e>       <p><l>ets</l>          <r>et<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+  <e>       <p><l>at</l>           <r>et<s n="vblex"/><s n="past"/></r></p></e>
+  <e>       <p><l>otten</l>        <r>et<s n="vblex"/><s n="pp"/></r></p></e>
+  <e>       <p><l>ettin</l>        <r>et<s n="vblex"/><s n="ger"/></r></p></e>
+  <e>       <p><l>ettin</l>        <r>et<s n="vblex"/><s n="pprs"/></r></p></e>
+  <e>       <p><l>ettin</l>        <r>et<s n="vblex"/><s n="subs"/></r></p></e>
 </pardef>
 <pardef n="gr/eet__vblex">
-  <e>       <p><l>eet</l>          <r><s n="vblex"/><s n="inf"/></r></p></e>
-  <e>       <p><l>eet</l>          <r><s n="vblex"/><s n="pres"/></r></p></e>
-  <e>       <p><l>eets</l>         <r><s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
-  <e>       <p><l>at</l>           <r><s n="vblex"/><s n="past"/></r></p></e>
-  <e>       <p><l>utten</l>        <r><s n="vblex"/><s n="pp"/></r></p></e>
-  <e>       <p><l>eetin</l>        <r><s n="vblex"/><s n="ger"/></r></p></e>
-  <e>       <p><l>eetin</l>        <r><s n="vblex"/><s n="pprs"/></r></p></e>
-  <e>       <p><l>eetin</l>        <r><s n="vblex"/><s n="subs"/></r></p></e>
+  <e>       <p><l>eet</l>          <r>eet<s n="vblex"/><s n="inf"/></r></p></e>
+  <e>       <p><l>eet</l>          <r>eet<s n="vblex"/><s n="pres"/></r></p></e>
+  <e>       <p><l>eets</l>         <r>eet<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+  <e>       <p><l>at</l>           <r>eet<s n="vblex"/><s n="past"/></r></p></e>
+  <e>       <p><l>utten</l>        <r>eet<s n="vblex"/><s n="pp"/></r></p></e>
+  <e>       <p><l>eetin</l>        <r>eet<s n="vblex"/><s n="ger"/></r></p></e>
+  <e>       <p><l>eetin</l>        <r>eet<s n="vblex"/><s n="pprs"/></r></p></e>
+  <e>       <p><l>eetin</l>        <r>eet<s n="vblex"/><s n="subs"/></r></p></e>
 </pardef>
 <pardef n="g/yang__vblex">
-  <e>       <p><l></l>             <r><s n="vblex"/><s n="inf"/></r></p></e>
-  <e>       <p><l></l>             <r><s n="vblex"/><s n="pres"/></r></p></e>
-  <e>       <p><l>s</l>            <r><s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
-  <e>       <p><l>aed</l>          <r><s n="vblex"/><s n="past"/></r></p></e>
-  <e>       <p><l>aed</l>          <r><s n="vblex"/><s n="pp"/></r></p></e>
-  <e>       <p><l>yangin</l>       <r><s n="vblex"/><s n="ger"/></r></p></e>
-  <e>       <p><l>yangin</l>       <r><s n="vblex"/><s n="pprs"/></r></p></e>
-  <e>       <p><l>yangin</l>       <r><s n="vblex"/><s n="subs"/></r></p></e>
+  <e>       <p><l></l>             <r>yang<s n="vblex"/><s n="inf"/></r></p></e>
+  <e>       <p><l></l>             <r>yang<s n="vblex"/><s n="pres"/></r></p></e>
+  <e>       <p><l>s</l>            <r>yang<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+  <e>       <p><l>aed</l>          <r>yang<s n="vblex"/><s n="past"/></r></p></e>
+  <e>       <p><l>aed</l>          <r>yang<s n="vblex"/><s n="pp"/></r></p></e>
+  <e>       <p><l>yangin</l>       <r>yang<s n="vblex"/><s n="ger"/></r></p></e>
+  <e>       <p><l>yangin</l>       <r>yang<s n="vblex"/><s n="pprs"/></r></p></e>
+  <e>       <p><l>yangin</l>       <r>yang<s n="vblex"/><s n="subs"/></r></p></e>
 </pardef>
 <pardef n="hap__vblex">
-  <e>       <p><l></l>             <r><s n="vblex"/><s n="inf"/></r></p></e>
-  <e>       <p><l></l>             <r><s n="vblex"/><s n="pres"/></r></p></e>
-  <e>       <p><l>s</l>            <r><s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
-  <e>       <p><l>pit</l>          <r><s n="vblex"/><s n="past"/></r></p></e>
-  <e>       <p><l>pit</l>          <r><s n="vblex"/><s n="pp"/></r></p></e>
-  <e>       <p><l>pin</l>          <r><s n="vblex"/><s n="ger"/></r></p></e>
-  <e>       <p><l>pin</l>          <r><s n="vblex"/><s n="pprs"/></r></p></e>
-  <e>       <p><l>pin</l>          <r><s n="vblex"/><s n="subs"/></r></p></e>
+  <e>       <p><l></l>             <r>yang<s n="vblex"/><s n="inf"/></r></p></e>
+  <e>       <p><l></l>             <r>yang<s n="vblex"/><s n="pres"/></r></p></e>
+  <e>       <p><l>s</l>            <r>yang<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+  <e>       <p><l>pit</l>          <r>yang<s n="vblex"/><s n="past"/></r></p></e>
+  <e>       <p><l>pit</l>          <r>yang<s n="vblex"/><s n="pp"/></r></p></e>
+  <e>       <p><l>pin</l>          <r>yang<s n="vblex"/><s n="ger"/></r></p></e>
+  <e>       <p><l>pin</l>          <r>yang<s n="vblex"/><s n="pprs"/></r></p></e>
+  <e>       <p><l>pin</l>          <r>yang<s n="vblex"/><s n="subs"/></r></p></e>
 </pardef>
 <pardef n="haud__vblex">
   <e>       <p><l></l>             <r><s n="vblex"/><s n="inf"/></r></p></e>
@@ -1055,24 +1055,24 @@
   <e>       <p><l>in</l>           <r><s n="vblex"/><s n="subs"/></r></p></e>
 </pardef>
 <pardef n="l/at__vblex">
-  <e>       <p><l>at</l>           <r><s n="vblex"/><s n="inf"/></r></p></e>
-  <e>       <p><l>at</l>           <r><s n="vblex"/><s n="pres"/></r></p></e>
-  <e>       <p><l>ats</l>          <r><s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
-  <e>       <p><l>uit</l>          <r><s n="vblex"/><s n="past"/></r></p></e>
-  <e>       <p><l>atten</l>        <r><s n="vblex"/><s n="pp"/></r></p></e>
-  <e>       <p><l>attin</l>        <r><s n="vblex"/><s n="ger"/></r></p></e>
-  <e>       <p><l>attin</l>        <r><s n="vblex"/><s n="pprs"/></r></p></e>
-  <e>       <p><l>attin</l>        <r><s n="vblex"/><s n="subs"/></r></p></e>
+  <e>       <p><l>at</l>           <r>at<s n="vblex"/><s n="inf"/></r></p></e>
+  <e>       <p><l>at</l>           <r>at<s n="vblex"/><s n="pres"/></r></p></e>
+  <e>       <p><l>ats</l>          <r>at<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+  <e>       <p><l>uit</l>          <r>at<s n="vblex"/><s n="past"/></r></p></e>
+  <e>       <p><l>atten</l>        <r>at<s n="vblex"/><s n="pp"/></r></p></e>
+  <e>       <p><l>attin</l>        <r>at<s n="vblex"/><s n="ger"/></r></p></e>
+  <e>       <p><l>attin</l>        <r>at<s n="vblex"/><s n="pprs"/></r></p></e>
+  <e>       <p><l>attin</l>        <r>at<s n="vblex"/><s n="subs"/></r></p></e>
 </pardef>
 <pardef n="le/a__vblex">
-  <e>       <p><l>a</l>            <r><s n="vblex"/><s n="inf"/></r></p></e>
-  <e>       <p><l>a</l>            <r><s n="vblex"/><s n="pres"/></r></p></e>
-  <e>       <p><l>as</l>           <r><s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
-  <e>       <p><l>ft</l>           <r><s n="vblex"/><s n="past"/></r></p></e>
-  <e>       <p><l>ft</l>           <r><s n="vblex"/><s n="pp"/></r></p></e>
-  <e>       <p><l>ain</l>          <r><s n="vblex"/><s n="ger"/></r></p></e>
-  <e>       <p><l>ain</l>          <r><s n="vblex"/><s n="pprs"/></r></p></e>
-  <e>       <p><l>ain</l>          <r><s n="vblex"/><s n="subs"/></r></p></e>
+  <e>       <p><l>a</l>            <r>a<s n="vblex"/><s n="inf"/></r></p></e>
+  <e>       <p><l>a</l>            <r>a<s n="vblex"/><s n="pres"/></r></p></e>
+  <e>       <p><l>as</l>           <r>a<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+  <e>       <p><l>ft</l>           <r>a<s n="vblex"/><s n="past"/></r></p></e>
+  <e>       <p><l>ft</l>           <r>a<s n="vblex"/><s n="pp"/></r></p></e>
+  <e>       <p><l>ain</l>          <r>a<s n="vblex"/><s n="ger"/></r></p></e>
+  <e>       <p><l>ain</l>          <r>a<s n="vblex"/><s n="pprs"/></r></p></e>
+  <e>       <p><l>ain</l>          <r>a<s n="vblex"/><s n="subs"/></r></p></e>
 </pardef>
 <pardef n="let__vblex">
   <e>       <p><l></l>             <r><s n="vblex"/><s n="inf"/></r></p></e>
@@ -1085,44 +1085,44 @@
   <e>       <p><l>tin</l>          <r><s n="vblex"/><s n="subs"/></r></p></e>
 </pardef>
 <pardef n="l/ie__vblex">
-  <e>       <p><l>ie</l>           <r><s n="vblex"/><s n="inf"/></r></p></e>
-  <e>       <p><l>ie</l>           <r><s n="vblex"/><s n="pres"/></r></p></e>
-  <e>       <p><l>ies</l>          <r><s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
-  <e>       <p><l>ay</l>           <r><s n="vblex"/><s n="past"/></r></p></e>
-  <e>       <p><l>ien</l>          <r><s n="vblex"/><s n="pp"/></r></p></e>
-  <e>       <p><l>yin</l>          <r><s n="vblex"/><s n="ger"/></r></p></e>
-  <e>       <p><l>yin</l>          <r><s n="vblex"/><s n="pprs"/></r></p></e>
-  <e>       <p><l>yin</l>          <r><s n="vblex"/><s n="subs"/></r></p></e>
+  <e>       <p><l>ie</l>           <r>ie<s n="vblex"/><s n="inf"/></r></p></e>
+  <e>       <p><l>ie</l>           <r>ie<s n="vblex"/><s n="pres"/></r></p></e>
+  <e>       <p><l>ies</l>          <r>ie<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+  <e>       <p><l>ay</l>           <r>ie<s n="vblex"/><s n="past"/></r></p></e>
+  <e>       <p><l>ien</l>          <r>ie<s n="vblex"/><s n="pp"/></r></p></e>
+  <e>       <p><l>yin</l>          <r>ie<s n="vblex"/><s n="ger"/></r></p></e>
+  <e>       <p><l>yin</l>          <r>ie<s n="vblex"/><s n="pprs"/></r></p></e>
+  <e>       <p><l>yin</l>          <r>ie<s n="vblex"/><s n="subs"/></r></p></e>
 </pardef>
 <pardef n="los/s__vblex">
-  <e>       <p><l>s</l>            <r><s n="vblex"/><s n="inf"/></r></p></e>
-  <e>       <p><l>s</l>            <r><s n="vblex"/><s n="pres"/></r></p></e>
-  <e>       <p><l>ses</l>          <r><s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
-  <e>       <p><l>t</l>            <r><s n="vblex"/><s n="past"/></r></p></e>
-  <e>       <p><l>t</l>            <r><s n="vblex"/><s n="pp"/></r></p></e>
-  <e>       <p><l>sin</l>          <r><s n="vblex"/><s n="ger"/></r></p></e>
-  <e>       <p><l>sin</l>          <r><s n="vblex"/><s n="pprs"/></r></p></e>
-  <e>       <p><l>sin</l>          <r><s n="vblex"/><s n="subs"/></r></p></e>
+  <e>       <p><l>s</l>            <r>s<s n="vblex"/><s n="inf"/></r></p></e>
+  <e>       <p><l>s</l>            <r>s<s n="vblex"/><s n="pres"/></r></p></e>
+  <e>       <p><l>ses</l>          <r>s<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+  <e>       <p><l>t</l>            <r>s<s n="vblex"/><s n="past"/></r></p></e>
+  <e>       <p><l>t</l>            <r>s<s n="vblex"/><s n="pp"/></r></p></e>
+  <e>       <p><l>sin</l>          <r>s<s n="vblex"/><s n="ger"/></r></p></e>
+  <e>       <p><l>sin</l>          <r>s<s n="vblex"/><s n="pprs"/></r></p></e>
+  <e>       <p><l>sin</l>          <r>s<s n="vblex"/><s n="subs"/></r></p></e>
 </pardef>
 <pardef n="ma/k__vblex">
-  <e>       <p><l>k</l>            <r><s n="vblex"/><s n="inf"/></r></p></e>
-  <e>       <p><l>k</l>            <r><s n="vblex"/><s n="pres"/></r></p></e>
-  <e>       <p><l>ks</l>           <r><s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
-  <e>       <p><l>de</l>           <r><s n="vblex"/><s n="past"/></r></p></e>
-  <e>       <p><l>de</l>           <r><s n="vblex"/><s n="pp"/></r></p></e>
-  <e>       <p><l>kin</l>          <r><s n="vblex"/><s n="ger"/></r></p></e>
-  <e>       <p><l>kin</l>          <r><s n="vblex"/><s n="pprs"/></r></p></e>
-  <e>       <p><l>kin</l>          <r><s n="vblex"/><s n="subs"/></r></p></e>
+  <e>       <p><l>k</l>            <r>k<s n="vblex"/><s n="inf"/></r></p></e>
+  <e>       <p><l>k</l>            <r>k<s n="vblex"/><s n="pres"/></r></p></e>
+  <e>       <p><l>ks</l>           <r>k<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+  <e>       <p><l>de</l>           <r>k<s n="vblex"/><s n="past"/></r></p></e>
+  <e>       <p><l>de</l>           <r>k<s n="vblex"/><s n="pp"/></r></p></e>
+  <e>       <p><l>kin</l>          <r>k<s n="vblex"/><s n="ger"/></r></p></e>
+  <e>       <p><l>kin</l>          <r>k<s n="vblex"/><s n="pprs"/></r></p></e>
+  <e>       <p><l>kin</l>          <r>k<s n="vblex"/><s n="subs"/></r></p></e>
 </pardef>
 <pardef n="me/et__vblex">
-  <e>       <p><l>et</l>           <r><s n="vblex"/><s n="inf"/></r></p></e>
-  <e>       <p><l>et</l>           <r><s n="vblex"/><s n="pres"/></r></p></e>
-  <e>       <p><l>ets</l>          <r><s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
-  <e>       <p><l>t</l>            <r><s n="vblex"/><s n="past"/></r></p></e>
-  <e>       <p><l>t</l>            <r><s n="vblex"/><s n="pp"/></r></p></e>
-  <e>       <p><l>etin</l>         <r><s n="vblex"/><s n="ger"/></r></p></e>
-  <e>       <p><l>etin</l>         <r><s n="vblex"/><s n="pprs"/></r></p></e>
-  <e>       <p><l>etin</l>         <r><s n="vblex"/><s n="subs"/></r></p></e>
+  <e>       <p><l>et</l>           <r>et<s n="vblex"/><s n="inf"/></r></p></e>
+  <e>       <p><l>et</l>           <r>et<s n="vblex"/><s n="pres"/></r></p></e>
+  <e>       <p><l>ets</l>          <r>et<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+  <e>       <p><l>t</l>            <r>et<s n="vblex"/><s n="past"/></r></p></e>
+  <e>       <p><l>t</l>            <r>et<s n="vblex"/><s n="pp"/></r></p></e>
+  <e>       <p><l>etin</l>         <r>et<s n="vblex"/><s n="ger"/></r></p></e>
+  <e>       <p><l>etin</l>         <r>et<s n="vblex"/><s n="pprs"/></r></p></e>
+  <e>       <p><l>etin</l>         <r>et<s n="vblex"/><s n="subs"/></r></p></e>
 </pardef>
 <pardef n="owerset__vblex">
   <e>       <p><l></l>             <r><s n="vblex"/><s n="inf"/></r></p></e>
@@ -1145,14 +1145,14 @@
   <e>       <p><l>tin</l>          <r><s n="vblex"/><s n="subs"/></r></p></e>
 </pardef>
 <pardef n="r/ead__vblex">
-  <e>       <p><l>ead</l>          <r><s n="vblex"/><s n="inf"/></r></p></e>
-  <e>       <p><l>ead</l>          <r><s n="vblex"/><s n="pres"/></r></p></e>
-  <e>       <p><l>eads</l>         <r><s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
-  <e>       <p><l>ade</l>          <r><s n="vblex"/><s n="past"/></r></p></e>
-  <e>       <p><l>ead</l>          <r><s n="vblex"/><s n="pp"/></r></p></e>
-  <e>       <p><l>eadin</l>        <r><s n="vblex"/><s n="ger"/></r></p></e>
-  <e>       <p><l>eadin</l>        <r><s n="vblex"/><s n="pprs"/></r></p></e>
-  <e>       <p><l>eadin</l>        <r><s n="vblex"/><s n="subs"/></r></p></e>
+  <e>       <p><l>ead</l>          <r>ead<s n="vblex"/><s n="inf"/></r></p></e>
+  <e>       <p><l>ead</l>          <r>ead<s n="vblex"/><s n="pres"/></r></p></e>
+  <e>       <p><l>eads</l>         <r>ead<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+  <e>       <p><l>ade</l>          <r>ead<s n="vblex"/><s n="past"/></r></p></e>
+  <e>       <p><l>ead</l>          <r>ead<s n="vblex"/><s n="pp"/></r></p></e>
+  <e>       <p><l>eadin</l>        <r>ead<s n="vblex"/><s n="ger"/></r></p></e>
+  <e>       <p><l>eadin</l>        <r>ead<s n="vblex"/><s n="pprs"/></r></p></e>
+  <e>       <p><l>eadin</l>        <r>ead<s n="vblex"/><s n="subs"/></r></p></e>
 </pardef>
 <pardef n="redd__vblex">
   <e>       <p><l></l>             <r><s n="vblex"/><s n="inf"/></r></p></e>
@@ -1165,38 +1165,38 @@
   <e>       <p><l>in</l>           <r><s n="vblex"/><s n="subs"/></r></p></e>
 </pardef>
 <pardef n="r/in__vblex">
-  <e>       <p><l>in</l>           <r><s n="vblex"/><s n="inf"/></r></p></e>
-  <e>       <p><l>in</l>           <r><s n="vblex"/><s n="pres"/></r></p></e>
-  <e>       <p><l>ins</l>          <r><s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
-  <e>       <p><l>an</l>           <r><s n="vblex"/><s n="past"/></r></p></e>
-  <e>       <p><l>an</l>           <r><s n="vblex"/><s n="pp"/></r></p></e>
-  <e>       <p><l>innin</l>        <r><s n="vblex"/><s n="ger"/></r></p></e>
-  <e>       <p><l>innin</l>        <r><s n="vblex"/><s n="pprs"/></r></p></e>
-  <e>       <p><l>innin</l>        <r><s n="vblex"/><s n="subs"/></r></p></e>
+  <e>       <p><l>in</l>           <r>in<s n="vblex"/><s n="inf"/></r></p></e>
+  <e>       <p><l>in</l>           <r>in<s n="vblex"/><s n="pres"/></r></p></e>
+  <e>       <p><l>ins</l>          <r>in<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+  <e>       <p><l>an</l>           <r>in<s n="vblex"/><s n="past"/></r></p></e>
+  <e>       <p><l>an</l>           <r>in<s n="vblex"/><s n="pp"/></r></p></e>
+  <e>       <p><l>innin</l>        <r>in<s n="vblex"/><s n="ger"/></r></p></e>
+  <e>       <p><l>innin</l>        <r>in<s n="vblex"/><s n="pprs"/></r></p></e>
+  <e>       <p><l>innin</l>        <r>in<s n="vblex"/><s n="subs"/></r></p></e>
 </pardef>
 <pardef n="r/ise__vblex">
-  <e>       <p><l>ise</l>          <r><s n="vblex"/><s n="inf"/></r></p></e>
-  <e>       <p><l>ise</l>          <r><s n="vblex"/><s n="pres"/></r></p></e>
-  <e>       <p><l>ises</l>         <r><s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
-  <e>       <p><l>ase</l>          <r><s n="vblex"/><s n="past"/></r></p></e>
-  <e>       <p><l>is</l>           <r><s n="vblex"/><s n="pp"/></r></p></e>
-  <e>       <p><l>isin</l>         <r><s n="vblex"/><s n="ger"/></r></p></e>
-  <e>       <p><l>isin</l>         <r><s n="vblex"/><s n="pprs"/></r></p></e>
-  <e>       <p><l>isin</l>         <r><s n="vblex"/><s n="subs"/></r></p></e>
+  <e>       <p><l>ise</l>          <r>ise<s n="vblex"/><s n="inf"/></r></p></e>
+  <e>       <p><l>ise</l>          <r>ise<s n="vblex"/><s n="pres"/></r></p></e>
+  <e>       <p><l>ises</l>         <r>ise<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+  <e>       <p><l>ase</l>          <r>ise<s n="vblex"/><s n="past"/></r></p></e>
+  <e>       <p><l>is</l>           <r>ise<s n="vblex"/><s n="pp"/></r></p></e>
+  <e>       <p><l>isin</l>         <r>ise<s n="vblex"/><s n="ger"/></r></p></e>
+  <e>       <p><l>isin</l>         <r>ise<s n="vblex"/><s n="pprs"/></r></p></e>
+  <e>       <p><l>isin</l>         <r>ise<s n="vblex"/><s n="subs"/></r></p></e>
 </pardef>
 <pardef n="r/un__vblex">
-  <e>       <p><l>un</l>           <r><s n="vblex"/><s n="inf"/></r></p></e>
-  <e>       <p><l>un</l>           <r><s n="vblex"/><s n="pres"/></r></p></e>
-  <e>       <p><l>uns</l>          <r><s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
-  <e>       <p><l>an</l>           <r><s n="vblex"/><s n="past"/></r></p></e>
-  <e>       <p><l>an</l>           <r><s n="vblex"/><s n="pp"/></r></p></e>
-  <e>       <p><l>unnin</l>        <r><s n="vblex"/><s n="ger"/></r></p></e>
-  <e>       <p><l>unnin</l>        <r><s n="vblex"/><s n="pprs"/></r></p></e>
-  <e>       <p><l>unnin</l>        <r><s n="vblex"/><s n="subs"/></r></p></e>
+  <e>       <p><l>un</l>           <r>un<s n="vblex"/><s n="inf"/></r></p></e>
+  <e>       <p><l>un</l>           <r>un<s n="vblex"/><s n="pres"/></r></p></e>
+  <e>       <p><l>uns</l>          <r>un<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+  <e>       <p><l>an</l>           <r>un<s n="vblex"/><s n="past"/></r></p></e>
+  <e>       <p><l>an</l>           <r>un<s n="vblex"/><s n="pp"/></r></p></e>
+  <e>       <p><l>unnin</l>        <r>un<s n="vblex"/><s n="ger"/></r></p></e>
+  <e>       <p><l>unnin</l>        <r>un<s n="vblex"/><s n="pprs"/></r></p></e>
+  <e>       <p><l>unnin</l>        <r>un<s n="vblex"/><s n="subs"/></r></p></e>
 </pardef>
 <pardef n="sa/y__vblex">
-  <e>       <p><l>y</l>            <r><s n="vblex"/><s n="inf"/></r></p></e>
-  <e>       <p><l>y</l>            <r><s n="vblex"/><s n="pres"/></r></p></e>
+  <e>       <p><l>y</l>            <r>y<s n="vblex"/><s n="inf"/></r></p></e>
+  <e>       <p><l>y</l>            <r>y<s n="vblex"/><s n="pres"/></r></p></e>
   <e>       <p><l>ys</l>           <r>y<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
   <e>       <p><l>id</l>           <r>y<s n="vblex"/><s n="past"/></r></p></e>
   <e>       <p><l>id</l>           <r>y<s n="vblex"/><s n="pp"/></r></p></e>
@@ -1205,8 +1205,8 @@
   <e>       <p><l>ayin</l>         <r>y<s n="vblex"/><s n="subs"/></r></p></e>
 </pardef>
 <pardef n="s/ee__vblex">
-  <e>       <p><l>ee</l>            <r><s n="vblex"/><s n="inf"/></r></p></e>
-  <e>       <p><l>ee</l>            <r><s n="vblex"/><s n="pres"/></r></p></e>
+  <e>       <p><l>ee</l>            <r>ee<s n="vblex"/><s n="inf"/></r></p></e>
+  <e>       <p><l>ee</l>            <r>ee<s n="vblex"/><s n="pres"/></r></p></e>
   <e>       <p><l>ees</l>           <r>ee<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
   <e>       <p><l>aw</l>            <r>ee<s n="vblex"/><s n="past"/></r></p></e>
   <e>       <p><l>een</l>           <r>ee<s n="vblex"/><s n="pp"/></r></p></e>
@@ -1215,14 +1215,14 @@
   <e>       <p><l>eein</l>          <r>ee<s n="vblex"/><s n="subs"/></r></p></e>
 </pardef>
 <pardef n="sen/d__vblex">
-  <e>       <p><l>d</l>            <r><s n="vblex"/><s n="inf"/></r></p></e>
-  <e>       <p><l>d</l>            <r><s n="vblex"/><s n="pres"/></r></p></e>
-  <e>       <p><l>ds</l>           <r><s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
-  <e>       <p><l>t</l>            <r><s n="vblex"/><s n="past"/></r></p></e>
-  <e>       <p><l>t</l>            <r><s n="vblex"/><s n="pp"/></r></p></e>
-  <e>       <p><l>din</l>          <r><s n="vblex"/><s n="ger"/></r></p></e>
-  <e>       <p><l>din</l>          <r><s n="vblex"/><s n="pprs"/></r></p></e>
-  <e>       <p><l>din</l>          <r><s n="vblex"/><s n="subs"/></r></p></e>
+  <e>       <p><l>d</l>            <r>end<s n="vblex"/><s n="inf"/></r></p></e>
+  <e>       <p><l>d</l>            <r>end<s n="vblex"/><s n="pres"/></r></p></e>
+  <e>       <p><l>ds</l>           <r>end<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+  <e>       <p><l>t</l>            <r>end<s n="vblex"/><s n="past"/></r></p></e>
+  <e>       <p><l>t</l>            <r>end<s n="vblex"/><s n="pp"/></r></p></e>
+  <e>       <p><l>din</l>          <r>end<s n="vblex"/><s n="ger"/></r></p></e>
+  <e>       <p><l>din</l>          <r>end<s n="vblex"/><s n="pprs"/></r></p></e>
+  <e>       <p><l>din</l>          <r>end<s n="vblex"/><s n="subs"/></r></p></e>
 </pardef>
 <pardef n="sp/aek__vblex">
   <e>       <p><l>aek</l>          <r>aek<s n="vblex"/><s n="inf"/></r></p></e>
@@ -1235,44 +1235,44 @@
   <e>       <p><l>aekin</l>        <r>aek<s n="vblex"/><s n="subs"/></r></p></e>
 </pardef>
 <pardef n="sp/eak__vblex">
-  <e>       <p><l>eak</l>          <r><s n="vblex"/><s n="inf"/></r></p></e>
-  <e>       <p><l>eak</l>          <r><s n="vblex"/><s n="pres"/></r></p></e>
-  <e>       <p><l>eaks</l>         <r><s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
-  <e>       <p><l>ak</l>           <r><s n="vblex"/><s n="past"/></r></p></e>
-  <e>       <p><l>oken</l>         <r><s n="vblex"/><s n="pp"/></r></p></e>
-  <e>       <p><l>eakin</l>        <r><s n="vblex"/><s n="ger"/></r></p></e>
-  <e>       <p><l>eakin</l>        <r><s n="vblex"/><s n="pprs"/></r></p></e>
-  <e>       <p><l>eakin</l>        <r><s n="vblex"/><s n="subs"/></r></p></e>
+  <e>       <p><l>eak</l>          <r>eak<s n="vblex"/><s n="inf"/></r></p></e>
+  <e>       <p><l>eak</l>          <r>eak<s n="vblex"/><s n="pres"/></r></p></e>
+  <e>       <p><l>eaks</l>         <r>eak<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+  <e>       <p><l>ak</l>           <r>eak<s n="vblex"/><s n="past"/></r></p></e>
+  <e>       <p><l>oken</l>         <r>eak<s n="vblex"/><s n="pp"/></r></p></e>
+  <e>       <p><l>eakin</l>        <r>eak<s n="vblex"/><s n="ger"/></r></p></e>
+  <e>       <p><l>eakin</l>        <r>eak<s n="vblex"/><s n="pprs"/></r></p></e>
+  <e>       <p><l>eakin</l>        <r>eak<s n="vblex"/><s n="subs"/></r></p></e>
 </pardef>
 <pardef n="sp/eik__vblex">
-  <e>       <p><l>eik</l>          <r><s n="vblex"/><s n="inf"/></r></p></e>
-  <e>       <p><l>eik</l>          <r><s n="vblex"/><s n="pres"/></r></p></e>
-  <e>       <p><l>eiks</l>         <r><s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
-  <e>       <p><l>ak</l>           <r><s n="vblex"/><s n="past"/></r></p></e>
-  <e>       <p><l>oken</l>         <r><s n="vblex"/><s n="pp"/></r></p></e>
-  <e>       <p><l>eikin</l>        <r><s n="vblex"/><s n="ger"/></r></p></e>
-  <e>       <p><l>eikin</l>        <r><s n="vblex"/><s n="pprs"/></r></p></e>
-  <e>       <p><l>eikin</l>        <r><s n="vblex"/><s n="subs"/></r></p></e>
+  <e>       <p><l>eik</l>          <r>eik<s n="vblex"/><s n="inf"/></r></p></e>
+  <e>       <p><l>eik</l>          <r>eik<s n="vblex"/><s n="pres"/></r></p></e>
+  <e>       <p><l>eiks</l>         <r>eik<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+  <e>       <p><l>ak</l>           <r>eik<s n="vblex"/><s n="past"/></r></p></e>
+  <e>       <p><l>oken</l>         <r>eik<s n="vblex"/><s n="pp"/></r></p></e>
+  <e>       <p><l>eikin</l>        <r>eik<s n="vblex"/><s n="ger"/></r></p></e>
+  <e>       <p><l>eikin</l>        <r>eik<s n="vblex"/><s n="pprs"/></r></p></e>
+  <e>       <p><l>eikin</l>        <r>eik<s n="vblex"/><s n="subs"/></r></p></e>
 </pardef>
 <pardef n="sp/ik__vblex">
-  <e>       <p><l>ik</l>           <r><s n="vblex"/><s n="inf"/></r></p></e>
-  <e>       <p><l>ik</l>           <r><s n="vblex"/><s n="pres"/></r></p></e>
-  <e>       <p><l>iks</l>          <r><s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
-  <e>       <p><l>ak</l>           <r><s n="vblex"/><s n="past"/></r></p></e>
-  <e>       <p><l>oken</l>         <r><s n="vblex"/><s n="pp"/></r></p></e>
-  <e>       <p><l>ikkin</l>        <r><s n="vblex"/><s n="ger"/></r></p></e>
-  <e>       <p><l>ikkin</l>        <r><s n="vblex"/><s n="pprs"/></r></p></e>
-  <e>       <p><l>ikkin</l>        <r><s n="vblex"/><s n="subs"/></r></p></e>
+  <e>       <p><l>ik</l>           <r>ik<s n="vblex"/><s n="inf"/></r></p></e>
+  <e>       <p><l>ik</l>           <r>ik<s n="vblex"/><s n="pres"/></r></p></e>
+  <e>       <p><l>iks</l>          <r>ik<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+  <e>       <p><l>ak</l>           <r>ik<s n="vblex"/><s n="past"/></r></p></e>
+  <e>       <p><l>oken</l>         <r>ik<s n="vblex"/><s n="pp"/></r></p></e>
+  <e>       <p><l>ikkin</l>        <r>ik<s n="vblex"/><s n="ger"/></r></p></e>
+  <e>       <p><l>ikkin</l>        <r>ik<s n="vblex"/><s n="pprs"/></r></p></e>
+  <e>       <p><l>ikkin</l>        <r>ik<s n="vblex"/><s n="subs"/></r></p></e>
 </pardef>
 <pardef n="sp/ikk__vblex">
-  <e>       <p><l>ikk</l>          <r><s n="vblex"/><s n="inf"/></r></p></e>
-  <e>       <p><l>ikk</l>          <r><s n="vblex"/><s n="pres"/></r></p></e>
-  <e>       <p><l>ikks</l>         <r><s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
-  <e>       <p><l>akk</l>          <r><s n="vblex"/><s n="past"/></r></p></e>
-  <e>       <p><l>oken</l>         <r><s n="vblex"/><s n="pp"/></r></p></e>
-  <e>       <p><l>ikkin</l>        <r><s n="vblex"/><s n="ger"/></r></p></e>
-  <e>       <p><l>ikkin</l>        <r><s n="vblex"/><s n="pprs"/></r></p></e>
-  <e>       <p><l>ikkin</l>        <r><s n="vblex"/><s n="subs"/></r></p></e>
+  <e>       <p><l>ikk</l>          <r>ikk<s n="vblex"/><s n="inf"/></r></p></e>
+  <e>       <p><l>ikk</l>          <r>ikk<s n="vblex"/><s n="pres"/></r></p></e>
+  <e>       <p><l>ikks</l>         <r>ikk<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+  <e>       <p><l>akk</l>          <r>ikk<s n="vblex"/><s n="past"/></r></p></e>
+  <e>       <p><l>oken</l>         <r>ikk<s n="vblex"/><s n="pp"/></r></p></e>
+  <e>       <p><l>ikkin</l>        <r>ikk<s n="vblex"/><s n="ger"/></r></p></e>
+  <e>       <p><l>ikkin</l>        <r>ikk<s n="vblex"/><s n="pprs"/></r></p></e>
+  <e>       <p><l>ikkin</l>        <r>ikk<s n="vblex"/><s n="subs"/></r></p></e>
 </pardef>
 <pardef n="spit__vblex">
   <e>       <p><l></l>             <r><s n="vblex"/><s n="inf"/></r></p></e>
@@ -1285,99 +1285,99 @@
   <e>       <p><l>tin</l>          <r><s n="vblex"/><s n="subs"/></r></p></e>
 </pardef>
 <pardef n="st/aun__vblex">
-  <e>       <p><l>aun</l>          <r><s n="vblex"/><s n="inf"/></r></p></e>
-  <e>       <p><l>aun</l>          <r><s n="vblex"/><s n="pres"/></r></p></e>
-  <e>       <p><l>auns</l>         <r><s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
-  <e>       <p><l>uid</l>          <r><s n="vblex"/><s n="past"/></r></p></e>
-  <e>       <p><l>uiden</l>        <r><s n="vblex"/><s n="pp"/></r></p></e>
-  <e>       <p><l>aunin</l>        <r><s n="vblex"/><s n="ger"/></r></p></e>
-  <e>       <p><l>aunin</l>        <r><s n="vblex"/><s n="pprs"/></r></p></e>
-  <e>       <p><l>aunin</l>        <r><s n="vblex"/><s n="subs"/></r></p></e>
+  <e>       <p><l>aun</l>          <r>aun<s n="vblex"/><s n="inf"/></r></p></e>
+  <e>       <p><l>aun</l>          <r>aun<s n="vblex"/><s n="pres"/></r></p></e>
+  <e>       <p><l>auns</l>         <r>aun<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+  <e>       <p><l>uid</l>          <r>aun<s n="vblex"/><s n="past"/></r></p></e>
+  <e>       <p><l>uiden</l>        <r>aun<s n="vblex"/><s n="pp"/></r></p></e>
+  <e>       <p><l>aunin</l>        <r>aun<s n="vblex"/><s n="ger"/></r></p></e>
+  <e>       <p><l>aunin</l>        <r>aun<s n="vblex"/><s n="pprs"/></r></p></e>
+  <e>       <p><l>aunin</l>        <r>aun<s n="vblex"/><s n="subs"/></r></p></e>
 </pardef>
 <pardef n="st/aund__vblex">
-  <e>       <p><l>aund</l>          <r><s n="vblex"/><s n="inf"/></r></p></e>
-  <e>       <p><l>aund</l>          <r><s n="vblex"/><s n="pres"/></r></p></e>
-  <e>       <p><l>aunds</l>         <r><s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
-  <e>       <p><l>uid</l>           <r><s n="vblex"/><s n="past"/></r></p></e>
-  <e>       <p><l>uiden</l>         <r><s n="vblex"/><s n="pp"/></r></p></e>
-  <e>       <p><l>aundin</l>        <r><s n="vblex"/><s n="ger"/></r></p></e>
-  <e>       <p><l>aundin</l>        <r><s n="vblex"/><s n="pprs"/></r></p></e>
-  <e>       <p><l>aundin</l>        <r><s n="vblex"/><s n="subs"/></r></p></e>
+  <e>       <p><l>aund</l>          <r>aund<s n="vblex"/><s n="inf"/></r></p></e>
+  <e>       <p><l>aund</l>          <r>aund<s n="vblex"/><s n="pres"/></r></p></e>
+  <e>       <p><l>aunds</l>         <r>aund<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+  <e>       <p><l>uid</l>           <r>aund<s n="vblex"/><s n="past"/></r></p></e>
+  <e>       <p><l>uiden</l>         <r>aund<s n="vblex"/><s n="pp"/></r></p></e>
+  <e>       <p><l>aundin</l>        <r>aund<s n="vblex"/><s n="ger"/></r></p></e>
+  <e>       <p><l>aundin</l>        <r>aund<s n="vblex"/><s n="pprs"/></r></p></e>
+  <e>       <p><l>aundin</l>        <r>aund<s n="vblex"/><s n="subs"/></r></p></e>
 </pardef>
 <pardef n="t/ak__vblex">
-  <e>       <p><l>ak</l>            <r><s n="vblex"/><s n="inf"/></r></p></e>
-  <e>       <p><l>ak</l>            <r><s n="vblex"/><s n="pres"/></r></p></e>
-  <e>       <p><l>aks</l>           <r><s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
-  <e>       <p><l>euk</l>           <r><s n="vblex"/><s n="past"/></r></p></e>
-  <e>       <p><l>aen</l>           <r><s n="vblex"/><s n="pp"/></r></p></e>
-  <e>       <p><l>akkin</l>         <r><s n="vblex"/><s n="ger"/></r></p></e>
-  <e>       <p><l>akkin</l>         <r><s n="vblex"/><s n="pprs"/></r></p></e>
-  <e>       <p><l>akkin</l>         <r><s n="vblex"/><s n="subs"/></r></p></e>
+  <e>       <p><l>ak</l>            <r>ak<s n="vblex"/><s n="inf"/></r></p></e>
+  <e>       <p><l>ak</l>            <r>ak<s n="vblex"/><s n="pres"/></r></p></e>
+  <e>       <p><l>aks</l>           <r>ak<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+  <e>       <p><l>euk</l>           <r>ak<s n="vblex"/><s n="past"/></r></p></e>
+  <e>       <p><l>aen</l>           <r>ak<s n="vblex"/><s n="pp"/></r></p></e>
+  <e>       <p><l>akkin</l>         <r>ak<s n="vblex"/><s n="ger"/></r></p></e>
+  <e>       <p><l>akkin</l>         <r>ak<s n="vblex"/><s n="pprs"/></r></p></e>
+  <e>       <p><l>akkin</l>         <r>ak<s n="vblex"/><s n="subs"/></r></p></e>
 </pardef>
 <pardef n="tel/l__vblex">
-  <e>       <p><l>l</l>             <r><s n="vblex"/><s n="inf"/></r></p></e>
-  <e>       <p><l>l</l>             <r><s n="vblex"/><s n="pres"/></r></p></e>
-  <e>       <p><l>ls</l>            <r><s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
-  <e>       <p><l>t</l>             <r><s n="vblex"/><s n="past"/></r></p></e>
-  <e>       <p><l>t</l>             <r><s n="vblex"/><s n="pp"/></r></p></e>
-  <e>       <p><l>lin</l>           <r><s n="vblex"/><s n="ger"/></r></p></e>
-  <e>       <p><l>lin</l>           <r><s n="vblex"/><s n="pprs"/></r></p></e>
-  <e>       <p><l>lin</l>           <r><s n="vblex"/><s n="subs"/></r></p></e>
+  <e>       <p><l>l</l>             <r>l<s n="vblex"/><s n="inf"/></r></p></e>
+  <e>       <p><l>l</l>             <r>l<s n="vblex"/><s n="pres"/></r></p></e>
+  <e>       <p><l>ls</l>            <r>l<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+  <e>       <p><l>t</l>             <r>l<s n="vblex"/><s n="past"/></r></p></e>
+  <e>       <p><l>t</l>             <r>l<s n="vblex"/><s n="pp"/></r></p></e>
+  <e>       <p><l>lin</l>           <r>l<s n="vblex"/><s n="ger"/></r></p></e>
+  <e>       <p><l>lin</l>           <r>l<s n="vblex"/><s n="pprs"/></r></p></e>
+  <e>       <p><l>lin</l>           <r>l<s n="vblex"/><s n="subs"/></r></p></e>
 </pardef>
 <pardef n="th/ink__vblex">
-  <e>       <p><l>ink</l>           <r><s n="vblex"/><s n="inf"/></r></p></e>
-  <e>       <p><l>ink</l>           <r><s n="vblex"/><s n="pres"/></r></p></e>
-  <e>       <p><l>inks</l>          <r><s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
-  <e>       <p><l>ocht</l>          <r><s n="vblex"/><s n="past"/></r></p></e>
-  <e>       <p><l>ocht</l>          <r><s n="vblex"/><s n="pp"/></r></p></e>
-  <e>       <p><l>inkin</l>         <r><s n="vblex"/><s n="ger"/></r></p></e>
-  <e>       <p><l>inkin</l>         <r><s n="vblex"/><s n="pprs"/></r></p></e>
-  <e>       <p><l>inkin</l>         <r><s n="vblex"/><s n="subs"/></r></p></e>
+  <e>       <p><l>ink</l>           <r>ink<s n="vblex"/><s n="inf"/></r></p></e>
+  <e>       <p><l>ink</l>           <r>ink<s n="vblex"/><s n="pres"/></r></p></e>
+  <e>       <p><l>inks</l>          <r>ink<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+  <e>       <p><l>ocht</l>          <r>ink<s n="vblex"/><s n="past"/></r></p></e>
+  <e>       <p><l>ocht</l>          <r>ink<s n="vblex"/><s n="pp"/></r></p></e>
+  <e>       <p><l>inkin</l>         <r>ink<s n="vblex"/><s n="ger"/></r></p></e>
+  <e>       <p><l>inkin</l>         <r>ink<s n="vblex"/><s n="pprs"/></r></p></e>
+  <e>       <p><l>inkin</l>         <r>ink<s n="vblex"/><s n="subs"/></r></p></e>
 </pardef>
 <pardef n="thr/aw__vblex">
-  <e>       <p><l>aw</l>           <r><s n="vblex"/><s n="inf"/></r></p></e>
-  <e>       <p><l>aw</l>           <r><s n="vblex"/><s n="pres"/></r></p></e>
-  <e>       <p><l>aws</l>          <r><s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
-  <e>       <p><l>ew</l>           <r><s n="vblex"/><s n="past"/></r></p></e>
-  <e>       <p><l>awn</l>          <r><s n="vblex"/><s n="pp"/></r></p></e>
-  <e>       <p><l>awin</l>         <r><s n="vblex"/><s n="ger"/></r></p></e>
-  <e>       <p><l>awin</l>         <r><s n="vblex"/><s n="pprs"/></r></p></e>
-  <e>       <p><l>awin</l>         <r><s n="vblex"/><s n="subs"/></r></p></e>
+  <e>       <p><l>aw</l>           <r>aw<s n="vblex"/><s n="inf"/></r></p></e>
+  <e>       <p><l>aw</l>           <r>aw<s n="vblex"/><s n="pres"/></r></p></e>
+  <e>       <p><l>aws</l>          <r>aw<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+  <e>       <p><l>ew</l>           <r>aw<s n="vblex"/><s n="past"/></r></p></e>
+  <e>       <p><l>awn</l>          <r>aw<s n="vblex"/><s n="pp"/></r></p></e>
+  <e>       <p><l>awin</l>         <r>aw<s n="vblex"/><s n="ger"/></r></p></e>
+  <e>       <p><l>awin</l>         <r>aw<s n="vblex"/><s n="pprs"/></r></p></e>
+  <e>       <p><l>awin</l>         <r>aw<s n="vblex"/><s n="subs"/></r></p></e>
 </pardef>
 <pardef n="t/yne__vblex">
-  <e>       <p><l>yne</l>           <r><s n="vblex"/><s n="inf"/></r></p></e>
-  <e>       <p><l>yne</l>           <r><s n="vblex"/><s n="pres"/></r></p></e>
-  <e>       <p><l>ynes</l>          <r><s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
-  <e>       <p><l>int</l>          <r><s n="vblex"/><s n="past"/></r></p></e>
-  <e>       <p><l>int</l>          <r><s n="vblex"/><s n="pp"/></r></p></e>
-  <e>       <p><l>ynin</l>         <r><s n="vblex"/><s n="ger"/></r></p></e>
-  <e>       <p><l>ynin</l>         <r><s n="vblex"/><s n="pprs"/></r></p></e>
-  <e>       <p><l>ynin</l>         <r><s n="vblex"/><s n="subs"/></r></p></e>
+  <e>       <p><l>yne</l>           <r>yne<s n="vblex"/><s n="inf"/></r></p></e>
+  <e>       <p><l>yne</l>           <r>yne<s n="vblex"/><s n="pres"/></r></p></e>
+  <e>       <p><l>ynes</l>          <r>yne<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+  <e>       <p><l>int</l>          <r>yne<s n="vblex"/><s n="past"/></r></p></e>
+  <e>       <p><l>int</l>          <r>yne<s n="vblex"/><s n="pp"/></r></p></e>
+  <e>       <p><l>ynin</l>         <r>yne<s n="vblex"/><s n="ger"/></r></p></e>
+  <e>       <p><l>ynin</l>         <r>yne<s n="vblex"/><s n="pprs"/></r></p></e>
+  <e>       <p><l>ynin</l>         <r>yne<s n="vblex"/><s n="subs"/></r></p></e>
 </pardef>
 <pardef n="w/ark__vblex">
-  <e>       <p><l>ark</l>           <r><s n="vblex"/><s n="inf"/></r></p></e>
-  <e>       <p><l>ark</l>           <r><s n="vblex"/><s n="pres"/></r></p></e>
-  <e>       <p><l>arks</l>          <r><s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
-  <e>       <p><l>rocht</l>          <r><s n="vblex"/><s n="past"/></r></p></e>
-  <e>       <p><l>rocht</l>          <r><s n="vblex"/><s n="pp"/></r></p></e>
-  <e>       <p><l>arkin</l>         <r><s n="vblex"/><s n="ger"/></r></p></e>
-  <e>       <p><l>arkin</l>         <r><s n="vblex"/><s n="pprs"/></r></p></e>
-  <e>       <p><l>arkin</l>         <r><s n="vblex"/><s n="subs"/></r></p></e>
+  <e>       <p><l>ark</l>           <r>ark<s n="vblex"/><s n="inf"/></r></p></e>
+  <e>       <p><l>ark</l>           <r>ark<s n="vblex"/><s n="pres"/></r></p></e>
+  <e>       <p><l>arks</l>          <r>ark<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+  <e>       <p><l>rocht</l>          <r>ark<s n="vblex"/><s n="past"/></r></p></e>
+  <e>       <p><l>rocht</l>          <r>ark<s n="vblex"/><s n="pp"/></r></p></e>
+  <e>       <p><l>arkin</l>         <r>ark<s n="vblex"/><s n="ger"/></r></p></e>
+  <e>       <p><l>arkin</l>         <r>ark<s n="vblex"/><s n="pprs"/></r></p></e>
+  <e>       <p><l>arkin</l>         <r>ark<s n="vblex"/><s n="subs"/></r></p></e>
 </pardef>
 <pardef n="w/in__vblex">
-  <e>       <p><l>in</l>           <r><s n="vblex"/><s n="inf"/></r></p></e>
-  <e>       <p><l>in</l>           <r><s n="vblex"/><s n="pres"/></r></p></e>
-  <e>       <p><l>ins</l>          <r><s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
-  <e>       <p><l>an</l>          <r><s n="vblex"/><s n="past"/></r></p></e>
-  <e>       <p><l>un</l>          <r><s n="vblex"/><s n="pp"/></r></p></e>
-  <e>       <p><l>innin</l>         <r><s n="vblex"/><s n="ger"/></r></p></e>
-  <e>       <p><l>innin</l>         <r><s n="vblex"/><s n="pprs"/></r></p></e>
-  <e>       <p><l>innin</l>         <r><s n="vblex"/><s n="subs"/></r></p></e>
+  <e>       <p><l>in</l>           <r>in<s n="vblex"/><s n="inf"/></r></p></e>
+  <e>       <p><l>in</l>           <r>in<s n="vblex"/><s n="pres"/></r></p></e>
+  <e>       <p><l>ins</l>          <r>in<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+  <e>       <p><l>an</l>          <r>in<s n="vblex"/><s n="past"/></r></p></e>
+  <e>       <p><l>un</l>          <r>in<s n="vblex"/><s n="pp"/></r></p></e>
+  <e>       <p><l>innin</l>         <r>in<s n="vblex"/><s n="ger"/></r></p></e>
+  <e>       <p><l>innin</l>         <r>in<s n="vblex"/><s n="pprs"/></r></p></e>
+  <e>       <p><l>innin</l>         <r>in<s n="vblex"/><s n="subs"/></r></p></e>
 </pardef>
 <pardef n="wr/ite__vblex">
   <e>       <p><l>ite</l>           <r>ite<s n="vblex"/><s n="inf"/></r></p></e>
   <e>       <p><l>ite</l>           <r>ite<s n="vblex"/><s n="pres"/></r></p></e>
-  <e>       <p><l>ites</l>          <r>ite<s n="vblex"/><s n="pres"/><s n="p3"/><s n="sg"/></r></p></e>
+  <e>       <p><l>ites</l>          <r>ite<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
   <e>       <p><l>it</l>          <r>ite<s n="vblex"/><s n="past"/></r></p></e>
   <e>       <p><l>ote</l>          <r>ite<s n="vblex"/><s n="pp"/></r></p></e>
   <e>       <p><l>itin</l>         <r>ite<s n="vblex"/><s n="ger"/></r></p></e>
@@ -2839,9 +2839,8 @@
 
     <!--  PRONOUNS -->
 
-<e lm="A">             <i>A</i><par n="A__prn"/></e>
-<e lm="ye">            <i>ye</i><par n="ye__prn"/></e>
-
+<e lm="ye">            <i>ye</i><par n="prsubj__prn"/></e>
+<e lm="ye">            <i>ye</i><par n="probj__prn"/></e>
 
 
 

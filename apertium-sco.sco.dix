@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-	Dictionary:
-	Sections: 1
-	Entries: 6147
-	Sdefs: 95
-	Paradigms: 82
-	Last processed by: apertium-dixtools format -alignMonodix ../apertium-sco/apertium-sco.sco.dix ../apertium-sco/apertium-sco.sco.dix
+    Dictionary:
+    Sections: 1
+    Entries: 6147
+    Sdefs: 95
+    Paradigms: 82
+    Last processed by: apertium-dixtools format -alignMonodix ../apertium-sco/apertium-sco.sco.dix ../apertium-sco/apertium-sco.sco.dix
 
 -->
 <dictionary>
@@ -104,10 +104,12 @@
     <sdef n="ND" /> 
     <sdef n="GD" /> 
     <sdef n="mon" /> 
-    <sdef n="unc" 	c="Uncountable"/> 
-    <sdef n="dim" 	c="Diminutive"/> 
+    <sdef n="unc"   c="Uncountable"/> 
+    <sdef n="dim"   c="Diminutive"/> 
   </sdefs>
   <pardefs>
+
+
 
 <pardef n="acause__cnjadv">
     <e>     <p><l></l>          <r><s n="cnjadv"/></r></p></e>
@@ -344,6 +346,7 @@
   <e>       <p><l>es</l>        <r><s n="n"/><s n="pl"/></r></p></e>
 </pardef>
 
+
 <pardef n="niver__adv">
   <e>       <p><l></l>          <r><s n="adv"/></r></p></e>
 </pardef>
@@ -438,9 +441,9 @@
 </pardef>
 <pardef n="h/ae__vbmod">
   <e>       <p><l>ae</l>        <r>ae<s n="vbhaver"/><s n="inf"/></r></p></e>
-  <e>       <p><l>ae</l>        <r>ae<s n="vbhaver"/><s n="pres"/></r></p><par n="na__S"/></e>
+  <e>       <p><l>ae</l>        <r>ae<s n="vbhaver"/><s n="pri"/></r></p><par n="na__S"/></e>
   <e r="LR"><p><l>ev</l>        <r>ae<s n="vbhaver"/><s n="inf"/></r></p></e>
-  <e r="LR"><p><l>ev</l>        <r>ae<s n="vbhaver"/><s n="pres"/></r></p><par n="na__S"/></e>
+  <e r="LR"><p><l>ev</l>        <r>ae<s n="vbhaver"/><s n="pri"/></r></p><par n="na__S"/></e>
   <e r="LR"><p><l>iv</l>        <r>ae<s n="vbhaver"/><s n="inf"/></r></p></e>
   <e r="LR"><p><l>iv</l>        <r>ae<s n="vbhaver"/><s n="pres"/></r></p><par n="na__S"/></e>
   <e>       <p><l>aes</l>       <r>ae<s n="vbhaver"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p><par n="na__S"/></e>
@@ -452,14 +455,23 @@
   <e>       <p><l>evin</l>      <r>ae<s n="vbhaver"/><s n="pprs"/></r></p></e>
   <e>       <p><l>evin</l>      <r>ae<s n="vbhaver"/><s n="subs"/></r></p></e>
 </pardef>
+<pardef n="ha/e__vblex">
+  <e>       <p><l>e</l>         <r>e<s n="vblex"/><s n="inf"/></r></p></e>
+  <e>       <p><l>e</l>         <r>e<s n="vblex"/><s n="pri"/></r></p></e>
+  <e>       <p><l>es</l>        <r>e<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+  <e>       <p><l>ed</l>        <r>e<s n="vblex"/><s n="past"/></r></p></e>
+  <e>       <p><l>ed</l>        <r>e<s n="vblex"/><s n="pp"/></r></p></e>
+  <e>       <p><l>vin</l>       <r>e<s n="vblex"/><s n="ger"/></r></p></e>
+</pardef>
 <pardef n="/be__vbser">
   <e>       <p><l>be</l>        <r>be<s n="vbser"/><s n="inf"/></r></p></e>
-  <e>       <p><l>are</l>       <r>be<s n="vbser"/><s n="pres"/></r></p><par n="na__S"/></e>
+  <e>       <p><l>are</l>       <r>be<s n="vbser"/><s n="pri"/></r></p><par n="na__S"/></e>
   <e>       <p><l>am</l>        <r>be<s n="vbser"/><s n="pri"/><s n="p1"/><s n="sg"/></r></p><par n="na__S"/></e>
   <e>       <p><l>is</l>        <r>be<s n="vbser"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p><par n="na__S"/></e>
   <e>       <p><l>wis</l>       <r>be<s n="vbser"/><s n="past"/><s n="p1"/><s n="sg"/></r></p><par n="na__S"/></e>
   <e>       <p><l>wis</l>       <r>be<s n="vbser"/><s n="past"/><s n="p3"/><s n="sg"/></r></p><par n="na__S"/></e>
   <e>       <p><l>wir</l>       <r>be<s n="vbser"/><s n="past"/></r></p><par n="na__S"/></e>
+  <e>       <p><l>war</l>       <r>be<s n="vbser"/><s n="past"/></r></p><par n="na__S"/></e>
   <e>       <p><l>been</l>      <r>be<s n="vbser"/><s n="pp"/></r></p></e>
   <e>       <p><l>bein</l>      <r>be<s n="vbser"/><s n="ger"/></r></p></e>
   <e>       <p><l>bein</l>      <r>be<s n="vbser"/><s n="pprs"/></r></p></e>
@@ -1259,6 +1271,16 @@
   <e>       <p><l>din</l>          <r>end<s n="vblex"/><s n="pprs"/></r></p></e>
   <e>       <p><l>din</l>          <r>end<s n="vblex"/><s n="subs"/></r></p></e>
 </pardef>
+<pardef n="ser__vblex">
+  <e>       <p><l></l>             <r><s n="vblex"/><s n="inf"/></r></p></e>
+  <e>       <p><l></l>             <r><s n="vblex"/><s n="pres"/></r></p></e>
+  <e>       <p><l>s</l>            <r><s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+  <e>       <p><l>t</l>            <r><s n="vblex"/><s n="past"/></r></p></e>
+  <e>       <p><l>ed</l>           <r><s n="vblex"/><s n="pp"/></r></p></e>
+  <e>       <p><l>rin</l>          <r><s n="vblex"/><s n="ger"/></r></p></e>
+  <e>       <p><l>rin</l>          <r><s n="vblex"/><s n="pprs"/></r></p></e>
+  <e>       <p><l>rin</l>          <r><s n="vblex"/><s n="subs"/></r></p></e>
+</pardef>
 <pardef n="s/it__vblex">
   <e>       <p><l>it</l>           <r>it<s n="vblex"/><s n="inf"/></r></p></e>
   <e>       <p><l>it</l>           <r>it<s n="vblex"/><s n="pres"/></r></p></e>
@@ -1275,6 +1297,7 @@
   <e>       <p><l>aeks</l>         <r>aek<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
   <e>       <p><l>ak</l>           <r>aek<s n="vblex"/><s n="past"/></r></p></e>
   <e>       <p><l>oken</l>         <r>aek<s n="vblex"/><s n="pp"/></r></p></e>
+  <e>       <p><l>aek</l>          <r>aek<s n="vblex"/><s n="pp"/></r></p></e>
   <e>       <p><l>aekin</l>        <r>aek<s n="vblex"/><s n="ger"/></r></p></e>
   <e>       <p><l>aekin</l>        <r>aek<s n="vblex"/><s n="pprs"/></r></p></e>
   <e>       <p><l>aekin</l>        <r>aek<s n="vblex"/><s n="subs"/></r></p></e>
@@ -1523,6 +1546,62 @@
   <e r="RL"><p><l></l>          <r><s n="det"/><s n="pos"/><s n="pl"/></r></p></e>
 </pardef>
 
+    <!-- PROPER NOUNS PARDEFS -->
+
+<pardef n="Siberia__np">
+  <e>       <p><l></l>          <r><s n="np"/><s n="top"/><s n="sg"/></r></p></e>
+</pardef>
+
+<pardef n="Soviet_Union__np" c="used with article">
+  <e>       <p><l></l>          <r><s n="np"/><s n="top"/><s n="sg"/></r></p></e>
+</pardef>
+
+<pardef n="Unitit_States__np" c="used with article">
+  <e>       <p><l></l>          <r><s n="np"/><s n="top"/><s n="sp"/></r></p></e>
+</pardef>
+
+<pardef n="Eric__np">
+  <e>       <p><l></l>          <r><s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
+</pardef>
+
+<pardef n="Daniela__np">
+  <e>       <p><l></l>          <r><s n="np"/><s n="ant"/><s n="f"/><s n="sg"/></r></p></e>
+</pardef>
+
+<pardef n="Castro__np">
+  <e>       <p><l></l>          <r><s n="np"/><s n="cog"/><s n="sg"/></r></p></e>
+</pardef>
+
+
+    <pardef n="proper_names">
+    <e c="s'ha posat un prefix en la part dreta, que s'elimina en generar, perquè sinó la generació durava 6 vegades més a causa de la multiplicitat de camins del transductor">
+      <p>
+        <l></l>
+        <r>pn000</r>
+      </p>
+      <re>[ÀÁÂÄÇÈÉÊËÌÍÎÏÑÒÓÔÖÙÚÛÜABCDEFGHIJKLMNOPQRSTUVWXYZ][ÀÁÂÄÇÈÉÊËÌÍÎÏÑÒÓÔÖÙÚÛÜàáâäçèéêëìíîïñòóôöùúûüABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz]*</re>
+      <p>
+        <l></l>
+        <r><s n="np"/><s n="ant"/><s n="mf"/><s n="sg"/></r>
+      </p>
+    </e>
+
+
+    <e c="s'ha posat un prefix en la part dreta, que s'elimina en generar, perquè sinó la generació durava 6 vegades més a causa de la multiplicitat de camins del transductor">
+      <p>
+        <l></l>
+        <r>pn000</r>
+      </p>
+      <re>[ÀÁÂÄÇÈÉÊËÌÍÎÏÑÒÓÔÖÙÚÛÜABCDEFGHIJKLMNOPQRSTUVWXYZ][ÀÁÂÄÇÈÉÊËÌÍÎÏÑÒÓÔÖÙÚÛÜàáâäçèéêëìíîïñòóôöùúûüABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz]*</re>
+        <i><b/></i>
+      <re>[ÀÁÂÄÇÈÉÊËÌÍÎÏÑÒÓÔÖÙÚÛÜABCDEFGHIJKLMNOPQRSTUVWXYZ][ÀÁÂÄÇÈÉÊËÌÍÎÏÑÒÓÔÖÙÚÛÜàáâäçèéêëìíîïñòóôöùúûüABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz]*</re>
+      <p>
+        <l></l>
+        <r><s n="np"/><s n="ant"/><s n="mf"/><s n="sg"/></r>
+      </p>
+    </e>
+    </pardef>
+
   <!--        Numbers    par defs -->
 
 <pardef n="one__num">
@@ -1577,9 +1656,7 @@
 
     
     <!-- Regular nouns -->
-<e lm="hoose">           <i>hoose</i><par n="hoose__n"/></e>
-<e lm="habby">           <i>habb</i><par n="habb/y__n"/></e>
-<e lm="leid">            <i>leid</i><par n="hoose__n"/></e>
+
 <e lm="category">        <i>categor</i><par n="habb/y__n"/></e>
 <e lm="fitbaw">          <i>fitbaw</i><par n="hoose__n"/></e>
 <e lm="economy">         <i>econom</i><par n="habb/y__n"/></e>
@@ -1746,7 +1823,8 @@
 <e lm="caipital">         <i>caipital</i><par n="hoose__n"/></e>            
 <e lm="caird">            <i>caird</i><par n="hoose__n"/></e>               
 <e lm="cairt">            <i>cairt</i><par n="hoose__n"/></e>               
-<e lm="cairy-on">         <i>cairy-on</i><par n="habb/y__n"/></e>           
+<e lm="cairy-on">         <i>cairy-on</i><par n="habb/y__n"/></e>
+<e lm="camp">             <i>camp</i><par n="hoose__n"/></e>            
 <e lm="can">              <i>can</i><par n="hoose__n"/></e>                 
 <e lm="candidate">        <i>candidate</i><par n="hoose__n"/></e>           
 <e lm="capercaillie">     <i>capercaillie</i><par n="hoose__n"/></e>        
@@ -1876,13 +1954,15 @@
 <e lm="defender">         <i>defender</i><par n="hoose__n"/></e>            
 <e lm="deid">             <i>deid</i><par n="hoose__n"/></e>                
 <e lm="deil">             <i>deil</i><par n="hoose__n"/></e>                
-<e lm="deith">            <i>deith</i><par n="hoose__n"/></e>               
+<e lm="deith">            <i>deith</i><par n="hoose__n"/></e>
+<e lm="destrict">         <i>destrict</i><par n="hoose__n"/></e>
 <e lm="detail">           <i>detail</i><par n="hoose__n"/></e>              
 <e lm="dictionar">        <i>dictionar</i><par n="hoose__n"/></e>           
 <e lm="dinger">           <i>dinger</i><par n="hoose__n"/></e>              
 <e lm="dinnle">           <i>dinnle</i><par n="hoose__n"/></e>              
 <e lm="dirk">             <i>dirk</i><par n="hoose__n"/></e>                
-<e lm="disrespect">       <i>disrespect</i><par n="hoose__n"/></e>          
+<e lm="disrespect">       <i>disrespect</i><par n="hoose__n"/></e> 
+<e lm="district">         <i>district</i><par n="hoose__n"/></e> 
 <e lm="diversity">        <i>diversity</i><par n="habb/y__n"/></e>          
 <e lm="doag">             <i>doag</i><par n="hoose__n"/></e>                
 <e lm="dochter">          <i>dochter</i><par n="hoose__n"/></e>             
@@ -1959,7 +2039,8 @@
 <e lm="fermhoose">        <i>fermhoose</i><par n="hoose__n"/></e>           
 <e lm="fermin">           <i>fermin</i><par n="hoose__n"/></e>              
 <e lm="fermtoun">         <i>fermtoun</i><par n="hoose__n"/></e>            
-<e lm="fey">              <i>fey</i><par n="hoose__n"/></e>                 
+<e lm="fey">              <i>fey</i><par n="hoose__n"/></e>
+<e lm="field">            <i>field</i><par n="hoose__n"/></e>
 <e lm="findin">           <i>findin</i><par n="hoose__n"/></e>              
 <e lm="finger">           <i>finger</i><par n="hoose__n"/></e>              
 <e lm="fingir">           <i>fingir</i><par n="hoose__n"/></e>              
@@ -1971,7 +2052,8 @@
 <e lm="fishwifes">        <i>fishwifes</i><par n="hoose__n"/></e>
 <e lm="fitba">            <i>fitba</i><par n="hoose__n"/></e>           
 <e lm="fitbaw">           <i>fitbaw</i><par n="hoose__n"/></e>              
-<e lm="flee">             <i>flee</i><par n="hoose__n"/></e>                
+<e lm="flee">             <i>flee</i><par n="hoose__n"/></e> 
+<e lm="fleesh">           <i>fleesh</i><par n="aish__n"/></e> 
 <e lm="fling">            <i>fling</i><par n="hoose__n"/></e>               
 <e lm="flit">             <i>flit</i><par n="hoose__n"/></e>                
 <e lm="flooer">           <i>flooer</i><par n="hoose__n"/></e>              
@@ -1980,7 +2062,8 @@
 <e lm="fluir">            <i>fluir</i><par n="hoose__n"/></e>               
 <e lm="folk">             <i>folk</i><par n="hoose__n"/></e>                
 <e lm="folk">             <i>folk</i><par n="hoose__n"/></e>                
-<e lm="foond">            <i>foond</i><par n="hoose__n"/></e>               
+<e lm="foond">            <i>foond</i><par n="hoose__n"/></e>
+<e lm="fore">             <i>fore</i><par n="hoose__n"/></e>
 <e lm="forenuin">         <i>forenuin</i><par n="hoose__n"/></e>            
 <e lm="forewird">         <i>forewird</i><par n="hoose__n"/></e>            
 <e lm="fortnicht">        <i>fortnicht</i><par n="hoose__n"/></e>           
@@ -2050,7 +2133,8 @@
 <e lm="guise">            <i>guise</i><par n="hoose__n"/></e>               
 <e lm="guiser">           <i>guiser</i><par n="hoose__n"/></e>              
 <e lm="guisin">           <i>guisin</i><par n="hoose__n"/></e>              
-<e lm="haar">             <i>haar</i><par n="hoose__n"/></e>                
+<e lm="haar">             <i>haar</i><par n="hoose__n"/></e>
+<e lm="habby">            <i>habb</i><par n="habb/y__n"/></e>                
 <e lm="haft">             <i>haft</i><par n="hoose__n"/></e>                
 <e lm="haid">             <i>haid</i><par n="hoose__n"/></e>                
 <e lm="hail">             <i>hail</i><par n="hoose__n"/></e>                
@@ -2076,7 +2160,9 @@
 <e lm="heel">             <i>heel</i><par n="hoose__n"/></e>                
 <e lm="heft">             <i>heft</i><par n="hoose__n"/></e>                
 <e lm="heft">             <i>heft</i><par n="hoose__n"/></e>                
-<e lm="heid">             <i>heid</i><par n="hoose__n"/></e>                
+<e lm="heid">             <i>heid</i><par n="hoose__n"/></e>
+<e lm="heidsman">         <i>heidsman</i><par n="hoose__n"/></e>
+<e lm="heirskip">         <i>heirskip</i><par n="hoose__n"/></e>
 <e lm="hen">              <i>hen</i><par n="hoose__n"/></e>                 
 <e lm="hen">              <i>hen</i><par n="hoose__n"/></e>                 
 <e lm="herm">             <i>herm</i><par n="hoose__n"/></e>                
@@ -2258,6 +2344,7 @@
 <e lm="maucht">           <i>maucht</i><par n="hoose__n"/></e>              
 <e lm="maucht">           <i>maucht</i><par n="hoose__n"/></e>              
 <e lm="maut">             <i>maut</i><par n="hoose__n"/></e> 
+<e r="LR" lm="mayor">     <i>mayor</i><par n="hoose__n"/></e> 
 <e lm="meal">             <i>meal</i><par n="hoose__n"/></e> 
 <e lm="meenister">        <i>meenister</i><par n="hoose__n"/></e>           
 <e lm="meenistry">        <i>meenistry</i><par n="habb/y__n"/></e>          
@@ -2374,12 +2461,14 @@
 <e lm="pal">              <i>pal</i><par n="hoose__n"/></e>                 
 <e lm="panel">            <i>panel</i><par n="hoose__n"/></e>               
 <e lm="paper">            <i>paper</i><par n="hoose__n"/></e>
+<e r="LR" lm="parent">    <i>parent</i><par n="hoose__n"/></e>
 <e lm="parritch">         <i>parritch</i><par n="hoose__n"/></e>
 <e lm="partan">           <i>partan</i><par n="hoose__n"/></e>              
 <e lm="parteeclars">      <i>parteeclars</i><par n="hoose__n"/></e>         
 <e lm="parteeculars">     <i>parteeculars</i><par n="hoose__n"/></e>        
 <e lm="Pasche">           <i>Pasche</i><par n="hoose__n"/></e> 
 <e lm="passport">         <i>passport</i><par n="hoose__n"/></e>
+<e lm="paurent">          <i>paurent</i><par n="hoose__n"/></e>
 <e lm="patter">           <i>patter</i><par n="hoose__n"/></e>              
 <e lm="pattren">          <i>pattren</i><par n="hoose__n"/></e>             
 <e lm="paw">              <i>paw</i><par n="hoose__n"/></e>                 
@@ -2415,7 +2504,8 @@
 <e lm="polis">            <i>polis</i><par n="hoose__n"/></e>               
 <e lm="polis">            <i>polis</i><par n="hoose__n"/></e>               
 <e lm="polisman">         <i>polisman</i><par n="hoose__n"/></e>            
-<e lm="poliswumman">      <i>poliswumman</i><par n="hoose__n"/></e>         
+<e lm="poliswumman">      <i>poliswumman</i><par n="hoose__n"/></e> 
+<e lm="politeecian">      <i>politeecian</i><par n="hoose__n"/></e> 
 <e lm="pooer">            <i>pooer</i><par n="hoose__n"/></e>               
 <e lm="poond">            <i>poond</i><par n="hoose__n"/></e>               
 <e lm="poonds">           <i>poonds</i><par n="hoose__n"/></e>              
@@ -2423,7 +2513,8 @@
 <e lm="post">             <i>post</i><par n="hoose__n"/></e>                
 <e lm="postie">           <i>postie</i><par n="hoose__n"/></e>              
 <e lm="pouer">            <i>pouer</i><par n="hoose__n"/></e>               
-<e lm="pow">              <i>pow</i><par n="hoose__n"/></e>                 
+<e lm="pow">              <i>pow</i><par n="hoose__n"/></e>  
+<e r="LR" lm="power">     <i>power</i><par n="hoose__n"/></e> 
 <e lm="poyet">            <i>poyet</i><par n="hoose__n"/></e>               
 <e lm="poyetry">          <i>poyetry</i><par n="habb/y__n"/></e>            
 <e lm="praisent">         <i>praisent</i><par n="hoose__n"/></e>            
@@ -2434,7 +2525,8 @@
 <e lm="process">          <i>process</i><par n="hoose__n"/></e>             
 <e lm="procurator">       <i>procurator</i><par n="hoose__n"/></e>          
 <e lm="pronooncement">    <i>pronooncement</i><par n="hoose__n"/></e>       
-<e lm="proveesion">       <i>proveesion</i><par n="hoose__n"/></e>          
+<e lm="proveesion">       <i>proveesion</i><par n="hoose__n"/></e> 
+<e lm="province">         <i>province</i><par n="hoose__n"/></e>
 <e lm="puckle">           <i>puckle</i><par n="hoose__n"/></e>              
 <e lm="puckle">           <i>puckle</i><par n="hoose__n"/></e>              
 <e lm="puckle">           <i>puckle</i><par n="hoose__n"/></e>              
@@ -2449,7 +2541,8 @@
 <e lm="queen">            <i>queen</i><par n="hoose__n"/></e>               
 <e lm="radge">            <i>radge</i><par n="hoose__n"/></e>               
 <e lm="radgie">           <i>radgie</i><par n="hoose__n"/></e>              
-<e lm="radio">            <i>radio</i><par n="hoose__n"/></e>               
+<e lm="radio">            <i>radio</i><par n="hoose__n"/></e>
+<e lm="railwey">          <i>railwey</i><par n="hoose__n"/></e>
 <e lm="rammie">           <i>rammie</i><par n="hoose__n"/></e>              
 <e lm="rammy">            <i>rammy</i><par n="habb/y__n"/></e>              
 <e lm="raw">              <i>raw</i><par n="hoose__n"/></e>                 
@@ -2460,9 +2553,11 @@
 <e lm="reek">             <i>reek</i><par n="hoose__n"/></e>                
 <e lm="reek">             <i>reek</i><par n="hoose__n"/></e>                
 <e lm="reek">             <i>reek</i><par n="hoose__n"/></e>                
-<e lm="reek">             <i>reek</i><par n="hoose__n"/></e>                
+<e lm="reek">             <i>reek</i><par n="hoose__n"/></e> 
+<e lm="region">           <i>region</i><par n="hoose__n"/></e>
 <e lm="reid">             <i>reid</i><par n="hoose__n"/></e>                
-<e lm="releegion">        <i>releegion</i><par n="hoose__n"/></e>           
+<e lm="releegion">        <i>releegion</i><par n="hoose__n"/></e> 
+<e lm="representative">   <i>representative</i><par n="hoose__n"/></e>
 <e lm="resident">         <i>resident</i><par n="hoose__n"/></e>            
 <e lm="residenter">       <i>residenter</i><par n="hoose__n"/></e>          
 <e lm="resoorce">         <i>resoorce</i><par n="hoose__n"/></e>            
@@ -2470,121 +2565,110 @@
 <e lm="respect">          <i>respect</i><par n="hoose__n"/></e>             
 <e lm="restaurant">       <i>restaurant</i><par n="hoose__n"/></e>          
 <e lm="richt">            <i>richt</i><par n="hoose__n"/></e>               
-<e lm="ring">             <i>ring</i><par n="hoose__n"/></e>                
+<e lm="ring">             <i>ring</i><par n="hoose__n"/></e> 
+<e lm="river">            <i>river</i><par n="hoose__n"/></e>
 <e lm="road">             <i>road</i><par n="hoose__n"/></e>                
 <e lm="road">             <i>road</i><par n="hoose__n"/></e>                
 <e lm="rock">             <i>rock</i><par n="hoose__n"/></e>                
 <e lm="rule">             <i>rule</i><par n="hoose__n"/></e>                
 <e lm="ruler">            <i>ruler</i><par n="hoose__n"/></e>               
 <e lm="rush">             <i>rush</i><par n="hoose__n"/></e>                
-<e lm="saftware">         <i>saftware</i><par n="aish__n"/></e>             
-<e lm="sanct">            <i>sanct</i><par n="aish__n"/></e>                
-<e lm="sang">             <i>sang</i><par n="aish__n"/></e>                 
-<e lm="sangster">         <i>sangster</i><par n="aish__n"/></e>             
-<e lm="sark">             <i>sark</i><par n="aish__n"/></e>                 
-<e lm="sark">             <i>sark</i><par n="aish__n"/></e>                 
-<e lm="sark">             <i>sark</i><par n="aish__n"/></e>                 
-<e lm="sauch">            <i>sauch</i><par n="aish__n"/></e>                
-<e lm="saumon">           <i>saumon</i><par n="aish__n"/></e>               
-<e lm="saunt">            <i>saunt</i><par n="aish__n"/></e>                
-<e lm="scaffie">          <i>scaffie</i><par n="aish__n"/></e> 
-<e lm="scene">            <i>scene</i><par n="aish__n"/></e>
+<e lm="saftware">         <i>saftware</i><par n="hoose__n"/></e>             
+<e lm="sanct">            <i>sanct</i><par n="hoose__n"/></e>                
+<e lm="sang">             <i>sang</i><par n="hoose__n"/></e>                 
+<e lm="sangster">         <i>sangster</i><par n="hoose__n"/></e>             
+<e lm="sark">             <i>sark</i><par n="hoose__n"/></e>                                 
+<e lm="sauch">            <i>sauch</i><par n="hoose__n"/></e>                
+<e lm="saumon">           <i>saumon</i><par n="hoose__n"/></e>               
+<e lm="saunt">            <i>saunt</i><par n="hoose__n"/></e>                
+<e lm="scaffie">          <i>scaffie</i><par n="hoose__n"/></e> 
+<e lm="scene">            <i>scene</i><par n="hoose__n"/></e>
 <e lm="scholar">          <i>scholar</i><par n="hoose__n"/></e>
 <e lm="scholart">         <i>scholart</i><par n="hoose__n"/></e>
-<e lm="schuil">           <i>schuil</i><par n="aish__n"/></e>               
-<e lm="schuils">          <i>schuils</i><par n="aish__n"/></e>              
-<e lm="scran">            <i>scran</i><par n="aish__n"/></e>                
-<e lm="screed">           <i>screed</i><par n="aish__n"/></e>               
-<e lm="scriever">         <i>scriever</i><par n="aish__n"/></e> 
+<e lm="schuil">           <i>schuil</i><par n="hoose__n"/></e>                             
+<e lm="scran">            <i>scran</i><par n="hoose__n"/></e>                
+<e lm="screed">           <i>screed</i><par n="hoose__n"/></e>               
+<e lm="scriever">         <i>scriever</i><par n="hoose__n"/></e> 
 <e lm="Scots">            <i>Scots</i><par n="hoose__n"/></e>            
-<e lm="scud">             <i>scud</i><par n="aish__n"/></e>                 
-<e lm="secretar">         <i>secretar</i><par n="aish__n"/></e>             
-<e lm="seestem">          <i>seestem</i><par n="aish__n"/></e>              
-<e lm="seicont">          <i>seicont</i><par n="aish__n"/></e>              
-<e lm="semmit">           <i>semmit</i><par n="aish__n"/></e>               
-<e lm="servit">           <i>servit</i><par n="aish__n"/></e>                             
+<e lm="scud">             <i>scud</i><par n="hoose__n"/></e>                 
+<e lm="secretar">         <i>secretar</i><par n="hoose__n"/></e>             
+<e lm="seestem">          <i>seestem</i><par n="hoose__n"/></e>              
+<e lm="seicont">          <i>seicont</i><par n="hoose__n"/></e>              
+<e lm="semmit">           <i>semmit</i><par n="hoose__n"/></e>
+<e lm="senate">           <i>senate</i><par n="hoose__n"/></e>
+<e lm="senator">          <i>senator</i><par n="hoose__n"/></e>
+<e lm="servit">           <i>servit</i><par n="hoose__n"/></e>                             
 <e lm="shae">             <i>shae</i><par n="aish__n"/></e>                 
 <e lm="shank">            <i>shank</i><par n="aish__n"/></e>                
 <e lm="shank">            <i>shank</i><par n="aish__n"/></e>                
 <e lm="shaw">             <i>shaw</i><par n="aish__n"/></e>                 
 <e lm="shield">           <i>shield</i><par n="aish__n"/></e>
 <e lm="shift">            <i>shift</i><par n="hoose__n"/></e>              
-<e lm="shipyaird">        <i>shipyaird</i><par n="habb/y__n"/></e>          
-<e lm="shoppin">          <i>shoppin</i><par n="aish__n"/></e>              
-<e lm="shore">            <i>shore</i><par n="aish__n"/></e>                
-<e lm="shot">             <i>shot</i><par n="aish__n"/></e>                 
-<e lm="shot">             <i>shot</i><par n="aish__n"/></e>                 
-<e lm="shote">            <i>shote</i><par n="aish__n"/></e>                
-<e lm="shote">            <i>shote</i><par n="aish__n"/></e>                
-<e lm="shuin">            <i>shuin</i><par n="aish__n"/></e>                
-<e lm="sicht">            <i>sicht</i><par n="aish__n"/></e>                
-<e lm="side">             <i>side</i><par n="aish__n"/></e>                 
-<e lm="siller">           <i>siller</i><par n="aish__n"/></e>               
-<e lm="siller">           <i>siller</i><par n="aish__n"/></e>               
-<e lm="simmer">           <i>simmer</i><par n="aish__n"/></e>               
-<e lm="simmertime">       <i>simmertime</i><par n="aish__n"/></e>           
-<e lm="skaith">           <i>skaith</i><par n="aish__n"/></e>               
-<e lm="skeel">            <i>skeel</i><par n="aish__n"/></e>                
-<e lm="skeels">           <i>skeels</i><par n="aish__n"/></e>               
-<e lm="skelpin">          <i>skelpin</i><par n="aish__n"/></e>              
-<e lm="skirl">            <i>skirl</i><par n="aish__n"/></e>                
-<e lm="skirl">            <i>skirl</i><par n="aish__n"/></e>                
-<e lm="slaver">           <i>slaver</i><par n="aish__n"/></e> 
-<e lm="sleeve">           <i>sleeve</i><par n="aish__n"/></e> 
-<e lm="slicht">           <i>slicht</i><par n="aish__n"/></e>               
-<e lm="smeddum">          <i>smeddum</i><par n="aish__n"/></e>              
-<e lm="snake">            <i>snake</i><par n="aish__n"/></e>                           
-<e lm="snaw">             <i>snaw</i><par n="aish__n"/></e>                 
-<e lm="snawman">          <i>snawman</i><par n="aish__n"/></e>              
-<e lm="sneck">            <i>sneck</i><par n="aish__n"/></e>                
-<e lm="sneck">            <i>sneck</i><par n="aish__n"/></e>                
-<e lm="sneck">            <i>sneck</i><par n="aish__n"/></e>                
-<e lm="sneck">            <i>sneck</i><par n="aish__n"/></e>                
-<e lm="sodger">           <i>sodger</i><par n="aish__n"/></e>               
-<e lm="soon">             <i>soon</i><par n="aish__n"/></e>                 
-<e lm="soond">            <i>soond</i><par n="aish__n"/></e>                
-<e lm="soonds">           <i>soonds</i><par n="aish__n"/></e>               
-<e lm="soondtrack">       <i>soondtrack</i><par n="aish__n"/></e>           
-<e lm="soorce">           <i>soorce</i><par n="aish__n"/></e>               
-<e lm="sooth">            <i>sooth</i><par n="aish__n"/></e>                
-<e lm="speerit">          <i>speerit</i><par n="aish__n"/></e>              
-<e lm="speerits">         <i>speerits</i><par n="aish__n"/></e>             
-<e lm="speir">            <i>speir</i><par n="aish__n"/></e>                
-<e lm="spikker">          <i>spikker</i><par n="aish__n"/></e>              
-<e lm="spuin">            <i>spuin</i><par n="aish__n"/></e>                
-<e lm="spurtle">          <i>spurtle</i><par n="aish__n"/></e>              
-<e lm="squatter">         <i>squatter</i><par n="aish__n"/></e>             
-<e lm="squeeb">           <i>squeeb</i><par n="aish__n"/></e>               
-<e lm="stairt">           <i>stairt</i><par n="aish__n"/></e>               
-<e lm="stane">            <i>stane</i><par n="aish__n"/></e>                
-<e lm="stap-bairn">       <i>stap-bairn</i><par n="aish__n"/></e>           
-<e lm="starn">            <i>starn</i><par n="aish__n"/></e>                
-<e lm="starns">           <i>starns</i><par n="aish__n"/></e>  
-<e lm="state">            <i>state</i><par n="aish__n"/></e>
-<e lm="staundart">        <i>staundart</i><par n="aish__n"/></e>            
-<e lm="staundarts">       <i>staundarts</i><par n="aish__n"/></e>           
-<e lm="staundin">         <i>staundin</i><par n="aish__n"/></e>             
-<e lm="steid">            <i>steid</i><par n="aish__n"/></e>                
-<e lm="steidin">          <i>steidin</i><par n="aish__n"/></e>              
-<e lm="ster">             <i>ster</i><par n="aish__n"/></e>                 
-<e lm="stert">            <i>stert</i><par n="aish__n"/></e>                
-<e lm="stishie">          <i>stishie</i><par n="aish__n"/></e>              
-<e lm="stookie">          <i>stookie</i><par n="aish__n"/></e>              
-<e lm="stoor">            <i>stoor</i><par n="aish__n"/></e>                
-<e lm="stoor">            <i>stoor</i><par n="aish__n"/></e>                
-<e lm="stooshie">         <i>stooshie</i><par n="aish__n"/></e>
+<e lm="shipyaird">        <i>shipyaird</i><par n="hoose__n"/></e>          
+<e lm="shoppin">          <i>shoppin</i><par n="hoose__n"/></e>              
+<e lm="shore">            <i>shore</i><par n="hoose__n"/></e>                
+<e lm="shot">             <i>shot</i><par n="hoose__n"/></e>                                 
+<e lm="shote">            <i>shote</i><par n="hoose__n"/></e>                               
+<e lm="shuin">            <i>shuin</i><par n="hoose__n"/></e>                
+<e lm="sicht">            <i>sicht</i><par n="hoose__n"/></e>                
+<e lm="side">             <i>side</i><par n="hoose__n"/></e>                 
+<e lm="siller">           <i>siller</i><par n="hoose__n"/></e>                             
+<e lm="simmer">           <i>simmer</i><par n="hoose__n"/></e>               
+<e lm="simmertime">       <i>simmertime</i><par n="hoose__n"/></e>           
+<e lm="skaith">           <i>skaith</i><par n="hoose__n"/></e>               
+<e lm="skeel">            <i>skeel</i><par n="hoose__n"/></e>                              
+<e lm="skelpin">          <i>skelpin</i><par n="hoose__n"/></e>              
+<e lm="skirl">            <i>skirl</i><par n="hoose__n"/></e>                
+<e lm="skirl">            <i>skirl</i><par n="hoose__n"/></e>                
+<e lm="slaver">           <i>slaver</i><par n="hoose__n"/></e> 
+<e lm="sleeve">           <i>sleeve</i><par n="hoose__n"/></e> 
+<e lm="slicht">           <i>slicht</i><par n="hoose__n"/></e>               
+<e lm="smeddum">          <i>smeddum</i><par n="hoose__n"/></e>              
+<e lm="snake">            <i>snake</i><par n="hoose__n"/></e>                           
+<e lm="snaw">             <i>snaw</i><par n="hoose__n"/></e>                 
+<e lm="snawman">          <i>snawman</i><par n="hoose__n"/></e>              
+<e lm="sneck">            <i>sneck</i><par n="hoose__n"/></e>                               
+<e lm="sodger">           <i>sodger</i><par n="hoose__n"/></e>               
+<e lm="soon">             <i>soon</i><par n="hoose__n"/></e>                 
+<e lm="soond">            <i>soond</i><par n="hoose__n"/></e>                              
+<e lm="soondtrack">       <i>soondtrack</i><par n="hoose__n"/></e>           
+<e lm="soorce">           <i>soorce</i><par n="hoose__n"/></e>               
+<e lm="sooth">            <i>sooth</i><par n="hoose__n"/></e>
+<e lm="speed">            <i>speed</i><par n="hoose__n"/></e>
+<e lm="speerit">          <i>speerit</i><par n="hoose__n"/></e>                           
+<e lm="speir">            <i>speir</i><par n="hoose__n"/></e>                
+<e lm="spikker">          <i>spikker</i><par n="hoose__n"/></e>              
+<e lm="spuin">            <i>spuin</i><par n="hoose__n"/></e>                
+<e lm="spurtle">          <i>spurtle</i><par n="hoose__n"/></e>              
+<e lm="squatter">         <i>squatter</i><par n="hoose__n"/></e>             
+<e lm="squeeb">           <i>squeeb</i><par n="hoose__n"/></e>               
+<e lm="stairt">           <i>stairt</i><par n="hoose__n"/></e>               
+<e lm="stane">            <i>stane</i><par n="hoose__n"/></e>                
+<e lm="stap-bairn">       <i>stap-bairn</i><par n="hoose__n"/></e>           
+<e lm="starn">            <i>starn</i><par n="hoose__n"/></e>                
+<e lm="starns">           <i>starns</i><par n="hoose__n"/></e>  
+<e lm="state">            <i>state</i><par n="hoose__n"/></e>
+<e lm="staundart">        <i>staundart</i><par n="hoose__n"/></e>                      
+<e lm="staundin">         <i>staundin</i><par n="hoose__n"/></e>             
+<e lm="steid">            <i>steid</i><par n="hoose__n"/></e>                
+<e lm="steidin">          <i>steidin</i><par n="hoose__n"/></e>              
+<e lm="ster">             <i>ster</i><par n="hoose__n"/></e>                 
+<e lm="stert">            <i>stert</i><par n="hoose__n"/></e>                
+<e lm="stishie">          <i>stishie</i><par n="hoose__n"/></e>              
+<e lm="stookie">          <i>stookie</i><par n="hoose__n"/></e>              
+<e lm="stoor">            <i>stoor</i><par n="hoose__n"/></e>                               
+<e lm="stooshie">         <i>stooshie</i><par n="hoose__n"/></e>
 <e lm="story">            <i>stor</i><par n="habb/y__n"/></e>             
-<e lm="stot">             <i>stot</i><par n="aish__n"/></e>                 
-<e lm="stot">             <i>stot</i><par n="aish__n"/></e>                 
-<e lm="stour">            <i>stour</i><par n="aish__n"/></e>                
-<e lm="stour">            <i>stour</i><par n="aish__n"/></e>                
+<e lm="stot">             <i>stot</i><par n="hoose__n"/></e>                 
+<e lm="stot">             <i>stot</i><par n="hoose__n"/></e>                 
+<e lm="stour">            <i>stour</i><par n="hoose__n"/></e>                                
 <e lm="stramash">         <i>stramash</i><par n="aish__n"/></e>             
-<e lm="strand">           <i>strand</i><par n="aish__n"/></e>               
-<e lm="straucht">         <i>straucht</i><par n="aish__n"/></e>             
-<e lm="structur">         <i>structur</i><par n="aish__n"/></e>             
-<e lm="strynd">           <i>strynd</i><par n="habb/y__n"/></e>             
+<e lm="strand">           <i>strand</i><par n="hoose__n"/></e>               
+<e lm="straucht">         <i>straucht</i><par n="hoose__n"/></e>             
+<e lm="structur">         <i>structur</i><par n="hoose__n"/></e>             
+<e lm="strynd">           <i>strynd</i><par n="hoose__n"/></e>             
 <e lm="stupeedity">       <i>stupeedity</i><par n="habb/y__n"/></e> 
-<e lm="subject">          <i>subject</i><par n="habb/y__n"/></e> 
+<e lm="subject">          <i>subject</i><par n="hoose__n"/></e> 
 <e lm="sundoon">          <i>sundoon</i><par n="hoose__n"/></e>              
 <e lm="sundoun">          <i>sundoun</i><par n="hoose__n"/></e>              
 <e lm="sunlicht">         <i>sunlicht</i><par n="hoose__n"/></e>             
@@ -2612,7 +2696,8 @@
 <e lm="theevil">          <i>theevil</i><par n="hoose__n"/></e>
 <e lm="thing">            <i>thing</i><par n="hoose__n"/></e>
 <e lm="thingmie">         <i>thingmie</i><par n="hoose__n"/></e>
-<e lm="thocht">           <i>thocht</i><par n="hoose__n"/></e>              
+<e lm="thocht">           <i>thocht</i><par n="hoose__n"/></e> 
+<e lm="thousand">         <i>thousand</i><par n="hoose__n"/></e> 
 <e lm="thrapple">         <i>thrapple</i><par n="hoose__n"/></e>                        
 <e lm="thraw">            <i>thraw</i><par n="hoose__n"/></e>               
 <e lm="threap">           <i>threap</i><par n="hoose__n"/></e>              
@@ -2654,7 +2739,8 @@
 <e lm="walcome">          <i>walcome</i><par n="hoose__n"/></e>             
 <e lm="wale">             <i>wale</i><par n="hoose__n"/></e>                               
 <e lm="walin">            <i>walin</i><par n="hoose__n"/></e>                             
-<e lm="wappenschawing">   <i>wappenschawing</i><par n="hoose__n"/></e>      
+<e lm="wappenschawing">   <i>wappenschawing</i><par n="hoose__n"/></e>
+<e lm="war">              <i>war</i><par n="hoose__n"/></e>      
 <e lm="wark">             <i>wark</i><par n="hoose__n"/></e>
 <e lm="warker">           <i>warker</i><par n="hoose__n"/></e>
 <e lm="warld">            <i>warld</i><par n="hoose__n"/></e>               
@@ -2668,7 +2754,8 @@
 <e lm="wean">             <i>wean</i><par n="hoose__n"/></e>                
 <e lm="wean">             <i>wean</i><par n="hoose__n"/></e>                
 <e lm="weavin">           <i>weavin</i><par n="hoose__n"/></e>              
-<e lm="weemin">           <i>weemin</i><par n="hoose__n"/></e>              
+<e lm="weemin">           <i>weemin</i><par n="hoose__n"/></e>
+<e lm="weir">             <i>weir</i><par n="hoose__n"/></e>
 <e lm="weird">            <i>weird</i><par n="hoose__n"/></e>                
 <e lm="week">             <i>week</i><par n="hoose__n"/></e> 
 <e lm="wey">              <i>wey</i><par n="hoose__n"/></e>                 
@@ -2723,6 +2810,7 @@
 <e lm="alane">           <i>alane</i><par n="mebbe__adv"/></e>
 <e lm="alang">           <i>alang</i><par n="mebbe__adv"/></e>
 <e lm="almaist">         <i>almaist</i><par n="mebbe__adv"/></e>
+<e r="LR" lm="an aa">    <i>an<b/>aa</i><par n="mebbe__adv"/></e>
 <e lm="an aw">           <i>an<b/>aw</i><par n="mebbe__adv"/></e>
 <e lm="ance">            <i>ance</i><par n="mebbe__adv"/></e>
 <e lm="aneath">          <i>aneath</i><par n="mebbe__adv"/></e>
@@ -2825,6 +2913,7 @@
 <e lm="ower">            <i>ower</i><par n="mebbe__adv"/></e>
 <e lm="owerly">          <i>owerly</i><par n="mebbe__adv"/></e>
 <e lm="pairtly">         <i>pairtly</i><par n="mebbe__adv"/></e>
+<e lm="pairteecularly">   <i>pairteecularly</i><par n="mebbe__adv"/></e>
 <e lm="queem">           <i>queem</i><par n="mebbe__adv"/></e>
 <e lm="quick">           <i>quick</i><par n="mebbe__adv"/></e>
 <e lm="richt">           <i>richt</i><par n="mebbe__adv"/></e>
@@ -2876,13 +2965,18 @@
 
     <!-- NUMBERS -->
 
+<e lm="ane">             <i>ane</i><par n="one__num"/></e>
 <e lm="wan">             <i>wan</i><par n="one__num"/></e>
+<e r="LR" lm="one">      <i>one</i><par n="one__num"/></e>
+<e lm="twa">             <i>twa</i><par n="one__num"/></e>
+<e r="LR" lm="two">      <i>two</i><par n="one__num"/></e>
 <e lm="three">           <i>three</i><par n="three__num"/></e>
 
 
     <!-- DETERMINERS -->
 
 <e r="LR" lm="a">        <i>a</i><par n="a__det"/></e>
+<e r="LR" lm="an">       <i>an</i><par n="a__det"/></e>
 <e r="RL" lm="a">        <p><l><a/>a</l><r>a</r></p><par n="a__det"/></e>
 <e lm="anither">         <i>anither</i><par n="anither__det"/></e>
 <e lm="eneuch">          <i>eneuch</i><par n="eneuch__det"/></e>
@@ -2955,6 +3049,7 @@
 <e lm="anent">           <i>anent</i><par n="tae__pr"/></e>
 <e lm="aroon">           <i>aroon</i><par n="tae__pr"/></e>
 <e lm="aroond">          <i>aroond</i><par n="tae__pr"/></e>
+<e lm="as">              <i>as</i><par n="tae__pr"/></e>
 <e lm="at">              <i>at</i><par n="tae__pr"/></e>
 <e lm="athin">           <i>at</i><par n="tae__pr"/></e>
 <e lm="athort">          <i>athort</i><par n="tae__pr"/></e>
@@ -2976,12 +3071,15 @@
 <e lm="gin">             <i>gin</i><par n="tae__pr"/></e>
 <e lm="in">              <i>in</i><par n="tae__pr"/></e>
 <e lm="intae">           <i>intae</i><par n="tae__pr"/></e>
+<e r="LR" lm="lik">      <i>lik</i><par n="tae__pr"/></e>
+<e lm="like">            <i>like</i><par n="tae__pr"/></e>
 <e lm="mair nor">        <i>mair<b/>nor</i><par n="tae__pr"/></e>
 <e lm="maugre">          <i>maugre</i><par n="tae__pr"/></e>
 <e lm="neist">           <i>neist</i><par n="tae__pr"/></e>
 <e lm="niest">           <i>niest</i><par n="tae__pr"/></e>
 <e lm="nixt">            <i>nixt</i><par n="tae__pr"/></e>
 <e lm="o">               <i>o</i><par n="tae__pr"/></e>
+<e r="LR" lm="of">       <i>of</i><par n="tae__pr"/></e>
 <e lm="on">              <i>on</i><par n="tae__pr"/></e>
 <e lm="ontae">           <i>ontae</i><par n="tae__pr"/></e>
 <e lm="ontil">           <i>ontil</i><par n="tae__pr"/></e>
@@ -2992,13 +3090,16 @@
 <e lm="out">             <i>out</i><par n="tae__pr"/></e>
 <e lm="out-throu">       <i>out-throu</i><par n="tae__pr"/></e>
 <e lm="ower">            <i>ower</i><par n="tae__pr"/></e>
+<e lm="such as">         <i>such<b/>as</i><par n="tae__pr"/></e>
 <e lm="syne">            <i>syne</i><par n="tae__pr"/></e>
 <e lm="tae">             <i>tae</i><par n="tae__pr"/></e>
 <e lm="taeward">         <i>taeward</i><par n="tae__pr"/></e>
 <e lm="taewart">         <i>taewart</i><par n="tae__pr"/></e>
 <e lm="throu">           <i>throu</i><par n="tae__pr"/></e>
+<e lm="throuoot">        <i>throuoot</i><par n="tae__pr"/></e>
 <e lm="through">         <i>through</i><par n="tae__pr"/></e>
 <e lm="til">             <i>til</i><par n="tae__pr"/></e>
+<e r="LR" lm="to">       <i>to</i><par n="tae__pr"/></e>
 <e lm="unner">           <i>unner</i><par n="tae__pr"/></e>
 <e lm="wi">              <i>wi</i><par n="tae__pr"/></e>
 <e lm="wioot">           <i>wioot</i><par n="tae__pr"/></e>
@@ -3195,6 +3296,7 @@
 <e lm="laich">           <i>laich</i><par n="lang/__adj"/></e>
 <e lm="lairge">          <i>lairge</i><par n="bairnie/__adj"/></e>
 <e lm="lang">            <i>lang</i><par n="lang/__adj"/></e>
+<e r="RL" lm="large">    <i>large</i><par n="bairnie/__adj"/></e>
 <e lm="last">            <i>last</i><par n="expensive__adj"/></e>
 <e lm="law">             <i>law</i><par n="lang/__adj"/></e>
 <e lm="lawfu">           <i>lawfu</i><par n="expensive__adj"/></e>
@@ -3251,6 +3353,7 @@
 <e lm="pokey">           <i>pokey</i><par n="expensive__adj"/></e>
 <e lm="poleetical">      <i>poleetical</i><par n="expensive__adj"/></e>
 <e lm="praisent">        <i>praisent</i><par n="expensive__adj"/></e>
+<e lm="proposit">        <i>proposit</i><par n="expensive__adj"/></e>
 <e lm="public">          <i>public</i><par n="expensive__adj"/></e>
 <e lm="puir">            <i>puir</i><par n="lang/__adj"/></e>
 <e lm="pure">            <i>pure</i><par n="bairnie/__adj"/></e>
@@ -3324,6 +3427,7 @@
 <e lm="strict">          <i>strict</i><par n="lang/__adj"/></e>
 <e lm="strippit">        <i>strippit</i><par n="expensive__adj"/></e>
 <e lm="stupit">          <i>stupit</i><par n="fat/__adj"/></e>
+<e r="LR" lm="such">     <i>such</i><par n="mebbe__adv"/></e>
 <e lm="suffeecient">     <i>suffeecient</i><par n="expensive__adj"/></e>
 <e lm="suin">            <i>suin</i><par n="expensive__adj"/></e>
 <e lm="supernaitural">   <i>supernaitural</i><par n="expensive__adj"/></e>
@@ -3339,7 +3443,6 @@
 <e lm="their">           <i>their</i><par n="expensive__adj"/></e>
 <e lm="this">            <i>this</i><par n="expensive__adj"/></e>
 <e lm="thon">            <i>thon</i><par n="expensive__adj"/></e>
-<e lm="three">           <i>three</i><par n="expensive__adj"/></e>
 <e lm="tied">            <i>tied</i><par n="expensive__adj"/></e>
 <e lm="tottie">          <i>tottie</i><par n="expensive__adj"/></e>
 <e lm="tradeetional">    <i>tradeetional</i><par n="expensive__adj"/></e>
@@ -3393,6 +3496,8 @@
 
 
 <e lm="Africaen">        <i>Africaen</i><par n="expensive__adj"/></e>
+<e lm="African">         <i>African</i><par n="expensive__adj"/></e>
+<e lm="American">        <i>American</i><par n="expensive__adj"/></e>
 <e lm="Breetish">        <i>Breetish</i><par n="expensive__adj"/></e>
 <e lm="British">         <i>British</i><par n="expensive__adj"/></e>
 <e lm="Cornish">         <i>Cornish</i><par n="expensive__adj"/></e>
@@ -3508,39 +3613,48 @@
 <e lm="Spain">           <i>Spain</i><par n="Barcelona__np"/></e>
 <e lm="Sparta">          <i>Sparta</i><par n="Barcelona__np"/></e>
 <e lm="Unitit Kinrick">  <i>Unitit<b/>Kinrick</i><par n="Barcelona__np"/></e>
-<e lm="Unitit States">   <i>Unitit<b/>States</i><par n="Barcelona__np"/></e>
+<e lm="Unitit States">   <i>Unitit<b/>States</i><par n="Unitit_States__np"/></e>
 <e lm="U.K.">            <i>U.K.</i><par n="Barcelona__np"/></e>
 <e lm="U.S.">            <i>U.S.</i><par n="Barcelona__np"/></e>
+<e lm="Vermont">         <i>Vermont</i><par n="Barcelona__np"/></e>
 <e lm="Wastmeenster">    <i>Wastmeenster</i><par n="Barcelona__np"/></e>
 
       <!-- Months & Days -->
-<e lm="Januar">          <i>Januar</i><par n="Mark__np"/></e>
-<e lm="Februar">         <i>Februar</i><par n="Mark__np"/></e>
-<e lm="Mairch">          <i>Mairch</i><par n="Mark__np"/></e>
-<e lm="Aprile">          <i>Aprile</i><par n="Mark__np"/></e>
-<e lm="Apryle">          <i>Apryle</i><par n="Mark__np"/></e>
-<e lm="Mey">             <i>Mey</i><par n="Mark__np"/></e>
-<e lm="Juin">            <i>Juin</i><par n="Mark__np"/></e>
-<e lm="Julie">           <i>Julie</i><par n="Mark__np"/></e>
-<e lm="July">            <i>July</i><par n="Mark__np"/></e>
-<e lm="August">          <i>August</i><par n="Mark__np"/></e>
-<e lm="September">       <i>September</i><par n="Mark__np"/></e>
-<e lm="October">         <i>October</i><par n="Mark__np"/></e>
-<e lm="November">        <i>November</i><par n="Mark__np"/></e>
-<e lm="Dezember">        <i>Dezember</i><par n="Mark__np"/></e>
-<e lm="December">        <i>December</i><par n="Mark__np"/></e>
+<e lm="Januar">          <i>Januar</i><par n="hoose__n"/></e>
+<e lm="January">         <i>January</i><par n="hoose__n"/></e>
+<e lm="Februar">         <i>Februar</i><par n="hoose__n"/></e>
+<e lm="February">        <i>February</i><par n="hoose__n"/></e>
+<e lm="Mairch">          <i>Mairch</i><par n="hoose__n"/></e>
+<e lm="March">           <i>March</i><par n="hoose__n"/></e>
+<e lm="Aprile">          <i>Aprile</i><par n="hoose__n"/></e>
+<e lm="Apryle">          <i>Apryle</i><par n="hoose__n"/></e>
+<e lm="April">           <i>April</i><par n="hoose__n"/></e>
+<e lm="Mey">             <i>Mey</i><par n="hoose__n"/></e>
+<e lm="May">             <i>May</i><par n="hoose__n"/></e>
+<e lm="Juin">            <i>Juin</i><par n="hoose__n"/></e>
+<e lm="June">            <i>June</i><par n="hoose__n"/></e>
+<e lm="Julie">           <i>Julie</i><par n="hoose__n"/></e>
+<e lm="July">            <i>July</i><par n="hoose__n"/></e>
+<e lm="August">          <i>August</i><par n="hoose__n"/></e>
+<e lm="September">       <i>September</i><par n="hoose__n"/></e>
+<e lm="October">         <i>October</i><par n="hoose__n"/></e>
+<e lm="November">        <i>November</i><par n="hoose__n"/></e>
+<e lm="Dezember">        <i>Dezember</i><par n="hoose__n"/></e>
+<e lm="December">        <i>December</i><par n="hoose__n"/></e>
 
-<e lm="Monanday">        <i>Monanday</i><par n="Mark__np"/></e>
-<e lm="Friday">          <i>Friday</i><par n="Mark__np"/></e>
-<e lm="Tysday">          <i>Tysday</i><par n="Mark__np"/></e>
-<e lm="Seturday">        <i>Seturday</i><par n="Mark__np"/></e>
-<e lm="Wadensday">       <i>Wadensday</i><par n="Mark__np"/></e>
-<e lm="Saubath">         <i>Saubath</i><par n="Mark__np"/></e>
-<e lm="Fuirsday">        <i>Fuirsday</i><par n="Mark__np"/></e>
-<e lm="Sunday">          <i>Sunday</i><par n="Mark__np"/></e>
-
-
-
+<e lm="Monanday">        <i>Monanday</i><par n="hoose__n"/></e>
+<e lm="Monday">          <i>Monday</i><par n="hoose__n"/></e>
+<e lm="Tysday">          <i>Tysday</i><par n="hoose__n"/></e>
+<e lm="Tuesday">         <i>Tysday</i><par n="hoose__n"/></e>
+<e lm="Wadensday">       <i>Wadensday</i><par n="hoose__n"/></e>
+<e lm="Wednesday">       <i>Wednesday</i><par n="hoose__n"/></e>
+<e lm="Fuirsday">        <i>Fuirsday</i><par n="hoose__n"/></e>
+<e lm="Thursday">        <i>Thursday</i><par n="hoose__n"/></e>
+<e lm="Friday">          <i>Friday</i><par n="hoose__n"/></e>
+<e lm="Seturday">        <i>Seturday</i><par n="hoose__n"/></e>
+<e lm="Saturday">        <i>Saturday</i><par n="hoose__n"/></e>
+<e lm="Saubath">         <i>Saubath</i><par n="hoose__n"/></e>
+<e lm="Sunday">          <i>Sunday</i><par n="hoose__n"/></e>
 
 
     <!-- }}} --> <!-- /proper-nouns -->
@@ -9359,7 +9473,7 @@
     <!-- /personal-names -->
 
     <!-- here's new stuff to integrate with the above 
-    	 -->
+         -->
 
     <!-- new-stuff --> <!-- {{{ -->
 <e>                      <i>'s</i><par n="'s__gen"/></e>
@@ -9382,23 +9496,23 @@
         gendered nouns
 
     sco              eng             sco             eng
-    boar         	 boar        	 sou
-    brither      	 brother     	 sister      	 sister
-    bull         	 bull        	 cou         	 cow
-    cowt         	 colt        	 filly       	 filly
-    drake        	 drake       	 deuk        	 duck
-    dug          	 dog         	 bick        	 bitch
-    eme*/uncle   	 uncle       	 auntie      	 aunt
-    faither      	 father      	 mither      	 mother
-    guidman      	 husband     	 guidwife    	 wife
-    grandfaither 	 grandfather 	 grandmither 	 grandmother
-    keeng        	 king        	 queen       	 queen
-    lad          	 boy         	 lass        	 girl
-    loun**       	 boy         	 quean       	 girl
-    man          	 man         	 wumman      	 woman
-    neffae       	 nephew      	 niece       	 niece
-    staig        	 stallion    	 meir        	 mare
-    tuip         	 ram         	 yowe        	 ewe
+    boar             boar            sou
+    brither          brother         sister          sister
+    bull             bull            cou             cow
+    cowt             colt            filly           filly
+    drake            drake           deuk            duck
+    dug              dog             bick            bitch
+    eme*/uncle       uncle           auntie          aunt
+    faither          father          mither          mother
+    guidman          husband         guidwife        wife
+    grandfaither     grandfather     grandmither     grandmother
+    keeng            king            queen           queen
+    lad              boy             lass            girl
+    loun**           boy             quean           girl
+    man              man             wumman          woman
+    neffae           nephew          niece           niece
+    staig            stallion        meir            mare
+    tuip             ram             yowe            ewe
     -->
 
     <!-- Nouns -->
@@ -9460,20 +9574,20 @@
 
 
     <!-- These are only found in plural, or have special plural meaning
-    	 -->
+         -->
 
     <!-- TODO: bidix needs something for severals, which means several people
-    	 or things
+         or things
 
     -->
     <!--
-    ess     	 ash(es)  	 nowt        	 cattle
-    bellaes 	 bellows  	 parritch    	 porridge
-    breeks  	 trousers 	 plainstanes 	 pavement
-    brose   	 soup     	 severals*   	 several
-    broth   	 soup     	 shears      	 scissors
-    duds    	 rags     	 tangs       	 tongs
-    lichts  	 lungs
+    ess          ash(es)     nowt            cattle
+    bellaes      bellows     parritch        porridge
+    breeks       trousers    plainstanes     pavement
+    brose        soup        severals*       several
+    broth        soup        shears          scissors
+    duds         rags        tangs           tongs
+    lichts       lungs
     -->
 
 <e lm="ess">             <i>ess</i><par n="ess__n"/></e>
@@ -9490,7 +9604,7 @@
 <e lm="tangs">           <i>tangs</i><par n="ess__n"/></e>
 
     <!-- these plural only nouns also have plural agreement on verbs
-    	 TODO: the previous ones too?
+         TODO: the previous ones too?
     -->
 
 <e lm="parritch">        <i>parritch</i><par n="ess__n"/></e>
@@ -9499,19 +9613,19 @@
     <!-- some irregular plurals: -->
 
     <!--
-    Singular 	 Plural
-    cauf     	 calf   	 caur   	 calves
-    cou      	 cow    	 kye    	 cattle
-    ee       	 eye    	 een    	 eyes
-    fit      	 foot   	 feet   	 feet
-    guiss    	 goose  	 geese  	 geese
-    loose    	 louse  	 lice   	 lice
-    man      	 man    	 men    	 men
-    moose    	 mouse  	 mice   	 mice
-    owse     	 ox     	 owsen  	 oxen
-    shae     	 shoe   	 shuin  	 shoes
-    tuith    	 tooth  	 teeth  	 teeth
-    wumman   	 woman  	 weemen 	 women
+    Singular     Plural
+    cauf         calf        caur        calves
+    cou          cow         kye         cattle
+    ee           eye         een         eyes
+    fit          foot        feet        feet
+    guiss        goose       geese       geese
+    loose        louse       lice        lice
+    man          man         men         men
+    moose        mouse       mice        mice
+    owse         ox          owsen       oxen
+    shae         shoe        shuin       shoes
+    tuith        tooth       teeth       teeth
+    wumman       woman       weemen      women
     -->
 
 <e lm="cauf">            <i>cauf</i><par n="cauf__sg__n"/></e>
@@ -9554,23 +9668,23 @@
 <e lm="ox">              <i>ox</i><par n="ox__n"/></e>
 
     <!-- same form in sg. and pl. 
-    	    frequently animals and food
+            frequently animals and food
 
-    Singular 	 Plural
-    birse    	 bristle 	 birse  	 bristles
-    cod      	 cod     	 cod    	 cod
-    deer     	 deer    	 deer   	 deer
-    fish     	 fish    	 fish*  	 fish
-    gait     	 goat    	 gait   	 goats
-    groose   	 grouse  	 groose 	 grouse
-    gryce    	 pig     	 gryce  	 pigs
-    herrin   	 herring 	 herrin 	 herring
-    horse    	 horse   	 horse  	 horses
-    pease    	 pea     	 pease  	 peas
-    saumon   	 salmon  	 saumon 	 salmon
-    sheep    	 sheep   	 sheep  	 sheep
-    swine    	 pig     	 swine  	 pigs
-    troot    	 trout   	 troot  	 trout
+    Singular     Plural
+    birse        bristle     birse       bristles
+    cod          cod         cod         cod
+    deer         deer        deer        deer
+    fish         fish        fish*       fish
+    gait         goat        gait        goats
+    groose       grouse      groose      grouse
+    gryce        pig         gryce       pigs
+    herrin       herring     herrin      herring
+    horse        horse       horse       horses
+    pease        pea         pease       peas
+    saumon       salmon      saumon      salmon
+    sheep        sheep       sheep       sheep
+    swine        pig         swine       pigs
+    troot        trout       troot       trout
     -->
 
 <e lm="birse">           <i>birse</i><par n="deer__n"/></e>
@@ -9595,7 +9709,7 @@
 <e lm="sooth">           <i>sooth</i><par n="wast__n"/></e>
 
     <!-- nouns that have similar forms to verbs, and are uncountable
-    	 -->
+         -->
 
 <e lm="blame">           <i>blame</i><par n="hoose__n__unc"/></e>
 <e lm="lauch">           <i>lauch</i><par n="hoose__n__unc"/></e>
@@ -9605,8 +9719,8 @@
 <e lm="stap">            <i>stap</i><par n="hoose__n__unc"/></e>
 
     <!-- These are diminutives
-    	 TODO: add normal forms?
-    	 -->
+         TODO: add normal forms?
+         -->
 <e lm="lassie">          <i>lassie</i><par n="lassie__dim__n"/></e>
 <e lm="duggie">          <i>duggie</i><par n="lassie__dim__n"/></e>
 <e lm="beastie">         <i>beastie</i><par n="lassie__dim__n"/></e>
@@ -9632,7 +9746,6 @@
     <!-- VERBS -->  
 <e lm="boo">             <i>boo</i><par n="boo__vblex"/></e>
 <e lm="ken">             <i>ken</i><par n="ken__vblex"/></e>
-<e lm="blether">         <i>blether</i><par n="jyne__vblex"/></e>
 <e lm="jyne">            <i>jyne</i><par n="jyne__vblex"/></e>
 <e lm="leuk">            <i>leuk</i><par n="leuk__vblex"/></e>
 <e lm="caa">             <i>caa</i><par n="caa__vblex"/></e>
@@ -9683,6 +9796,9 @@
 <e lm="git">               <i>g</i><par n="g/it__vblex"/></e>
 <e lm="greet">             <i>gr</i><par n="gr/eet__vblex"/></e>
 <e lm="gyang">             <i>g</i><par n="g/yang__vblex"/></e>
+<e lm="hae">               <i>ha</i><par n="ha/e__vblex"/></e>
+<e lm="hae">               <i>ha</i><par n="h/ae__vbmod"/></e>
+<e lm="hae">               <i>ha</i><par n="ha/e__vbhaver"/></e>
 <e lm="hap">               <i>hap</i><par n="hap__vblex"/></e>
 <e lm="houd">              <i>haud</i><par n="haud__vblex"/></e>
 <e lm="hear">              <i>hear</i><par n="hear__vblex"/></e>
@@ -9700,6 +9816,7 @@
 <e lm="say">               <i>sa</i><par n="sa/y__vblex"/></e>
 <e lm="see">               <i>s</i><par n="s/ee__vblex"/></e>
 <e lm="send">              <i>send</i><par n="sen/d__vblex"/></e>
+<e lm="ser">               <i>ser</i><par n="ser__vblex"/></e>
 <e lm="set">               <i>set</i><par n="pit__vblex"/></e>
 <e lm="sit">               <i>s</i><par n="s/it__vblex"/></e>
 <e lm="spaek">             <i>sp</i><par n="sp/aek__vblex"/></e>
@@ -9738,9 +9855,9 @@
 <e lm="airt">             <i>airt</i><par n="leuk__vblex"/></e>             
 <e lm="alairm">           <i>alairm</i><par n="airm__vblex"/></e>           
 <e lm="allou">            <i>allou</i><par n="airm__vblex"/></e>            
-<e lm="annoonce">         <i>annoonce</i><par n="advis/e__vblex"/></e> 
-<e lm="annoonce">         <i>annoonce</i><par n="annoonc/e__vblex"/></e>    
-<e lm="annunce">          <i>annunce</i><par n="advis/e__vblex"/></e>     
+<e lm="annoonce">         <i>annoonc</i><par n="advis/e__vblex"/></e> 
+<e lm="annoonce">         <i>annoonc</i><par n="annoonc/e__vblex"/></e>    
+<e lm="annunce">          <i>annunc</i><par n="advis/e__vblex"/></e>     
 <e lm="appen">            <i>appen</i><par n="jyne__vblex"/></e>            
 <e lm="appone">           <i>appone</i><par n="advis/e__vblex"/></e>        
 <e lm="attempt">          <i>attempt</i><par n="leuk__vblex"/></e>          
@@ -9756,7 +9873,8 @@
 <e lm="bet">              <i>bet</i><par n="let__vblex"/></e>         
 <e lm="big">              <i>big</i><par n="big__vblex"/></e>               
 <e lm="bile">             <i>bile</i><par n="jyne__vblex"/></e>                      
-<e lm="blether">          <i>blether</i><par n="airm__vblex"/></e>          
+<e lm="blether">          <i>blether</i><par n="airm__vblex"/></e> 
+<e lm="blether">          <i>blether</i><par n="jyne__vblex"/></e>         
 <e lm="boak">             <i>boak</i><par n="leuk__vblex"/></e>             
 <e lm="boke">             <i>bok</i><par n="bok/e__vblex"/></e>            
 <e lm="borrae">           <i>borrae</i><par n="gie__vblex"/></e>            
@@ -9838,7 +9956,8 @@
 <e lm="droun">            <i>droun</i><par n="scowf__vblex"/></e> 
 <e lm="dunch">            <i>dunch</i><par n="dunch__vblex"/></e>          
 <e lm="eik">              <i>eik</i><par n="jyne__vblex"/></e>                         
-<e lm="elect">            <i>elect</i><par n="airm__vblex"/></e>            
+<e lm="elect">            <i>elect</i><par n="airm__vblex"/></e>
+<e r="LR" lm="emerge">    <i>emerg</i><par n="bok/e__vblex"/></e>            
 <e lm="end">              <i>end</i><par n="jyne__vblex"/></e>                          
 <e lm="ettle">            <i>ettle</i><par n="gie__vblex"/></e>                    
 <e lm="expose">           <i>expose</i><par n="advis/e__vblex"/></e>        
@@ -9873,7 +9992,6 @@
 <e lm="gub">              <i>gub</i><par n="airm__vblex"/></e>
 <e lm="guddle">           <i>guddle</i><par n="advis/e__vblex"/></e>
 <e lm="guise">            <i>guise</i><par n="advis/e__vblex"/></e>         
-              
 <e lm="hain">             <i>hain</i><par n="scowf__vblex"/></e>            
 <e lm="hairden">          <i>hairden</i><par n="jyne__vblex"/></e>          
 <e lm="hairm">            <i>hairm</i><par n="airm__vblex"/></e>            
@@ -9983,7 +10101,8 @@
 <e lm="rax">              <i>rax</i><par n="airm__vblex"/></e>                          
 <e lm="reek">             <i>reek</i><par n="jyne__vblex"/></e>                        
 <e lm="reid">             <i>reid</i><par n="jyne__vblex"/></e>             
-<e lm="relate">           <i>relate</i><par n="bok/e__vblex"/></e>          
+<e lm="relate">           <i>relate</i><par n="bok/e__vblex"/></e> 
+<e lm="represent">        <i>represent</i><par n="leuk__vblex"/></e>
 <e lm="resign">           <i>resign</i><par n="airm__vblex"/></e>           
 <e lm="respeck">          <i>respeck</i><par n="jyne__vblex"/></e>          
 <e lm="respect">          <i>respect</i><par n="jyne__vblex"/></e>          
@@ -10005,7 +10124,8 @@
 <e lm="scud">             <i>scud</i><par n="airm__vblex"/></e>
 <e lm="seem">             <i>seem</i><par n="airm__vblex"/></e>             
 <e lm="select">           <i>select</i><par n="jyne__vblex"/></e> 
-<e lm="sell">             <i>sell</i><par n="scowf__vblex"/></e>          
+<e lm="sell">             <i>sell</i><par n="scowf__vblex"/></e> 
+<e lm="serve">            <i>serv</i><par n="advis/e__vblex"/></e>
 <e lm="shairp">           <i>shairp</i><par n="jyne__vblex"/></e>           
 <e lm="shak">             <i>shak</i><par n="jyne__vblex"/></e> 
 <e lm="shaw">             <i>shaw</i><par n="airm__vblex"/></e>            
@@ -10123,8 +10243,8 @@
 
 <e lm="he's">            <p><l>he's</l>      <r>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="m"/><s n="sg"/><j/>be<s n="vbser"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
 
-<e lm="I've">            <p><l>I've</l>      <r>prpers<s n="prn"/><s n="subj"/><s n="p1"/><s n="mf"/><s n="sg"/><j/>have<s n="vbhaver"/><s n="pres"/></r></p></e>
-<e lm="A've">            <p><l>A've</l>      <r>prpers<s n="prn"/><s n="subj"/><s n="p1"/><s n="mf"/><s n="sg"/><j/>have<s n="vbhaver"/><s n="pres"/></r></p></e>
+<e lm="I've">            <p><l>I've</l>      <r>prpers<s n="prn"/><s n="subj"/><s n="p1"/><s n="mf"/><s n="sg"/><j/>have<s n="vbhaver"/><s n="pri"/></r></p></e>
+<e lm="A've">            <p><l>A've</l>      <r>prpers<s n="prn"/><s n="subj"/><s n="p1"/><s n="mf"/><s n="sg"/><j/>have<s n="vbhaver"/><s n="pri"/></r></p></e>
 
 <e lm="I'd">             <p><l>I'd</l>       <r>prpers<s n="prn"/><s n="subj"/><s n="p1"/><s n="mf"/><s n="sg"/><j/>have<s n="vbhaver"/><s n="past"/></r></p></e>
 <e lm="A'd">             <p><l>A'd</l>       <r>prpers<s n="prn"/><s n="subj"/><s n="p1"/><s n="mf"/><s n="sg"/><j/>have<s n="vbhaver"/><s n="past"/></r></p></e>
@@ -10135,11 +10255,11 @@
 <e lm="I'll">            <p><l>I'll</l>      <r>prpers<s n="prn"/><s n="subj"/><s n="p1"/><s n="mf"/><s n="sg"/><j/>will<s n="vaux"/><s n="inf"/></r></p></e>
 <e lm="A'll">            <p><l>A'll</l>      <r>prpers<s n="prn"/><s n="subj"/><s n="p1"/><s n="mf"/><s n="sg"/><j/>will<s n="vaux"/><s n="inf"/></r></p></e>
 
-<e lm="I'm">             <p><l>I'm</l>       <r>prpers<s n="prn"/><s n="subj"/><s n="p1"/><s n="mf"/><s n="sg"/><j/>be<s n="vbser"/><s n="pres"/><s n="p1"/><s n="sg"/></r></p></e>
-<e lm="A'm">             <p><l>A'm</l>       <r>prpers<s n="prn"/><s n="subj"/><s n="p1"/><s n="mf"/><s n="sg"/><j/>be<s n="vbser"/><s n="pres"/><s n="p1"/><s n="sg"/></r></p></e>
+<e lm="I'm">             <p><l>I'm</l>       <r>prpers<s n="prn"/><s n="subj"/><s n="p1"/><s n="mf"/><s n="sg"/><j/>be<s n="vbser"/><s n="pri"/><s n="p1"/><s n="sg"/></r></p></e>
+<e lm="A'm">             <p><l>A'm</l>       <r>prpers<s n="prn"/><s n="subj"/><s n="p1"/><s n="mf"/><s n="sg"/><j/>be<s n="vbser"/><s n="pri"/><s n="p1"/><s n="sg"/></r></p></e>
 
-<e lm="it've">           <p><l>it've</l>     <r>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="nt"/><s n="sg"/><j/>have<s n="vbhaver"/><s n="pres"/></r></p></e>
-<e lm="hit've">           <p><l>hit've</l>     <r>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="nt"/><s n="sg"/><j/>have<s n="vbhaver"/><s n="pres"/></r></p></e>
+<e lm="it've">           <p><l>it've</l>     <r>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="nt"/><s n="sg"/><j/>have<s n="vbhaver"/><s n="pri"/></r></p></e>
+<e lm="hit've">           <p><l>hit've</l>     <r>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="nt"/><s n="sg"/><j/>have<s n="vbhaver"/><s n="pri"/></r></p></e>
 
 <e lm="it'd">            <p><l>it'd</l>      <r>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="nt"/><s n="sg"/><j/>have<s n="vbhaver"/><s n="past"/></r></p></e>
 <e lm="hit'd">           <p><l>hit'd</l>      <r>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="nt"/><s n="sg"/><j/>have<s n="vbhaver"/><s n="past"/></r></p></e>
@@ -10153,7 +10273,7 @@
 <e lm="it's">            <p><l>it's</l>      <r>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="nt"/><s n="sg"/><j/>be<s n="vbser"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
 <e lm="hit's">           <p><l>hit's</l>      <r>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="nt"/><s n="sg"/><j/>be<s n="vbser"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
 
-<e lm="she've">          <p><l>she've</l>    <r>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="f"/><s n="sg"/><j/>have<s n="vbhaver"/><s n="pres"/></r></p></e>
+<e lm="she've">          <p><l>she've</l>    <r>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="f"/><s n="sg"/><j/>have<s n="vbhaver"/><s n="pri"/></r></p></e>
 
 <e lm="she'd">           <p><l>she'd</l>     <r>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="f"/><s n="sg"/><j/>have<s n="vbhaver"/><s n="past"/></r></p></e>
 
@@ -10166,8 +10286,8 @@
 <e lm="that's">          <p><l>that's</l>    <r>that<s n="prn"/><s n="tn"/><s n="sg"/><j/>be<s n="vbser"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
 <e lm="'at's">          <p><l>'at's</l>    <r>that<s n="prn"/><s n="tn"/><s n="sg"/><j/>be<s n="vbser"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
 
-<e lm="they've">         <p><l>they've</l>   <r>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="mf"/><s n="pl"/><j/>have<s n="vbhaver"/><s n="pres"/></r></p></e>
-<e lm="thay've">         <p><l>thay've</l>   <r>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="mf"/><s n="pl"/><j/>have<s n="vbhaver"/><s n="pres"/></r></p></e>
+<e lm="they've">         <p><l>they've</l>   <r>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="mf"/><s n="pl"/><j/>have<s n="vbhaver"/><s n="pri"/></r></p></e>
+<e lm="thay've">         <p><l>thay've</l>   <r>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="mf"/><s n="pl"/><j/>have<s n="vbhaver"/><s n="pri"/></r></p></e>
 
 <e lm="they'd">          <p><l>they'd</l>    <r>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="mf"/><s n="pl"/><j/>have<s n="vbhaver"/><s n="past"/></r></p></e>
 <e lm="thay'd">          <p><l>thay'd</l>    <r>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="mf"/><s n="pl"/><j/>have<s n="vbhaver"/><s n="past"/></r></p></e>
@@ -10178,10 +10298,10 @@
 <e lm="they'll">         <p><l>they'll</l>   <r>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="mf"/><s n="pl"/><j/>will<s n="vaux"/><s n="inf"/></r></p></e>
 <e lm="thay'll">         <p><l>thay'll</l>   <r>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="mf"/><s n="pl"/><j/>will<s n="vaux"/><s n="inf"/></r></p></e>
 
-<e lm="they're">         <p><l>they're</l>   <r>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="mf"/><s n="pl"/><j/>be<s n="vbser"/><s n="pres"/></r></p></e>
-<e lm="thay're">         <p><l>thay're</l>   <r>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="mf"/><s n="pl"/><j/>be<s n="vbser"/><s n="pres"/></r></p></e>
+<e lm="they're">         <p><l>they're</l>   <r>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="mf"/><s n="pl"/><j/>be<s n="vbser"/><s n="pri"/></r></p></e>
+<e lm="thay're">         <p><l>thay're</l>   <r>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="mf"/><s n="pl"/><j/>be<s n="vbser"/><s n="pri"/></r></p></e>
 
-<e lm="we've">           <p><l>we've</l>     <r>prpers<s n="prn"/><s n="subj"/><s n="p1"/><s n="mf"/><s n="pl"/><j/>have<s n="vbhaver"/><s n="pres"/></r></p></e>
+<e lm="we've">           <p><l>we've</l>     <r>prpers<s n="prn"/><s n="subj"/><s n="p1"/><s n="mf"/><s n="pl"/><j/>have<s n="vbhaver"/><s n="pri"/></r></p></e>
 
 <e lm="we'd">            <p><l>we'd</l>      <r>prpers<s n="prn"/><s n="subj"/><s n="p1"/><s n="mf"/><s n="pl"/><j/>have<s n="vbhaver"/><s n="past"/></r></p></e>
 
@@ -10189,7 +10309,7 @@
 
 <e lm="we'll">           <p><l>we'll</l>     <r>prpers<s n="prn"/><s n="subj"/><s n="p1"/><s n="mf"/><s n="pl"/><j/>will<s n="vaux"/><s n="inf"/></r></p></e>
 
-<e lm="we're">           <p><l>we're</l>     <r>prpers<s n="prn"/><s n="subj"/><s n="p1"/><s n="mf"/><s n="pl"/><j/>be<s n="vbser"/><s n="pres"/></r></p></e>
+<e lm="we're">           <p><l>we're</l>     <r>prpers<s n="prn"/><s n="subj"/><s n="p1"/><s n="mf"/><s n="pl"/><j/>be<s n="vbser"/><s n="pri"/></r></p></e>
 
 <e lm="who's">           <p><l>who's</l>     <r>who<s n="prn"/><s n="itg"/><s n="sp"/><j/>be<s n="vbser"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
 <e lm="wha's">           <p><l>wha's</l>     <r>wha<s n="prn"/><s n="itg"/><s n="sp"/><j/>be<s n="vbser"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
@@ -10197,8 +10317,8 @@
 <e lm="who's">           <p><l>who's</l>     <r>who<s n="prn"/><s n="itg"/><s n="sp"/><j/>have<s n="vbhaver"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
 <e lm="wha's">           <p><l>wha's</l>     <r>wha<s n="prn"/><s n="itg"/><s n="sp"/><j/>have<s n="vbhaver"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
 
-<e lm="you've">          <p><l>you've</l>    <r>prpers<s n="prn"/><s n="subj"/><s n="p2"/><s n="mf"/><s n="sp"/><j/>have<s n="vbhaver"/><s n="pres"/></r></p></e>
-<e lm="ye've">          <p><l>ye've</l>    <r>prpers<s n="prn"/><s n="subj"/><s n="p2"/><s n="mf"/><s n="sp"/><j/>have<s n="vbhaver"/><s n="pres"/></r></p></e>
+<e lm="you've">          <p><l>you've</l>    <r>prpers<s n="prn"/><s n="subj"/><s n="p2"/><s n="mf"/><s n="sp"/><j/>have<s n="vbhaver"/><s n="pri"/></r></p></e>
+<e lm="ye've">          <p><l>ye've</l>    <r>prpers<s n="prn"/><s n="subj"/><s n="p2"/><s n="mf"/><s n="sp"/><j/>have<s n="vbhaver"/><s n="pri"/></r></p></e>
 
 <e lm="you'd">           <p><l>you'd</l>     <r>prpers<s n="prn"/><s n="subj"/><s n="p2"/><s n="mf"/><s n="sp"/><j/>have<s n="vbhaver"/><s n="past"/></r></p></e>
 <e lm="ye'd">           <p><l>ye'd</l>     <r>prpers<s n="prn"/><s n="subj"/><s n="p2"/><s n="mf"/><s n="sp"/><j/>have<s n="vbhaver"/><s n="past"/></r></p></e>
@@ -10209,8 +10329,8 @@
 <e lm="you'll">          <p><l>you'll</l>    <r>prpers<s n="prn"/><s n="subj"/><s n="p2"/><s n="mf"/><s n="sp"/><j/>will<s n="vaux"/><s n="inf"/></r></p></e>
 <e lm="ye'll">          <p><l>ye'll</l>    <r>prpers<s n="prn"/><s n="subj"/><s n="p2"/><s n="mf"/><s n="sp"/><j/>will<s n="vaux"/><s n="inf"/></r></p></e>
 
-<e lm="you're">          <p><l>you're</l>    <r>prpers<s n="prn"/><s n="subj"/><s n="p2"/><s n="mf"/><s n="sp"/><j/>be<s n="vbser"/><s n="pres"/></r></p></e>
-<e lm="ye're">          <p><l>ye're</l>    <r>prpers<s n="prn"/><s n="subj"/><s n="p2"/><s n="mf"/><s n="sp"/><j/>be<s n="vbser"/><s n="pres"/></r></p></e>
+<e lm="you're">          <p><l>you're</l>    <r>prpers<s n="prn"/><s n="subj"/><s n="p2"/><s n="mf"/><s n="sp"/><j/>be<s n="vbser"/><s n="pri"/></r></p></e>
+<e lm="ye're">          <p><l>ye're</l>    <r>prpers<s n="prn"/><s n="subj"/><s n="p2"/><s n="mf"/><s n="sp"/><j/>be<s n="vbser"/><s n="pri"/></r></p></e>
 
   </section>
 </dictionary>

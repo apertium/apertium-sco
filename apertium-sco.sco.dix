@@ -661,7 +661,7 @@
   <e>       <p><l></l>          <r><s n="vblex"/><s n="inf"/></r></p></e>
   <e>       <p><l></l>          <r><s n="vblex"/><s n="pres"/></r></p></e>
   <e>       <p><l>s</l>         <r><s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
-  <e>       <p><l>it</l>         <r><s n="vblex"/><s n="past"/></r></p></e>
+  <e>       <p><l>it</l>        <r><s n="vblex"/><s n="past"/></r></p></e>
   <e>       <p><l>t</l>         <r><s n="vblex"/><s n="pp"/></r></p></e>
   <e>       <p><l>in</l>        <r><s n="vblex"/><s n="ger"/></r></p></e>
   <e>       <p><l>in</l>        <r><s n="vblex"/><s n="pprs"/></r></p></e>
@@ -681,8 +681,8 @@
   <e>       <p><l></l>          <r><s n="vblex"/><s n="inf"/></r></p></e>
   <e>       <p><l></l>          <r><s n="vblex"/><s n="pres"/></r></p></e>
   <e>       <p><l>s</l>         <r><s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
-  <e>       <p><l>git</l>         <r><s n="vblex"/><s n="past"/></r></p></e>
-  <e>       <p><l>git</l>         <r><s n="vblex"/><s n="pp"/></r></p></e>
+  <e>       <p><l>git</l>       <r><s n="vblex"/><s n="past"/></r></p></e>
+  <e>       <p><l>git</l>       <r><s n="vblex"/><s n="pp"/></r></p></e>
   <e>       <p><l>gin</l>       <r><s n="vblex"/><s n="ger"/></r></p></e>
   <e>       <p><l>gin</l>       <r><s n="vblex"/><s n="pprs"/></r></p></e>
   <e>       <p><l>gin</l>       <r><s n="vblex"/><s n="subs"/></r></p></e>
@@ -2977,6 +2977,7 @@
 
 <e lm="ane">             <i>ane</i><par n="one__num"/></e>
 <e lm="wan">             <i>wan</i><par n="one__num"/></e>
+<e lm="yin">             <i>yin</i><par n="one__num"/></e>
 <e r="LR" lm="one">      <i>one</i><par n="one__num"/></e>
 <e lm="twa">             <i>twa</i><par n="one__num"/></e>
 <e r="LR" lm="two">      <i>two</i><par n="one__num"/></e>
@@ -9858,8 +9859,9 @@
 
     <!-- Regular Verbs -->    
 
-<e lm="assoilyie">        <i>assoilyie</i><par n="airm__vblex"/></e> 
-<e lm="absteen">          <i>absteen</i><par n="airm__vblex"/></e>
+
+<e lm="absteen">          <i>absteen</i><par n="leuk__vblex"/></e>
+<e lm="abuise">           <i>abuis</i><par n="advis/e__vblex"/></e>
 <e lm="act">              <i>act</i><par n="leuk__vblex"/></e>              
 <e lm="address">          <i>address</i><par n="leuk__vblex"/></e>
 <e lm="address">          <i>address</i><par n="airm__vblex"/></e>
@@ -9873,7 +9875,8 @@
 <e lm="annoonce">         <i>annoonc</i><par n="annoonc/e__vblex"/></e>    
 <e lm="annunce">          <i>annunc</i><par n="advis/e__vblex"/></e>     
 <e lm="appen">            <i>appen</i><par n="jyne__vblex"/></e>            
-<e lm="appone">           <i>appone</i><par n="advis/e__vblex"/></e>        
+<e lm="appone">           <i>appone</i><par n="advis/e__vblex"/></e> 
+<e lm="assoilyie">        <i>assoilyi</i><par n="advis/e__vblex"/></e>        
 <e lm="attempt">          <i>attempt</i><par n="leuk__vblex"/></e>          
 <e lm="awaird">           <i>awaird</i><par n="leuk__vblex"/></e>           
 <e lm="awn">              <i>awn</i><par n="jyne__vblex"/></e>              

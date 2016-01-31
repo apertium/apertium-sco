@@ -2195,7 +2195,8 @@
 <e lm="howp">             <i>howp</i><par n="hoose__n"/></e>                
 <e lm="huif">             <i>huif</i><par n="hoose__n"/></e>
 <e lm="hunder">           <i>hunder</i><par n="hoose__n"/></e>  
-<e lm="hunner">           <i>hunner</i><par n="hoose__n"/></e>              
+<e lm="hunner">           <i>hunner</i><par n="hoose__n"/></e>
+<e lm="hurcheon">         <i>hurcheon</i><par n="hoose__n"/></e>
 <e lm="hure">             <i>hure</i><par n="hoose__n"/></e>                
 <e lm="ile">              <i>ile</i><par n="hoose__n"/></e>                 
 <e lm="in">               <i>in</i><par n="hoose__n"/></e>                  
@@ -2641,6 +2642,7 @@
 <e lm="soondtrack">       <i>soondtrack</i><par n="hoose__n"/></e>           
 <e lm="soorce">           <i>soorce</i><par n="hoose__n"/></e>               
 <e lm="sooth">            <i>sooth</i><par n="hoose__n"/></e>
+<e lm="sou">              <i>sou</i><par n="hoose__n"/></e>
 <e lm="speed">            <i>speed</i><par n="hoose__n"/></e>
 <e lm="speerit">          <i>speerit</i><par n="hoose__n"/></e>                           
 <e lm="speir">            <i>speir</i><par n="hoose__n"/></e>                
@@ -2984,6 +2986,7 @@
 <e lm="twa">             <i>twa</i><par n="one__num"/></e>
 <e r="LR" lm="two">      <i>two</i><par n="one__num"/></e>
 <e lm="three">           <i>three</i><par n="three__num"/></e>
+<e lm="fower">           <i>fower</i><par n="one__num"/></e>
 
 
     <!-- DETERMINERS -->
@@ -3427,6 +3430,7 @@
 <e lm="sma">             <i>sma</i><par n="sma/__adj"/></e>
 <e lm="snawy">           <i>sma</i><par n="lang/__adj"/></e>
 <e lm="some">            <i>some</i><par n="expensive__adj"/></e>
+<e lm="sonsie">          <i>sonsie</i><par n="bairnie/__adj"/></e>
 <e lm="soothern">        <i>soothern</i><par n="expensive__adj"/></e>
 <e lm="soothren">        <i>soothren</i><par n="expensive__adj"/></e>
 <e lm="sootie">          <i>sootie</i><par n="expensive__adj"/></e>
@@ -10054,7 +10058,8 @@
 <e lm="land">             <i>land</i><par n="jyne__vblex"/></e>             
 <e lm="lauch">            <i>lauch</i><par n="scowf__vblex"/></e>           
 <e lm="laund">            <i>laund</i><par n="jyne__vblex"/></e>                        
-<e lm="lear">             <i>lear</i><par n="scowf__vblex"/></e>            
+<e lm="lear">             <i>lear</i><par n="scowf__vblex"/></e>
+<e r="LR" lm="learn">     <i>learn</i><par n="scowf__vblex"/></e>
 <e lm="len">              <i>len</i><par n="scowf__vblex"/></e>             
 <e lm="lend">             <i>lend</i><par n="leuk__vblex"/></e>             
 <e lm="leuk">             <i>leuk</i><par n="leuk__vblex"/></e>             

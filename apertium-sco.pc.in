@@ -1,7 +1,5 @@
 prefix=@prefix@
 exec_prefix=${prefix}
-libdir=@libdir@
-dir=@libdir@/apertium/apertium-sco
 srcdir=@datarootdir@/apertium/apertium-sco
 
 Name: apertium-sco

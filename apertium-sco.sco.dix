@@ -228,6 +228,19 @@
   <e c="sub"><p><l>em</l>       <r>at<s n="prn"/><s n="dem"/><s n="pl"/></r></p></e>
 </pardef>
 
+<pardef n="itsel__prn">
+  <e>       <p><l></l>          <r><s n="prn"/><s n="ref"/><s n="p3"/><s n="nt"/><s n="sg"/></r></p></e>
+</pardef>
+
+<pardef n="everyone__prn">
+  <e>       <p><l></l>          <r><s n="prn"/><s n="tn"/><s n="sg"/></r></p></e>
+  <e r="RL" c="riparo"><p><l></l><r><s n="prn"/><s n="tn"/><s n="pl"/></r></p></e>
+</pardef>
+
+<pardef n="baith__prn">
+  <e>       <p><l></l>          <r><s n="prn"/><s n="tn"/><s n="pl"/></r></p></e>
+</pardef>
+
 <pardef n="personnel__n">
   <e>       <p><l></l>          <r><s n="n"/><s n="pl"/></r></p></e>
   <!-- permesu singularon de Esperanto -->
@@ -1870,11 +1883,9 @@
 <e lm="clanjamphrie">     <i>clanjamphrie</i><par n="hoose__n"/></e>        
 <e lm="clanjamphrie">     <i>clanjamphrie</i><par n="hoose__n"/></e>        
 <e lm="clanjamphrie">     <i>clanjamphrie</i><par n="hoose__n"/></e>        
-<e lm="clart">            <i>clart</i><par n="hoose__n"/></e>               
-<e lm="clarty">           <i>clarty</i><par n="habb/y__n"/></e>             
-<e lm="clarty">           <i>clarty</i><par n="habb/y__n"/></e>             
+<e lm="clart">            <i>clart</i><par n="hoose__n"/></e>            
 <e lm="cless">            <i>cless</i><par n="hoose__n"/></e> 
-<e lm="clessroom">        <i>clessroom</i><par n="hoose__n"/></e>               
+<e lm="clessroom">        <i>clessroom</i><par n="hoose__n"/></e>              
 <e lm="cloot">            <i>cloot</i><par n="hoose__n"/></e>               
 <e lm="clype">            <i>clype</i><par n="habb/y__n"/></e>              
 <e lm="clype">            <i>clype</i><par n="habb/y__n"/></e>              
@@ -2105,7 +2116,9 @@
 <e lm="gleet">            <i>gleet</i><par n="hoose__n"/></e>               
 <e lm="gless">            <i>gless</i><par n="hoose__n"/></e>               
 <e lm="glesses">          <i>glesses</i><par n="hoose__n"/></e>             
-<e lm="gloamin">          <i>gloamin</i><par n="hoose__n"/></e>             
+<e lm="gloamin">          <i>gloamin</i><par n="hoose__n"/></e> 
+<e lm="god">              <i>god</i><par n="hoose__n"/></e>
+<e lm="gode">             <i>gode</i><par n="hoose__n"/></e>
 <e lm="govrenment">       <i>govrenment</i><par n="hoose__n"/></e>
 <e lm="gowd">             <i>gowd</i><par n="hoose__n"/></e>                
 <e lm="gowf">             <i>gowf</i><par n="hoose__n"/></e>                
@@ -2444,7 +2457,8 @@
 <e lm="oo">               <i>oo</i><par n="hoose__n"/></e>                  
 <e lm="oo">               <i>oo</i><par n="hoose__n"/></e>                  
 <e lm="oor">              <i>oor</i><par n="hoose__n"/></e>                 
-<e lm="oors">             <i>oors</i><par n="hoose__n"/></e>                
+<e lm="oors">             <i>oors</i><par n="hoose__n"/></e> 
+<e lm="ootrage">          <i>ootrage</i><par n="hoose__n"/></e>
 <e lm="opeenion">         <i>opeenion</i><par n="hoose__n"/></e>            
 <e lm="openin">           <i>openin</i><par n="hoose__n"/></e>              
 <e lm="ordinar">          <i>ordinar</i><par n="hoose__n"/></e>             
@@ -2843,6 +2857,7 @@
 <e lm="awricht">         <i>awricht</i><par n="mebbe__adv"/></e>
 <e lm="awthegither">     <i>awthegither</i><par n="mebbe__adv"/></e>
 <e lm="awtho">           <i>awtho</i><par n="mebbe__adv"/></e>
+<e lm="awwherr">         <i>awwherr</i><par n="mebbe__adv"/></e>
 <e lm="ay">              <i>ay</i><par n="mebbe__adv"/></e>
 <e lm="aye">             <i>aye</i><par n="mebbe__adv"/></e>
 <e lm="back">            <i>back</i><par n="mebbe__adv"/></e>
@@ -2891,6 +2906,7 @@
 <e lm="inside">          <i>inside</i><par n="mebbe__adv"/></e>
 <e lm="insteid">         <i>insteid</i><par n="mebbe__adv"/></e>
 <e lm="ither">           <i>ither</i><par n="mebbe__adv"/></e>
+<e lm="ivrywherr">       <i>ivrywherr</i><par n="mebbe__adv"/></e>
 <e lm="jist">            <i>jist</i><par n="mebbe__adv"/></e>
 <e lm="juist">           <i>juist</i><par n="mebbe__adv"/></e>
 <e lm="keenly">          <i>keenly</i><par n="mebbe__adv"/></e>
@@ -3032,6 +3048,12 @@
 <e lm="ye">              <i>ye</i><par n="prsubj__prn"/></e>
 <e lm="ye">              <i>ye</i><par n="probj__prn"/></e>
 
+<e lm="itsel">           <i>itsel</i><par n="itsel__prn"/></e>
+
+<e lm="awwherr">         <i>awwherr</i><par n="everyone__prn"/></e>
+<e lm="ivrywherr">       <i>ivrywherr</i><par n="everyone__prn"/></e>
+
+<e lm="ithers">          <i>ithers</i><par n="baith__prn"/></e>
 
 
     <!-- RELATIVE PRONOUNS -->
@@ -3193,6 +3215,7 @@
 <e lm="caur">            <i>caur</i><par n="lang/__adj"/></e>
 <e lm="ceevil">          <i>ceevil</i><par n="expensive__adj"/></e>
 <e lm="chappit">         <i>chappit</i><par n="expensive__adj"/></e>
+<e lm="clarty">          <i>clart</i><par n="barr/y__adj"/></e>
 <e lm="clattie">         <i>clattie</i><par n="bairnie/__adj"/></e>
 <e lm="clatty">          <i>clatt</i><par n="barr/y__adj"/></e>
 <e lm="clear">           <i>clear</i><par n="lang/__adj"/></e>
@@ -9959,7 +9982,8 @@
 <e lm="deave">            <i>deave</i><par n="airm__vblex"/></e>            
 <e lm="decide">           <i>decide</i><par n="jyne__vblex"/></e>           
 <e lm="deek">             <i>deek</i><par n="airm__vblex"/></e>             
-<e lm="deliver">          <i>deliver</i><par n="airm__vblex"/></e>                      
+<e lm="deliver">          <i>deliver</i><par n="airm__vblex"/></e> 
+<e lm="demand">            <i>demand</i><par n="leuk__vblex"/></e>      
 <e lm="demit">            <i>demit</i><par n="jyne__vblex"/></e>            
 <e lm="depairt">          <i>depairt</i><par n="jyne__vblex"/></e>          
 <e lm="develop">          <i>develop</i><par n="jyne__vblex"/></e> 
@@ -10006,7 +10030,8 @@
 <e lm="gab">              <i>gab</i><par n="jyne__vblex"/></e>              
 <e lm="guaird">           <i>gaird</i><par n="jyne__vblex"/></e>            
 <e lm="gaither">          <i>gaither</i><par n="jyne__vblex"/></e>                      
-<e lm="gant">             <i>gant</i><par n="airm__vblex"/></e>                         
+<e lm="gant">             <i>gant</i><par n="airm__vblex"/></e> 
+<e lm="gird">             <i>gird</i><par n="airm__vblex"/></e>             
 <e lm="girn">             <i>girn</i><par n="airm__vblex"/></e>             
 <e lm="glister">          <i>glister</i><par n="airm__vblex"/></e>          
 <e lm="glower">           <i>glower</i><par n="jyne__vblex"/></e>           
@@ -10117,7 +10142,8 @@
 <e lm="pou">              <i>pou</i><par n="airm__vblex"/></e>              
 <e lm="praisent">         <i>praisent</i><par n="jyne__vblex"/></e> 
 <e lm="predeect">         <i>predeect</i><par n="airm__vblex"/></e> 
-<e lm="predict">          <i>predict</i><par n="airm__vblex"/></e>         
+<e lm="predict">          <i>predict</i><par n="airm__vblex"/></e>
+<e lm="prent">            <i>prent</i><par n="leuk__vblex"/></e>  
 <e lm="process">          <i>process</i><par n="airm__vblex"/></e>          
 <e lm="proclaim">         <i>proclaim</i><par n="airm__vblex"/></e>         
 <e lm="pronoonce">        <i>pronoonce</i><par n="advis/e__vblex"/></e> 

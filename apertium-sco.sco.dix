@@ -2877,6 +2877,8 @@
 <e lm="awwherr">         <i>awwherr</i><par n="mebbe__adv"/></e>
 <e lm="ay">              <i>ay</i><par n="mebbe__adv"/></e>
 <e lm="aye">             <i>aye</i><par n="mebbe__adv"/></e>
+<e lm="ayeweys">         <i>ayeweys</i><par n="mebbe__adv"/></e>
+<e lm="ayewis">          <i>ayewis</i><par n="mebbe__adv"/></e>
 <e lm="back">            <i>back</i><par n="mebbe__adv"/></e>
 <e lm="bairnishly">      <i>bairnishly</i><par n="mebbe__adv"/></e>
 <e lm="ben">             <i>ben</i><par n="mebbe__adv"/></e>
@@ -3061,6 +3063,9 @@
 
 <e lm="this">            <i>that</i><par n="th/is__prn"/></e>
 <e lm="that">            <i>that</i><par n="th/at__prn"/></e>
+
+<e lm="onything">        <i>onything</i><par n="everyone__prn"/></e>
+<e lm="onythin">         <i>onythin</i><par n="everyone__prn"/></e>
 
 <e lm="ithers">          <i>ithers</i><par n="baith__prn"/></e>
 
@@ -3402,6 +3407,7 @@
 <e lm="norlin">          <i>norlin</i><par n="expensive__adj"/></e>
 <e lm="northmaist">      <i>northmaist</i><par n="expensive__adj"/></e>
 <e lm="northren">        <i>northren</i><par n="expensive__adj"/></e>
+<e lm="oary">            <i>oar</i><par n="barr/y__adj"/></e>
 <e lm="ojis">            <i>ojis</i><par n="expensive__adj"/></e>
 <e lm="ordinar">         <i>ordinar</i><par n="expensive__adj"/></e>
 <e lm="oreeginal">       <i>oreeginal</i><par n="expensive__adj"/></e>
@@ -10251,7 +10257,8 @@
 <e lm="stey">             <i>stey</i><par n="airm__vblex"/></e>                       
 <e lm="stoond">           <i>stoond</i><par n="jyne__vblex"/></e>                       
 <e lm="stot">             <i>stot</i><par n="jyne__vblex"/></e>             
-<e lm="stot">             <i>stot</i><par n="jyne__vblex"/></e>             
+<e lm="stot">             <i>stot</i><par n="jyne__vblex"/></e>
+<e lm="stramp">           <i>stramp</i><par n="leuk__vblex"/></e>          
 <e lm="straucht">         <i>straucht</i><par n="airm__vblex"/></e>         
 <e lm="stravaig">         <i>stravaig</i><par n="big__vblex"/></e>          
 <e lm="streenge">         <i>streenge</i><par n="airm__vblex"/></e>         

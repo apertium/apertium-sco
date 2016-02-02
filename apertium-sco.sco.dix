@@ -664,6 +664,16 @@
   <e>       <p><l>in</l>        <r><s n="vblex"/><s n="pprs"/></r></p></e>
   <e>       <p><l>in</l>        <r><s n="vblex"/><s n="subs"/></r></p></e>
 </pardef>
+<pardef n="j/imp__vblex">
+  <e>       <p><l>imp</l>       <r>e<s n="vblex"/><s n="inf"/></r></p></e>
+  <e>       <p><l>imp</l>       <r>e<s n="vblex"/><s n="pres"/></r></p></e>
+  <e>       <p><l>imps</l>      <r>e<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+  <e>       <p><l>amp</l>       <r>e<s n="vblex"/><s n="past"/></r></p></e>
+  <e>       <p><l>umpen</l>     <r>e<s n="vblex"/><s n="pp"/></r></p></e>
+  <e>       <p><l>impin</l>     <r>e<s n="vblex"/><s n="ger"/></r></p></e>
+  <e>       <p><l>impin</l>     <r>e<s n="vblex"/><s n="pprs"/></r></p></e>
+  <e>       <p><l>impin</l>     <r>e<s n="vblex"/><s n="subs"/></r></p></e>
+</pardef>
 <pardef n="jin/e__vblex">
   <e>       <p><l>e</l>          <r>e<s n="vblex"/><s n="inf"/></r></p></e>
   <e>       <p><l>e</l>          <r>e<s n="vblex"/><s n="pres"/></r></p></e>
@@ -1984,7 +1994,8 @@
 <e lm="deil">             <i>deil</i><par n="hoose__n"/></e>                
 <e lm="deith">            <i>deith</i><par n="hoose__n"/></e>
 <e lm="destrict">         <i>destrict</i><par n="hoose__n"/></e>
-<e lm="detail">           <i>detail</i><par n="hoose__n"/></e>              
+<e lm="detail">           <i>detail</i><par n="hoose__n"/></e>
+<e lm="deuk">             <i>deuk</i><par n="hoose__n"/></e>
 <e lm="dictionar">        <i>dictionar</i><par n="hoose__n"/></e>           
 <e lm="dinger">           <i>dinger</i><par n="hoose__n"/></e>              
 <e lm="dinnle">           <i>dinnle</i><par n="hoose__n"/></e>              
@@ -2643,11 +2654,13 @@
 <e lm="shaw">             <i>shaw</i><par n="aish__n"/></e>                 
 <e lm="shield">           <i>shield</i><par n="aish__n"/></e>
 <e lm="shift">            <i>shift</i><par n="hoose__n"/></e>              
-<e lm="shipyaird">        <i>shipyaird</i><par n="hoose__n"/></e>          
+<e lm="shipyaird">        <i>shipyaird</i><par n="hoose__n"/></e> 
+<e r="LR" lm="shooder">   <i>shooder</i><par n="hoose__n"/></e>
 <e lm="shoppin">          <i>shoppin</i><par n="hoose__n"/></e>              
 <e lm="shore">            <i>shore</i><par n="hoose__n"/></e>                
 <e lm="shot">             <i>shot</i><par n="hoose__n"/></e>                                 
-<e lm="shote">            <i>shote</i><par n="hoose__n"/></e>                               
+<e lm="shote">            <i>shote</i><par n="hoose__n"/></e>
+<e lm="shouder">          <i>shouder</i><par n="hoose__n"/></e>
 <e lm="shuin">            <i>shuin</i><par n="hoose__n"/></e>                
 <e lm="sicht">            <i>sicht</i><par n="hoose__n"/></e>                
 <e lm="side">             <i>side</i><par n="hoose__n"/></e>                 
@@ -2997,6 +3010,7 @@
 <e lm="unner">           <i>unner</i><par n="mebbe__adv"/></e>
 <e lm="up">              <i>up</i><par n="mebbe__adv"/></e>
 <e lm="waik">            <i>waik</i><par n="mebbe__adv"/></e>
+<e lm="wance">           <i>wance</i><par n="mebbe__adv"/></e>
 <e lm="weel">            <i>weel</i><par n="mebbe__adv"/></e>
 <e lm="whan">            <i>whan</i><par n="whaur__adv"/></e>
 <e lm="whaur">           <i>whaur</i><par n="whaur__adv"/></e>
@@ -3045,10 +3059,12 @@
 <e lm="nae">             <i>nae</i><par n="anither__det"/></e>
 <e lm="no">              <i>no</i><par n="anither__det"/></e>
 <e lm="ony">             <i>ony</i><par n="a__det"/></e>
+<e lm="oor">             <i>oor</i><par n="her__det"/></e>
 <e lm="some">            <i>some</i><par n="eneuch__det"/></e>
 <e lm="the">             <i>the</i><par n="the__det"/></e>
 <e lm="thir">            <i>th</i><par n="th/ir__det"/></e>
 <e lm="whit">            <i>whit</i><par n="whit__det"/></e>
+<e lm="whitever">        <i>whitever</i><par n="anither__det"/></e>
 <e lm="yer">             <i>yer</i><par n="her__det"/></e>
 <e lm="your">            <i>your</i><par n="her__det"/></e>
 
@@ -3066,6 +3082,8 @@
 
 <e lm="onything">        <i>onything</i><par n="everyone__prn"/></e>
 <e lm="onythin">         <i>onythin</i><par n="everyone__prn"/></e>
+<e lm="something">       <i>something</i><par n="everyone__prn"/></e>
+<e lm="somethin">        <i>somethin</i><par n="everyone__prn"/></e>
 
 <e lm="ithers">          <i>ithers</i><par n="baith__prn"/></e>
 
@@ -3089,6 +3107,8 @@
 
 <e lm="naebody">          <i>naebody</i><par n="everyone__prn"/></e>
 
+<e r="RL" lm="ane">      <p><l>ane</l>       <r>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="mf"/><s n="sg"/></r></p></e>
+<e r="RL" lm="ane">      <p><l>anes</l>      <r>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="mf"/><s n="pl"/></r></p></e>
 
     <!-- RELATIVE PRONOUNS -->
 
@@ -10103,6 +10123,7 @@
 <e lm="jag">              <i>jag</i><par n="jyne__vblex"/></e>                    
 <e lm="jalouse">          <i>jalouse</i><par n="advis/e__vblex"/></e>       
 <e lm="jouk">             <i>jouk</i><par n="jyne__vblex"/></e>
+<e lm="jimp">             <i>j</i><par n="j/imp__vblex"/></e>
 <e lm="jine">             <i>jyn</i><par n="jin/e__vblex"/></e>
 <e lm="jyne">             <i>jyn</i><par n="jyn/e__vblex"/></e>
 <e lm="jyne">             <i>jyne</i><par n="jyne__vblex"/></e>
@@ -10134,7 +10155,8 @@
 <e lm="lippen">           <i>lippen</i><par n="scowf__vblex"/></e>          
 <e lm="listen">           <i>listen</i><par n="scowf__vblex"/></e> 
 <e lm="look">             <i>look</i><par n="leuk__vblex"/></e>          
-<e lm="love">             <i>love</i><par n="gie__vblex"/></e>                          
+<e lm="love">             <i>love</i><par n="gie__vblex"/></e>
+<e lm="lowp">             <i>lowp</i><par n="leuk__vblex"/></e>
 <e lm="lowse">            <i>lowse</i><par n="gie__vblex"/></e>             
 <e lm="luck">             <i>luck</i><par n="jyne__vblex"/></e>             
 <e lm="luve">             <i>luve</i><par n="airm__vblex"/></e>             

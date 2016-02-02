@@ -232,6 +232,10 @@
   <e>       <p><l></l>          <r><s n="prn"/><s n="ref"/><s n="p3"/><s n="nt"/><s n="sg"/></r></p></e>
 </pardef>
 
+<pardef n="yersels__prn">
+  <e>       <p><l></l>          <r><s n="prn"/><s n="ref"/><s n="p2"/><s n="mf"/><s n="pl"/></r></p></e>
+</pardef>
+
 <pardef n="everyone__prn">
   <e>       <p><l></l>          <r><s n="prn"/><s n="tn"/><s n="sg"/></r></p></e>
   <e r="RL" c="riparo"><p><l></l><r><s n="prn"/><s n="tn"/><s n="pl"/></r></p></e>
@@ -659,6 +663,16 @@
   <e>       <p><l>in</l>        <r><s n="vblex"/><s n="ger"/></r></p></e>
   <e>       <p><l>in</l>        <r><s n="vblex"/><s n="pprs"/></r></p></e>
   <e>       <p><l>in</l>        <r><s n="vblex"/><s n="subs"/></r></p></e>
+</pardef>
+<pardef n="jin/e__vblex">
+  <e>       <p><l>e</l>          <r>e<s n="vblex"/><s n="inf"/></r></p></e>
+  <e>       <p><l>e</l>          <r>e<s n="vblex"/><s n="pres"/></r></p></e>
+  <e>       <p><l>es</l>         <r>e<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+  <e>       <p><l>d</l>         <r>e<s n="vblex"/><s n="past"/></r></p></e>
+  <e>       <p><l>d</l>         <r>e<s n="vblex"/><s n="pp"/></r></p></e>
+  <e>       <p><l>in</l>        <r>e<s n="vblex"/><s n="ger"/></r></p></e>
+  <e>       <p><l>in</l>        <r>e<s n="vblex"/><s n="pprs"/></r></p></e>
+  <e>       <p><l>in</l>        <r>e<s n="vblex"/><s n="subs"/></r></p></e>
 </pardef>
 <pardef n="jyn/e__vblex">
   <e>       <p><l>e</l>          <r>e<s n="vblex"/><s n="inf"/></r></p></e>
@@ -1642,6 +1656,7 @@
 <e lm="awtho">           <i>awtho</i><par n="acause__cnjadv"/></e>
 <e lm="because">         <i>because</i><par n="acause__cnjadv"/></e>
 <e lm="but">             <i>but</i><par n="but__cnjsub"/></e>
+<e lm="but">             <i>but</i><par n="an__cnjcoo"/></e>
 <e lm="gin">             <i>gin</i><par n="acause__cnjadv"/></e>
 <e lm="nor">             <i>nor</i><par n="an__cnjcoo"/></e>
 <e lm="or">              <i>or</i><par n="an__cnjcoo"/></e>
@@ -2164,7 +2179,7 @@
 <e lm="hale">             <i>hale</i><par n="hoose__n"/></e>                
 <e lm="haliday">          <i>haliday</i><par n="hoose__n"/></e>             
 <e lm="hame">             <i>hame</i><par n="hoose__n"/></e>                
-<e lm="hame-comin">       <i>hame-comin</i><par n="hoose__n"/></e>                    
+<e lm="hame-comin">       <i>hame-comin</i><par n="hoose__n"/></e>           
 <e lm="hame-gaun">        <i>hame-gaun</i><par n="hoose__n"/></e>           
 <e lm="hame-gaun">        <i>hame-gaun</i><par n="hoose__n"/></e> 
 <e lm="hameliness">       <i>hameliness</i><par n="hoose__n"/></e> 
@@ -2178,6 +2193,7 @@
 <e lm="heft">             <i>heft</i><par n="hoose__n"/></e>                
 <e lm="heft">             <i>heft</i><par n="hoose__n"/></e>                
 <e lm="heid">             <i>heid</i><par n="hoose__n"/></e>
+<e lm="heidline">         <i>heidline</i><par n="hoose__n"/></e>
 <e lm="heidsman">         <i>heidsman</i><par n="hoose__n"/></e>
 <e lm="heirskip">         <i>heirskip</i><par n="hoose__n"/></e>
 <e lm="hen">              <i>hen</i><par n="hoose__n"/></e>                 
@@ -2423,6 +2439,7 @@
 <e lm="music">            <i>music</i><par n="hoose__n"/></e>
 <e lm="mynd">             <i>mynd</i><par n="habb/y__n"/></e>               
 <e lm="myndin">           <i>myndin</i><par n="habb/y__n"/></e> 
+<e lm="naebody">          <i>naebod</i><par n="habb/y__n"/></e>
 <e lm="nae guid">         <i>nae<b/>guid</i><par n="habb/y__n"/></e> 
 <e lm="naitur">           <i>naitur</i><par n="hoose__n"/></e>              
 <e lm="name">             <i>name</i><par n="hoose__n"/></e>                
@@ -3045,15 +3062,27 @@
 <e lm="this">            <i>that</i><par n="th/is__prn"/></e>
 <e lm="that">            <i>that</i><par n="th/at__prn"/></e>
 
+<e lm="ithers">          <i>ithers</i><par n="baith__prn"/></e>
+
+    <!-- Personal pronouns -->
+
 <e lm="ye">              <i>ye</i><par n="prsubj__prn"/></e>
 <e lm="ye">              <i>ye</i><par n="probj__prn"/></e>
 
 <e lm="itsel">           <i>itsel</i><par n="itsel__prn"/></e>
 
+<e lm="yersels">         <i>yersels</i><par n="yersels__prn"/></e>
+
 <e lm="awwherr">         <i>awwherr</i><par n="everyone__prn"/></e>
 <e lm="ivrywherr">       <i>ivrywherr</i><par n="everyone__prn"/></e>
 
-<e lm="ithers">          <i>ithers</i><par n="baith__prn"/></e>
+
+<e lm="yersel">          <p><l>yersel</l>  <r>yerrsel<s n="prn"/><s n="ref"/><s n="p2"/><s n="mf"/><s n="sg"/></r></p></e>
+<e lm="yersels">         <p><l>yersels</l><r>yerrsels<s n="prn"/><s n="ref"/><s n="p2"/><s n="mf"/><s n="pl"/></r></p></e>
+
+    <!-- Group pronouns -->
+
+<e lm="naebody">          <i>naebody</i><par n="everyone__prn"/></e>
 
 
     <!-- RELATIVE PRONOUNS -->
@@ -3452,6 +3481,7 @@
 <e lm="slicht">          <i>slicht</i><par n="lang/__adj"/></e>
 <e lm="sma">             <i>sma</i><par n="sma/__adj"/></e>
 <e lm="snawy">           <i>sma</i><par n="lang/__adj"/></e>
+<e lm="snippit">         <i>snippit</i><par n="lang/__adj"/></e>
 <e lm="some">            <i>some</i><par n="expensive__adj"/></e>
 <e lm="sonsie">          <i>sonsie</i><par n="bairnie/__adj"/></e>
 <e lm="soothern">        <i>soothern</i><par n="expensive__adj"/></e>
@@ -9788,7 +9818,6 @@
     <!-- VERBS -->  
 <e lm="boo">             <i>boo</i><par n="boo__vblex"/></e>
 <e lm="ken">             <i>ken</i><par n="ken__vblex"/></e>
-<e lm="jyne">            <i>jyne</i><par n="jyne__vblex"/></e>
 <e lm="leuk">            <i>leuk</i><par n="leuk__vblex"/></e>
 <e lm="caa">             <i>caa</i><par n="caa__vblex"/></e>
 <e lm="dei">             <i>de</i><par n="de/i__vblex"/></e>
@@ -10068,7 +10097,9 @@
 <e lm="jag">              <i>jag</i><par n="jyne__vblex"/></e>                    
 <e lm="jalouse">          <i>jalouse</i><par n="advis/e__vblex"/></e>       
 <e lm="jouk">             <i>jouk</i><par n="jyne__vblex"/></e>
+<e lm="jine">             <i>jyn</i><par n="jin/e__vblex"/></e>
 <e lm="jyne">             <i>jyn</i><par n="jyn/e__vblex"/></e>
+<e lm="jyne">             <i>jyne</i><par n="jyne__vblex"/></e>
 <e lm="keek">             <i>keek</i><par n="airm__vblex"/></e>
 <e lm="keep">             <i>keep</i><par n="keep__vblex"/></e>
 <e lm="kick">             <i>kick</i><par n="airm__vblex"/></e>           

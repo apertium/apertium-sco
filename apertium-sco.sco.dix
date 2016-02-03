@@ -2417,7 +2417,8 @@
 <e lm="mindin">           <i>mindin</i><par n="hoose__n"/></e>              
 <e lm="mindin">           <i>mindin</i><par n="hoose__n"/></e>              
 <e lm="mindin">           <i>mindin</i><par n="hoose__n"/></e>              
-<e lm="mindin">           <i>mindin</i><par n="hoose__n"/></e>              
+<e lm="mindin">           <i>mindin</i><par n="hoose__n"/></e> 
+<e lm="mither">           <i>mither</i><par n="hoose__n"/></e>
 <e lm="mixter">           <i>mixter</i><par n="hoose__n"/></e>              
 <e lm="mixtur">           <i>mixtur</i><par n="hoose__n"/></e>              
 <e lm="mixtur">           <i>mixtur</i><par n="hoose__n"/></e>              
@@ -3105,6 +3106,7 @@
 
     <!-- Group pronouns -->
 
+<e lm="awbody">           <i>awbody</i><par n="everyone__prn"/></e>
 <e lm="naebody">          <i>naebody</i><par n="everyone__prn"/></e>
 
 <e r="RL" lm="ane">      <p><l>ane</l>       <r>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="mf"/><s n="sg"/></r></p></e>
@@ -3123,6 +3125,7 @@
 
 <e lm="efter">           <i>efter</i><par n="efter__cnjadv"/></e>
 <e lm="as weel as">      <i>as<b/>weel<b/>as</i><par n="efter__cnjadv"/></e>
+<e lm="tho">             <i>tho</i><par n="efter__cnjadv"/></e>
 <e lm="whenever">        <i>whenever</i><par n="efter__cnjadv"/></e>
 
     <!-- Prepositions -->
@@ -3324,6 +3327,7 @@
 <e lm="freestaundin">    <i>freestaundin</i><par n="expensive__adj"/></e>
 <e lm="freestaunin">     <i>freestaunin</i><par n="expensive__adj"/></e>
 <e lm="fremmit">         <i>fremmit</i><par n="expensive__adj"/></e>
+<e r="LR" lm="fu">       <i>fu</i><par n="lang/__adj"/></e>
 <e lm="furrin">          <i>furrin</i><par n="expensive__adj"/></e>
 <e lm="furth">           <i>furth</i><par n="expensive__adj"/></e>
 <e lm="furthie">         <i>furthie</i><par n="bairnie/__adj"/></e>
@@ -3397,6 +3401,7 @@
 <e lm="lawfu">           <i>lawfu</i><par n="expensive__adj"/></e>
 <e lm="lawland">         <i>lawland</i><par n="expensive__adj"/></e>
 <e lm="leal">            <i>leal</i><par n="expensive__adj"/></e>
+<e lm="lest">            <i>lest</i><par n="expensive__adj"/></e>
 <e lm="licht">           <i>licht</i><par n="expensive__adj"/></e>
 <e lm="lichtsome">       <i>lichtsome</i><par n="expensive__adj"/></e>
 <e lm="local">           <i>local</i><par n="expensive__adj"/></e>
@@ -3541,6 +3546,7 @@
 <e lm="their">           <i>their</i><par n="expensive__adj"/></e>
 <e lm="this">            <i>this</i><par n="expensive__adj"/></e>
 <e lm="thon">            <i>thon</i><par n="expensive__adj"/></e>
+<e lm="thrawn">          <i>thrawn</i><par n="expensive__adj"/></e>
 <e lm="tied">            <i>tied</i><par n="expensive__adj"/></e>
 <e lm="tottie">          <i>tottie</i><par n="expensive__adj"/></e>
 <e lm="tradeetional">    <i>tradeetional</i><par n="expensive__adj"/></e>
@@ -4194,6 +4200,7 @@
 <e lm="Bucardo">         <i>Bucardo</i><par n="Mark__np"/></e>
 <e lm="Buenaventura">    <i>Buenaventura</i><par n="Mark__np"/></e>
 <e lm="Bulmaro">         <i>Bulmaro</i><par n="Mark__np"/></e>
+<e lm="Burns">           <i>Burns</i><par n="Mark__np"/></e>
 <e lm="Caetano">         <i>Caetano</i><par n="Mark__np"/></e>
 <e lm="Caín">            <i>Caín</i><par n="Mark__np"/></e>
 <e lm="Caleb">           <i>Caleb</i><par n="Mark__np"/></e>
@@ -9951,7 +9958,7 @@
 <e lm="address">          <i>address</i><par n="airm__vblex"/></e>
 <e lm="admeet">           <i>admeet</i><par n="leuk__vblex"/></e>           
 <e lm="advise">           <i>advise</i><par n="advis/e__vblex"/></e>        
-<e lm="airm">             <i>airm</i><par n="airm__vblex"/></e>                         
+<e lm="airm">             <i>airm</i><par n="airm__vblex"/></e>          
 <e lm="airt">             <i>airt</i><par n="leuk__vblex"/></e>             
 <e lm="alairm">           <i>alairm</i><par n="airm__vblex"/></e>           
 <e lm="allou">            <i>allou</i><par n="airm__vblex"/></e>            
@@ -9972,7 +9979,8 @@
 <e lm="beal">             <i>beal</i><par n="jyne__vblex"/></e>             
 <e lm="belang">           <i>belang</i><par n="belang__vblex"/></e> 
 <e lm="bet">              <i>bet</i><par n="let__vblex"/></e>         
-<e lm="big">              <i>big</i><par n="big__vblex"/></e>               
+<e lm="big">              <i>big</i><par n="big__vblex"/></e>
+<e lm="bield">            <i>boak</i><par n="leuk__vblex"/></e>           
 <e lm="bile">             <i>bile</i><par n="jyne__vblex"/></e>                      
 <e lm="blether">          <i>blether</i><par n="airm__vblex"/></e> 
 <e lm="blether">          <i>blether</i><par n="jyne__vblex"/></e>         
@@ -10312,14 +10320,15 @@
 <e lm="turn">             <i>turn</i><par n="jyne__vblex"/></e>             
 <e lm="uise">             <i>uise</i><par n="airm__vblex"/></e>             
 <e lm="veesit">           <i>veesit</i><par n="jyne__vblex"/></e>           
-<e lm="vote">             <i>vote</i><par n="jyne__vblex"/></e>             
+<e lm="vote">             <i>vote</i><par n="jyne__vblex"/></e> 
+<e r="LR" lm="waant">     <i>waant</i><par n="jyne__vblex"/></e>   
 <e lm="waash">            <i>waash</i><par n="jyne__vblex"/></e>            
 <e lm="waiken">           <i>waiken</i><par n="jyne__vblex"/></e>           
 <e lm="wairn">            <i>wairn</i><par n="jyne__vblex"/></e>            
 <e lm="wait">             <i>wait</i><par n="jyne__vblex"/></e> 
 <e lm="walcome">          <i>walcome</i><par n="jyne__vblex"/></e> 
-<e lm="wale">             <i>wale</i><par n="airm__vblex"/></e>                                   
-<e lm="walk">             <i>walk</i><par n="jyne__vblex"/></e>             
+<e lm="wale">             <i>wale</i><par n="airm__vblex"/></e>            
+<e lm="walk">             <i>walk</i><par n="jyne__vblex"/></e>            
 <e lm="want">             <i>want</i><par n="jyne__vblex"/></e>             
 <e lm="wauk">             <i>wauk</i><par n="jyne__vblex"/></e>             
 <e lm="wauken">           <i>wauken</i><par n="jyne__vblex"/></e>           

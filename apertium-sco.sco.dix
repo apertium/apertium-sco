@@ -1338,6 +1338,26 @@
   <e>       <p><l>rin</l>          <r><s n="vblex"/><s n="pprs"/></r></p></e>
   <e>       <p><l>rin</l>          <r><s n="vblex"/><s n="subs"/></r></p></e>
 </pardef>
+<pardef n="s/eek__vblex">
+  <e>       <p><l>eek</l>           <r>ink<s n="vblex"/><s n="inf"/></r></p></e>
+  <e>       <p><l>eek</l>           <r>ink<s n="vblex"/><s n="pres"/></r></p></e>
+  <e>       <p><l>eeks</l>          <r>ink<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+  <e>       <p><l>ocht</l>          <r>ink<s n="vblex"/><s n="past"/></r></p></e>
+  <e>       <p><l>ocht</l>          <r>ink<s n="vblex"/><s n="pp"/></r></p></e>
+  <e>       <p><l>eekin</l>         <r>ink<s n="vblex"/><s n="ger"/></r></p></e>
+  <e>       <p><l>eekin</l>         <r>ink<s n="vblex"/><s n="pprs"/></r></p></e>
+  <e>       <p><l>eekin</l>         <r>ink<s n="vblex"/><s n="subs"/></r></p></e>
+</pardef>
+<pardef n="s/ick__vblex">
+  <e>       <p><l>ick</l>           <r>ink<s n="vblex"/><s n="inf"/></r></p></e>
+  <e>       <p><l>ick</l>           <r>ink<s n="vblex"/><s n="pres"/></r></p></e>
+  <e>       <p><l>icks</l>          <r>ink<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+  <e>       <p><l>ocht</l>          <r>ink<s n="vblex"/><s n="past"/></r></p></e>
+  <e>       <p><l>ocht</l>          <r>ink<s n="vblex"/><s n="pp"/></r></p></e>
+  <e>       <p><l>ickin</l>         <r>ink<s n="vblex"/><s n="ger"/></r></p></e>
+  <e>       <p><l>ickin</l>         <r>ink<s n="vblex"/><s n="pprs"/></r></p></e>
+  <e>       <p><l>ickin</l>         <r>ink<s n="vblex"/><s n="subs"/></r></p></e>
+</pardef>
 <pardef n="s/it__vblex">
   <e>       <p><l>it</l>           <r>it<s n="vblex"/><s n="inf"/></r></p></e>
   <e>       <p><l>it</l>           <r>it<s n="vblex"/><s n="pres"/></r></p></e>
@@ -2677,7 +2697,8 @@
 <e lm="scene">            <i>scene</i><par n="hoose__n"/></e>
 <e lm="scholar">          <i>scholar</i><par n="hoose__n"/></e>
 <e lm="scholart">         <i>scholart</i><par n="hoose__n"/></e>
-<e lm="schuil">           <i>schuil</i><par n="hoose__n"/></e>                             
+<e lm="schuil">           <i>schuil</i><par n="hoose__n"/></e> 
+<e r="LR" lm="schule">    <i>schule</i><par n="hoose__n"/></e>
 <e lm="scran">            <i>scran</i><par n="hoose__n"/></e>                
 <e lm="screed">           <i>screed</i><par n="hoose__n"/></e>               
 <e lm="scriever">         <i>scriever</i><par n="hoose__n"/></e> 
@@ -3030,6 +3051,8 @@
 <e lm="richtly">         <i>richtly</i><par n="mebbe__adv"/></e>
 <e lm="sae">             <i>sae</i><par n="mebbe__adv"/></e>
 <e lm="saft">            <i>saft</i><par n="mebbe__adv"/></e>
+<e r="LR" lm="shairly">  <i>shairly</i><par n="mebbe__adv"/></e>
+<e lm="shuirly">         <i>shuirly</i><par n="mebbe__adv"/></e>
 <e lm="sic">             <i>sic</i><par n="mebbe__adv"/></e>
 <e lm="sindrie">         <i>sindrie</i><par n="mebbe__adv"/></e>
 <e lm="sindry">          <i>sindry</i><par n="mebbe__adv"/></e>
@@ -3655,6 +3678,7 @@
 <e lm="yellae">          <i>yellae</i><par n="expensive__adj"/></e>
 <e lm="young">           <i>young</i><par n="lang/__adj"/></e>
 
+<e lm="ower mony">       <i>ower<b/>mony</i><par n="expensive__adj"/></e>
 
 <e lm="lang">            <i>lang</i><par n="expensive__adj"/></e>
 <e lm="new">             <i>new</i><par n="expensive__adj"/></e>
@@ -3684,6 +3708,7 @@
 <e lm="Weegie">          <i>Weegie</i><par n="expensive__adj"/></e>
 <e lm="Welsh">           <i>Welsh</i><par n="expensive__adj"/></e>
 <e lm="anti-Welsh">      <i>anti-Welsh</i><par n="expensive__adj"/></e>
+
 
 
     <!-- TODO: need to check if these can be non-synthetic too -->
@@ -10012,7 +10037,7 @@
 <e lm="uphoud">            <i>uphaud</i><par n="haud__vblex"/></e>
 <e lm="wark">              <i>w</i><par n="w/ark__vblex"/></e>
 <e lm="win">               <i>w</i><par n="w/in__vblex"/></e>
-<e lm="write">             <i>wr</i><par n="wr/ite__vblex"/></e>
+
 
 
 
@@ -10294,7 +10319,8 @@
 <e lm="pyne">             <i>pyne</i><par n="advis/e__vblex"/></e>  
 <e lm="raise">            <i>raise</i><par n="advis/e__vblex"/></e>         
 <e lm="rake">             <i>rake</i><par n="airm__vblex"/></e>             
-<e lm="rax">              <i>rax</i><par n="airm__vblex"/></e>                          
+<e lm="rax">              <i>rax</i><par n="airm__vblex"/></e> 
+<e lm="record">           <i>record</i><par n="leuk__vblex"/></e>                         
 <e lm="reek">             <i>reek</i><par n="jyne__vblex"/></e>                        
 <e lm="reid">             <i>reid</i><par n="jyne__vblex"/></e>             
 <e lm="relate">           <i>relate</i><par n="bok/e__vblex"/></e> 
@@ -10318,6 +10344,7 @@
 <e lm="screive">          <i>screiv</i><par n="advis/e__vblex"/></e>
 <e lm="scrieve">          <i>scriev</i><par n="advis/e__vblex"/></e>
 <e lm="scud">             <i>scud</i><par n="airm__vblex"/></e>
+<e lm="seek">             <i>s</i><par n="s/eek__vblex"/></e>
 <e lm="seem">             <i>seem</i><par n="airm__vblex"/></e>             
 <e lm="select">           <i>select</i><par n="jyne__vblex"/></e> 
 <e lm="sell">             <i>sell</i><par n="scowf__vblex"/></e> 
@@ -10327,7 +10354,8 @@
 <e lm="shaw">             <i>shaw</i><par n="airm__vblex"/></e>            
 <e lm="sheen">            <i>sheen</i><par n="airm__vblex"/></e>
 <e lm="shoogle">          <i>shoogl</i><par n="advis/e__vblex"/></e>
-<e lm="shuit">            <i>shuit</i><par n="jyne__vblex"/></e>            
+<e lm="shuit">            <i>shuit</i><par n="jyne__vblex"/></e> 
+<e r="LR" lm="sick">      <i>s</i><par n="s/ick__vblex"/></e>          
 <e lm="side">             <i>side</i><par n="bok/e__vblex"/></e>            
 <e lm="simmer">           <i>simmer</i><par n="airm__vblex"/></e>           
 <e lm="sinder">           <i>sinder</i><par n="jyne__vblex"/></e>           
@@ -10423,7 +10451,8 @@
 <e lm="wield">            <i>wield</i><par n="airm__vblex"/></e>            
 <e lm="wint">             <i>wint</i><par n="jyne__vblex"/></e>             
 <e lm="wite">             <i>wite</i><par n="airm__vblex"/></e>             
-<e lm="wrang">            <i>wrang</i><par n="airm__vblex"/></e>            
+<e lm="wrang">            <i>wrang</i><par n="airm__vblex"/></e>
+<e lm="write">            <i>wr</i><par n="wr/ite__vblex"/></e>            
 <e lm="wunner">           <i>wunner</i><par n="jyne__vblex"/></e>           
 <e lm="wyte">             <i>wyte</i><par n="jyne__vblex"/></e>             
 <e lm="yaise">            <i>yaise</i><par n="advis/e__vblex"/></e>                    

@@ -1784,7 +1784,7 @@
 <e lm="toun">            <i>toun</i><par n="hoose__n"/></e>
 <e lm="haun">            <i>haun</i><par n="hoose__n"/></e>
 <e lm="ticket">          <i>ticket</i><par n="hoose__n"/></e>
-<e lm="wean">            <i>wean</i><par n="hoose__n"/></e>
+
 
   <!-- New nouns TODO: merge with old, separate irregulars-->
 <e lm="accoont">          <i>accoont</i><par n="hoose__n"/></e>             
@@ -2378,7 +2378,8 @@
 <e lm="laddie">           <i>laddie</i><par n="hoose__n"/></e>              
 <e lm="laddie">           <i>laddie</i><par n="hoose__n"/></e>              
 <e lm="lair">             <i>lair</i><par n="hoose__n"/></e>                
-<e lm="lair">             <i>lair</i><par n="hoose__n"/></e>                
+<e lm="lair">             <i>lair</i><par n="hoose__n"/></e> 
+<e lm="laitin">           <i>laitin</i><par n="hoose__n"/></e>
 <e lm="laive">            <i>laive</i><par n="hoose__n"/></e>               
 <e lm="langage">          <i>langage</i><par n="hoose__n"/></e>             
 <e lm="lantren">          <i>lantren</i><par n="hoose__n"/></e>             
@@ -2754,6 +2755,8 @@
 <e lm="soorce">           <i>soorce</i><par n="hoose__n"/></e>               
 <e lm="sooth">            <i>sooth</i><par n="hoose__n"/></e>
 <e lm="sou">              <i>sou</i><par n="hoose__n"/></e>
+<e lm="Spaingie">         <i>Spaingie</i><par n="hoose__n"/></e>
+<e r="LR" lm="Spainyie">  <i>Spainyie</i><par n="hoose__n"/></e>
 <e lm="speed">            <i>speed</i><par n="hoose__n"/></e>
 <e lm="speerit">          <i>speerit</i><par n="hoose__n"/></e>                           
 <e lm="speir">            <i>speir</i><par n="hoose__n"/></e>                
@@ -3184,6 +3187,7 @@
     <!-- Group pronouns -->
 
 <e lm="awbody">           <i>awbody</i><par n="everyone__prn"/></e>
+<e r="LR" lm="aabody">    <i>aabody</i><par n="everyone__prn"/></e>
 <e lm="naebody">          <i>naebody</i><par n="everyone__prn"/></e>
 
 <e r="RL" lm="ane">      <p><l>ane</l>       <r>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="mf"/><s n="sg"/></r></p></e>
@@ -3798,6 +3802,7 @@
 <e lm="Inglis Chainnel"> <i>Inglis<b/>Chainnel</i><par n="Barcelona__np"/></e>
 <e lm="Ireland">         <i>Ireland</i><par n="Barcelona__np"/></e>
 <e lm="Irland">          <i>Irland</i><par n="Barcelona__np"/></e>
+<e lm="Laitin Americae"> <i>Laitin<b/>Americae</i><par n="Barcelona__np"/></e>
 <e lm="Lunnon">          <i>Lunnon</i><par n="Barcelona__np"/></e>
 <e lm="Northren Ireland"><i>Northren<b/>Ireland</i><par n="Barcelona__np"/></e>
 <e lm="Northren Irland"> <i>Northren<b/>Irland</i><par n="Barcelona__np"/></e>
@@ -10131,7 +10136,8 @@
 <e r="LR" lm="cowp">      <i>cowp</i><par n="airm__vblex"/></e>          
 <e lm="creash">           <i>creash</i><par n="airm__vblex"/></e>           
 <e lm="creedit">          <i>creedit</i><par n="jyne__vblex"/></e>          
-<e lm="creeticeese">      <i>creeticeese</i><par n="gie__vblex"/></e>       
+<e lm="creeticeese">      <i>creeticeese</i><par n="gie__vblex"/></e> 
+<e r="LR" lm="crie">      <i>crie</i><par n="gie__vblex"/></e>
 <e lm="crown">            <i>croun</i><par n="jyne__vblex"/></e> 
 <e lm="cry">              <i>cr</i><par n="cr/y__vblex"/></e>           
 <e lm="dae">              <i>dae</i><par n="gie__vblex"/></e>               

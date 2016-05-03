@@ -3132,6 +3132,7 @@
 <e r="LR" lm="two">      <i>two</i><par n="one__num"/></e>
 <e lm="three">           <i>three</i><par n="three__num"/></e>
 <e lm="fower">           <i>fower</i><par n="one__num"/></e>
+<e lm="five">            <i>five</i><par n="one__num"/></e>
 
 
     <!-- DETERMINERS -->
@@ -3184,10 +3185,12 @@
 <e lm="onythin">         <i>onythin</i><par n="everyone__prn"/></e>
 <e lm="something">       <i>something</i><par n="everyone__prn"/></e>
 <e lm="somethin">        <i>somethin</i><par n="everyone__prn"/></e>
-
+<e lm="somewhaur">       <i>somewhaur</i><par n="everyone__prn"/></e>
 <e lm="whitever">        <i>whitever</i><par n="everyone__prn"/></e>
 
 <e lm="ithers">          <i>ithers</i><par n="baith__prn"/></e>
+
+<e lm="hee haw">         <i>hee<b/>haw</i><par n="everyone__prn"/></e>
 
     <!-- Personal pronouns -->
 
@@ -3398,6 +3401,7 @@
 <e lm="customisable">    <i>customisable</i><par n="expensive__adj"/></e>
 <e r="LR" lm="cuttie">   <i>cuttie</i><par n="bairnie/__adj"/></e>
 <e lm="cutty">           <i>cutt</i><par n="barr/y__adj"/></e>
+<e lm="dear">            <i>dear</i><par n="lang/__adj"/></e>
 <e lm="deep">            <i>deep</i><par n="lang/__adj"/></e>
 <e lm="deid">            <i>deid</i><par n="lang/__adj"/></e>
 <e lm="deidly">          <i>deidl</i><par n="barr/y__adj"/></e>
@@ -3559,6 +3563,8 @@
 <e lm="orra">            <i>orra</i><par n="expensive__adj"/></e>
 <e lm="ower">            <i>ower</i><par n="expensive__adj"/></e>
 <e lm="pally">           <i>pall</i><par n="barr/y__adj"/></e>
+<e lm="paukie">          <i>paukie</i><par n="expensive__adj"/></e>
+<e r="LR" lm="pawkie">   <i>pawkie</i><par n="expensive__adj"/></e>
 <e lm="pechie">          <i>pechie</i><par n="expensive__adj"/></e>
 <e lm="pecht">           <i>pecht</i><par n="expensive__adj"/></e>
 <e lm="peelie">          <i>peelie</i><par n="expensive__adj"/></e>

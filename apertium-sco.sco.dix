@@ -1620,8 +1620,8 @@
   <e r="RL"><p><l></l>          <r><s n="det"/><s n="def"/><s n="pl"/></r></p></e>
 </pardef>
 <pardef n="th/ir__det">
-  <e>       <p><l>ir</l>        <r>ir<s n="det"/><s n="dem"/><s n="sg"/></r></p></e>
-  <e>       <p><l>ae</l>        <r>ir<s n="det"/><s n="dem"/><s n="pl"/></r></p></e>
+  <e>       <p><l>ir</l>        <r>ir<s n="det"/><s n="pos"/><s n="sg"/></r></p></e>
+  <e>       <p><l>ae</l>        <r>ir<s n="det"/><s n="pos"/><s n="pl"/></r></p></e>
 </pardef>
 <pardef n="th/at__det">
   <e>       <p><l>at</l>        <r>at<s n="det"/><s n="dem"/><s n="sg"/></r></p></e>

@@ -1898,7 +1898,8 @@
 <e lm="brae">             <i>brae</i><par n="hoose__n"/></e>                
 <e lm="brae">             <i>brae</i><par n="hoose__n"/></e>                
 <e lm="braidcast">        <i>braidcast</i><par n="hoose__n"/></e>           
-<e lm="brainch">          <i>brainch</i><par n="hoose__n"/></e>             
+<e lm="brainch">          <i>brainch</i><par n="hoose__n"/></e> 
+<e lm="braith">           <i>braith</i><par n="hoose__n"/></e>
 <e lm="brak">             <i>brak</i><par n="hoose__n"/></e>                
 <e lm="braws">            <i>braws</i><par n="hoose__n"/></e>               
 <e lm="bree">             <i>bree</i><par n="hoose__n"/></e>                
@@ -2580,7 +2581,7 @@
 <e lm="oxters">           <i>oxters</i><par n="hoose__n"/></e>              
 <e lm="pairish">          <i>pairish</i><par n="hoose__n"/></e>             
 <e lm="pairlament">       <i>pairlament</i><par n="hoose__n"/></e>          
-<e lm="pairlaments">      <i>pairlaments</i><par n="hoose__n"/></e>         
+<e r="LR" lm="pairliament"> <i>pairliament</i><par n="hoose__n"/></e>         
 <e lm="pairt">            <i>pairt</i><par n="hoose__n"/></e>               
 <e lm="pairtner">         <i>pairtner</i><par n="hoose__n"/></e>            
 <e lm="pairty">           <i>pairty</i><par n="habb/y__n"/></e>             
@@ -3829,6 +3830,8 @@
 <e lm="Fawkirk">         <i>Fawkirk</i><par n="Barcelona__np"/></e>
 <e lm="Franse">          <i>Franse</i><par n="Barcelona__np"/></e>
 <e lm="Fraunce">         <i>Fraunce</i><par n="Barcelona__np"/></e>
+<e lm="Gallawa">         <i>Gallawa</i><par n="Barcelona__np"/></e>
+<e r="LR" lm="Gallowa">  <i>Gallowa</i><par n="Barcelona__np"/></e>
 <e lm="German Ocean">    <i>German<b/>Ocean</i><par n="Barcelona__np"/></e>
 <e lm="Glesca">          <i>Glesca</i><par n="Barcelona__np"/></e>
 <e lm="Glesga">          <i>Glesga</i><par n="Barcelona__np"/></e>

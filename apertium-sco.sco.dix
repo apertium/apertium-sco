@@ -2575,6 +2575,7 @@
 <e lm="orras">            <i>orras</i><par n="hoose__n"/></e>               
 <e lm="otter">            <i>otter</i><par n="hoose__n"/></e> 
 <e lm="ootlet">           <i>ootlet</i><par n="hoose__n"/></e>
+<e lm="ootline">          <i>ootline</i><par n="hoose__n"/></e>
 <e lm="owersetter">       <i>owersetter</i><par n="hoose__n"/></e>          
 <e lm="owersicht">        <i>owersicht</i><par n="hoose__n"/></e>           
 <e lm="owt">              <i>owt</i><par n="hoose__n"/></e>                 
@@ -3714,6 +3715,7 @@
 <e lm="widden">          <i>widden</i><par n="expensive__adj"/></e>
 <e lm="wir">             <i>wir</i><par n="expensive__adj"/></e>
 <e lm="wirkin">          <i>wirkin</i><par n="expensive__adj"/></e>
+<e lm="workin cless">    <i>workin<b/>cless</i><par n="expensive__adj"/></e>
 <e lm="worth">           <i>worth</i><par n="expensive__adj"/></e>
 <e lm="wrang">           <i>wrang</i><par n="expensive__adj"/></e>
 <e lm="yella" r="LR"><p><l>yellae</l><r>yella</r></p><par n="expensive__adj"/></e>

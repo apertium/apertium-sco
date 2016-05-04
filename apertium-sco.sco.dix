@@ -2238,7 +2238,8 @@
 <e lm="guise">            <i>guise</i><par n="hoose__n"/></e>               
 <e lm="guiser">           <i>guiser</i><par n="hoose__n"/></e>              
 <e lm="guisin">           <i>guisin</i><par n="hoose__n"/></e> 
-<e lm="guttie">           <i>guttie</i><par n="hoose__n"/></e> 
+<e lm="guttie">           <i>guttie</i><par n="hoose__n"/></e>
+<e r="LR" lm="ha">        <i>haw</i><par n="hoose__n"/></e> 
 <e lm="haar">             <i>haar</i><par n="hoose__n"/></e>
 <e lm="habby">            <i>habb</i><par n="habb/y__n"/></e>                
 <e lm="haft">             <i>haft</i><par n="hoose__n"/></e>                
@@ -3625,6 +3626,8 @@
 <e lm="shair">           <i>shair</i><par n="lang/__adj"/></e>
 <e lm="shairp">          <i>shairp</i><par n="lang/__adj"/></e>
 <e lm="shairp-witted">   <i>shairp-witted</i><par n="lang/__adj"/></e>
+<e r="LR" lm="shoack">   <i>shoack</i><par n="expensive__adj"/></e>
+<e lm="shock">           <i>shock</i><par n="expensive__adj"/></e>
 <e lm="shuir">           <i>shuir</i><par n="lang/__adj"/></e>
 <e lm="sic">             <i>sic</i><par n="expensive__adj"/></e>
 <e lm="siccar">          <i>siccar</i><par n="lang/__adj"/></e>
@@ -10457,7 +10460,7 @@
 <e lm="stey">             <i>stey</i><par n="airm__vblex"/></e>                       
 <e lm="stoond">           <i>stoond</i><par n="jyne__vblex"/></e>                       
 <e lm="stot">             <i>stot</i><par n="jyne__vblex"/></e>             
-<e lm="stot">             <i>stot</i><par n="jyne__vblex"/></e>
+<e lm="stot">             <i>stot</i><par n="let__vblex"/></e>
 <e lm="stramp">           <i>stramp</i><par n="leuk__vblex"/></e>          
 <e lm="straucht">         <i>straucht</i><par n="airm__vblex"/></e>         
 <e lm="stravaig">         <i>stravaig</i><par n="big__vblex"/></e>          

@@ -1962,7 +1962,10 @@
 <e lm="childer">          <i>childer</i><par n="aish__n"/></e>              
 <e lm="chist">            <i>chist</i><par n="aish__n"/></e>                
 <e lm="chore">            <i>chore</i><par n="aish__n"/></e>                
-<e lm="chore">            <i>chore</i><par n="aish__n"/></e>                
+<e lm="chore">            <i>chore</i><par n="aish__n"/></e>
+
+<e lm="chyce">            <i>chyce</i><par n="hoose__n"/></e>
+
 <e lm="chyne">            <i>chyne</i><par n="habb/y__n"/></e>              
 <e lm="chynes">           <i>chynes</i><par n="habb/y__n"/></e>             
 <e lm="clachan">          <i>clachan</i><par n="hoose__n"/></e>             

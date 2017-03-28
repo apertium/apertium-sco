@@ -177,6 +177,7 @@
 
 <pardef n="prsubj__prn">
   <e>       <p><l>A</l>         <r>prpers<s n="prn"/><s n="subj"/><s n="p1"/><s n="mf"/><s n="sg"/></r></p></e>
+  <e>       <p><l>ah</l>         <r>prpers<s n="prn"/><s n="subj"/><s n="p1"/><s n="mf"/><s n="sg"/></r></p></e>  
   <e>       <p><l>I</l>         <r>prpers<s n="prn"/><s n="subj"/><s n="p1"/><s n="mf"/><s n="sg"/></r></p></e>  
   <e>       <p><l>ye</l>        <r>prpers<s n="prn"/><s n="subj"/><s n="p2"/><s n="mf"/><s n="sp"/></r></p></e>
       
@@ -1852,7 +1853,7 @@
 <e lm="bather">           <i>bather</i><par n="hoose__n"/></e>
 <e lm="battle">           <i>battle</i><par n="hoose__n"/></e>
 <e lm="baw">              <i>baw</i><par n="hoose__n"/></e>                 
-<e lm="bawbag">           <i>bawbag</i><par n="hoose__n"/></e>                           
+<e lm="bawbag">           <i>bawbag</i><par n="hoose__n"/></e>               
 <e lm="bawbee">           <i>bawbee</i><par n="hoose__n"/></e>              
 <e lm="bawheid">          <i>bawheid</i><par n="hoose__n"/></e>             
 <e lm="beamer">           <i>beamer</i><par n="hoose__n"/></e>              
@@ -1963,9 +1964,7 @@
 <e lm="chist">            <i>chist</i><par n="aish__n"/></e>                
 <e lm="chore">            <i>chore</i><par n="aish__n"/></e>                
 <e lm="chore">            <i>chore</i><par n="aish__n"/></e>
-
 <e lm="chyce">            <i>chyce</i><par n="hoose__n"/></e>
-
 <e lm="chyne">            <i>chyne</i><par n="habb/y__n"/></e>              
 <e lm="chynes">           <i>chynes</i><par n="habb/y__n"/></e>             
 <e lm="clachan">          <i>clachan</i><par n="hoose__n"/></e>             
@@ -2134,7 +2133,8 @@
 <e lm="fecht">            <i>fecht</i><par n="hoose__n"/></e>               
 <e lm="fechter">          <i>fechter</i><par n="hoose__n"/></e>             
 <e lm="fechtin">          <i>fechtin</i><par n="hoose__n"/></e>             
-<e lm="fechts">           <i>fechts</i><par n="hoose__n"/></e>              
+<e lm="fechts">           <i>fechts</i><par n="hoose__n"/></e>  
+<e lm="feck">             <i>feck</i><par n="hoose__n"/></e>
 <e lm="ferlies">          <i>ferlies</i><par n="hoose__n"/></e>             
 <e lm="ferly">            <i>ferly</i><par n="habb/y__n"/></e>              
 <e lm="ferm">             <i>ferm</i><par n="hoose__n"/></e>                
@@ -3010,6 +3010,7 @@
 <e r="LR" lm="enlessly"> <i>enlessly</i><par n="mebbe__adv"/></e>
 <e lm="even">            <i>even</i><par n="mebbe__adv"/></e>
 <e lm="fair">            <i>fair</i><par n="mebbe__adv"/></e>
+<e lm="fairly">          <i>fairly</i><par n="mebbe__adv"/></e>
 <e lm="fan">             <i>fan</i><par n="whaur__adv"/></e>
 <e lm="far">             <i>far</i><par n="mebbe__adv"/></e>
 <e lm="faur">            <i>faur</i><par n="mebbe__adv"/></e>
@@ -3019,6 +3020,7 @@
 <e lm="fernyear">        <i>fernyear</i><par n="mebbe__adv"/></e>
 <e lm="for ordinar">     <i>for<b/>ordinar</i><par n="mebbe__adv"/></e>
 <e lm="forrit">          <i>forrit</i><par n="mebbe__adv"/></e>
+<e lm="fully">           <i>fully</i><par n="mebbe__adv"/></e>
 <e lm="gey">             <i>gey</i><par n="mebbe__adv"/></e>
 <e lm="gledly">          <i>gledly</i><par n="mebbe__adv"/></e>
 <e lm="hairdly">         <i>hairdly</i><par n="mebbe__adv"/></e>
@@ -3658,6 +3660,8 @@
 <e lm="speeritit">       <i>speeritit</i><par n="expensive__adj"/></e>
 <e lm="speeritual">      <i>speeritual</i><par n="expensive__adj"/></e>
 <e lm="speicial">        <i>speicial</i><par n="expensive__adj"/></e>
+<e lm="stamagastert">    <i>stamagastert</i><par n="expensive__adj"/></e>
+<e lm="stammygastert">   <i>stammygastert</i><par n="expensive__adj"/></e>
 <e lm="steidy">          <i>steid</i><par n="barr/y__adj"/></e>
 <e lm="strang">          <i>strang</i><par n="lang/__adj"/></e>
 <e lm="straucht">        <i>straucht</i><par n="lang/__adj"/></e>
@@ -8040,6 +8044,7 @@
 <e lm="Nicarda">         <i>Nicarda</i><par n="Mary__np"/></e>
 <e lm="Nicasia">         <i>Nicasia</i><par n="Mary__np"/></e>
 <e lm="Nicéfora">        <i>Nicéfora</i><par n="Mary__np"/></e>
+<e lm="Nicola">          <i>Nicola</i><par n="Mary__np"/></e>
 <e lm="Nicolasa">        <i>Nicolasa</i><par n="Mary__np"/></e>
 <e lm="Nicole">          <i>Nicole</i><par n="Mary__np"/></e>
 <e lm="Nicolle">         <i>Nicolle</i><par n="Mary__np"/></e>

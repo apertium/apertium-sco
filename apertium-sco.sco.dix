@@ -188,6 +188,7 @@
   <e r="LR"><p><l>hit</l>       <r>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="nt"/><s n="sg"/></r></p></e>
   <e>       <p><l>we</l>        <r>prpers<s n="prn"/><s n="subj"/><s n="p1"/><s n="mf"/><s n="pl"/></r></p></e>
   <e>       <p><l>thay</l>      <r>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="mf"/><s n="pl"/></r></p></e>
+  <e>       <p><l>they</l>      <r>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="mf"/><s n="pl"/></r></p></e>
 </pardef>
 <pardef n="probj__prn">
   <e>       <p><l>me</l>        <r>prpers<s n="prn"/><s n="obj"/><s n="p1"/><s n="mf"/><s n="sg"/></r></p></e>
@@ -1952,7 +1953,8 @@
 <e lm="caur">             <i>caur</i><par n="hoose__n"/></e>                
 <e lm="caw">              <i>caw</i><par n="hoose__n"/></e>                 
 <e lm="cawin">            <i>cawin</i><par n="hoose__n"/></e>               
-<e lm="ceety">            <i>ceety</i><par n="habb/y__n"/></e>              
+<e lm="ceety">            <i>ceety</i><par n="habb/y__n"/></e>
+<e lm="ceilidh">          <i>ceilidh</i><par n="hoose__n"/></e>
 <e lm="century">          <i>century</i><par n="habb/y__n"/></e>            
 <e lm="ceremony">         <i>ceremony</i><par n="habb/y__n"/></e>           
 <e lm="chairge">          <i>chairge</i><par n="aish__n"/></e>              
@@ -2403,7 +2405,8 @@
 <e lm="laive">            <i>laive</i><par n="hoose__n"/></e> 
 <e r="LR" lm="landward">  <i>landward</i><par n="hoose__n"/></e>
 <e lm="landwart">         <i>landwart</i><par n="hoose__n"/></e>
-<e lm="langage">          <i>langage</i><par n="hoose__n"/></e>             
+<e lm="langage">          <i>langage</i><par n="hoose__n"/></e>
+<e r="LR" lm="language">  <i>language</i><par n="hoose__n"/></e>
 <e lm="lantren">          <i>lantren</i><par n="hoose__n"/></e>             
 <e lm="larrie">           <i>larrie</i><par n="hoose__n"/></e>              
 <e lm="lass">             <i>lass</i><par n="hoose__n"/></e>                
@@ -2902,7 +2905,8 @@
 <e lm="wast">             <i>wast</i><par n="hoose__n"/></e>                
 <e lm="watter">           <i>watter</i><par n="hoose__n"/></e>              
 <e lm="watter">           <i>watter</i><par n="hoose__n"/></e>              
-<e lm="watterfaw">        <i>watterfaw</i><par n="hoose__n"/></e>           
+<e lm="watterfaw">        <i>watterfaw</i><par n="hoose__n"/></e> 
+<e lm="wattergaw">        <i>wattergaw</i><par n="hoose__n"/></e>          
 <e lm="waucht">           <i>waucht</i><par n="hoose__n"/></e>              
 <e lm="waw">              <i>waw</i><par n="hoose__n"/></e>                 
 <e lm="wean">             <i>wean</i><par n="hoose__n"/></e>                
@@ -3145,6 +3149,8 @@
 <e lm="three">           <i>three</i><par n="three__num"/></e>
 <e lm="fower">           <i>fower</i><par n="one__num"/></e>
 <e lm="five">            <i>five</i><par n="one__num"/></e>
+
+<e lm="fowerty">         <i>fowerty</i><par n="one__num"/></e>
 
 
     <!-- DETERMINERS -->
@@ -3494,6 +3500,8 @@
 <e lm="haundless">       <i>haundless</i><par n="expensive__adj"/></e>
 <e lm="haunless">        <i>haunless</i><par n="expensive__adj"/></e>
 <e lm="haurd">           <i>haurd</i><par n="lang/__adj"/></e>
+<e lm="heeliegoleerie">  <i>heeliegoleerie</i><par n="bairnie/__adj"/></e>
+<e lm="heeligoleery">    <i>heeligoleer</i><par n="barr/y__adj"/></e>
 <e lm="heich">           <i>h</i><par n="h/eich__adj"/></e>
 <e lm="hersh">           <i>hersh</i><par n="lang/__adj"/></e>
 <e lm="het">             <i>het</i><par n="fat/__adj"/></e>

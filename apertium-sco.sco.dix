@@ -1735,6 +1735,7 @@
 <e lm="but">             <i>but</i><par n="but__cnjsub"/></e>
 <e lm="but">             <i>but</i><par n="an__cnjcoo"/></e>
 <e lm="gin">             <i>gin</i><par n="acause__cnjadv"/></e>
+<e r="LR" lm="gin">      <i>if</i><par n="acause__cnjadv"/></e>
 <e lm="nor">             <i>nor</i><par n="an__cnjcoo"/></e>
 <e lm="or">              <i>or</i><par n="an__cnjcoo"/></e>
 <e lm="sae">             <i>sae</i><par n="acause__cnjadv"/></e>
@@ -2108,7 +2109,8 @@
 <e lm="ers">              <i>ers</i><par n="hoose__n"/></e>                 
 <e lm="ers">              <i>ers</i><par n="hoose__n"/></e>                 
 <e lm="ess">              <i>ess</i><par n="hoose__n"/></e>                 
-<e lm="ess">              <i>ess</i><par n="hoose__n"/></e>                 
+<e lm="ess">              <i>ess</i><par n="hoose__n"/></e> 
+<e lm="estaiblishment">   <i>estaiblishment</i><par n="hoose__n"/></e>
 <e lm="ettle">            <i>ettle</i><par n="hoose__n"/></e>               
 <e lm="ettlin">           <i>ettlin</i><par n="hoose__n"/></e>              
 <e lm="ettlins">          <i>ettlins</i><par n="hoose__n"/></e>             
@@ -3395,6 +3397,8 @@
 <e lm="braw">            <i>braw</i><par n="lang/__adj"/></e>
 <e lm="bricht">          <i>bricht</i><par n="lang/__adj"/></e>
 <e lm="broon">           <i>broon</i><par n="lang/__adj"/></e>
+<e r="LR" lm="broukit">  <i>broukit</i><par n="expensive__adj"/></e>
+<e r="LR" lm="brouky">   <i>brouk</i><par n="barr/y__adj"/></e>
 <e lm="bruckle">         <i>bruckle</i><par n="bairnie/__adj"/></e>
 <e lm="built">           <i>built</i><par n="expensive__adj"/></e>
 <e lm="buskit">          <i>buskit</i><par n="expensive__adj"/></e>
@@ -10136,6 +10140,7 @@
 
 <e lm="absteen">          <i>absteen</i><par n="leuk__vblex"/></e>
 <e lm="abuise">           <i>abuis</i><par n="advis/e__vblex"/></e>
+<e lm="accept">           <i>accept</i><par n="leuk__vblex"/></e>
 <e lm="act">              <i>act</i><par n="leuk__vblex"/></e>              
 <e lm="address">          <i>address</i><par n="leuk__vblex"/></e>
 <e lm="address">          <i>address</i><par n="airm__vblex"/></e>

@@ -1573,7 +1573,7 @@
 </pardef>
 
     <!-- AUXILIARY & MODAL VERBS PARDEFS -->
-    
+
 <pardef n="d/ae__vaux">
   <e>       <p><l>ae</l>           <r>ae<s n="vbdo"/><s n="pres"/></r></p><par n="na__S"/></e>
   <e>       <p><l>is</l>           <r>ae<s n="vbdo"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p><par n="na__S"/></e>
@@ -1651,6 +1651,14 @@
   <e r="RL"><p><l></l>          <r><s n="det"/><s n="pos"/><s n="pl"/></r></p></e>
 </pardef>
 
+    <!-- GENITIVE PARDEFS -->
+
+<!-- This pardef takes care of genitives for words ending in s. e.g., Paris' -->
+<pardef n="gen__apos">
+  <e>       <p><l></l>          <r></r></p></e>
+  <e>       <p><l>'</l>         <r><j/>'<s n="gen"/></r></p></e>
+</pardef>
+
     <!-- PROPER NOUNS PARDEFS -->
 
 <pardef n="Siberia__np">
@@ -1723,11 +1731,6 @@
 
 
 
-
-
-
-    <!-- GENATIVE S - temp as noun-->
-<e lm="s">               <i>s</i><par n="hoose__n"/></e>
 
     <!-- Conjunctions -->
 <e lm="acause">          <i>acause</i><par n="acause__cnjadv"/></e>
@@ -9778,7 +9781,7 @@
          -->
 
     <!-- new-stuff --> <!-- {{{ -->
-<e>                      <i>'s</i><par n="'s__gen"/></e>
+<e lm="'s">              <i>'s</i><par n="'s__gen"/></e>
 
 
 

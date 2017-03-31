@@ -1720,6 +1720,15 @@
 <pardef n="one__num">
   <e>       <p><l></l>          <r><s n="num"/><s n="sg"/></r></p></e>
 </pardef>
+<pardef n="two__num">
+  <e>       <p><l></l>          <r><s n="num"/><s n="sp"/></r></p></e>
+</pardef>
+
+<pardef n="hundred__num">
+  <e>       <p><l></l>          <r><s n="num"/><s n="sp"/></r></p></e>
+  <e r="RL"><p><l></l>          <r><s n="n"/><s n="sg"/></r></p></e>
+  <e>       <p><l>s</l>         <r><s n="n"/><s n="pl"/></r></p><par n="gen__apos"/></e>
+</pardef>
 
   </pardefs>
 
@@ -2343,6 +2352,7 @@
 <e lm="intellect">        <i>intellect</i><par n="hoose__n"/></e>           
 <e lm="intellects">       <i>intellects</i><par n="hoose__n"/></e>          
 <e lm="island">           <i>island</i><par n="hoose__n"/></e>
+<e lm="issue">            <i>issue</i><par n="hoose__n"/></e>
 <e lm="ither">            <i>ither</i><par n="hoose__n"/></e>
 <e lm="jaicket">          <i>jaicket</i><par n="hoose__n"/></e>             
 <e lm="janitor">          <i>janitor</i><par n="hoose__n"/></e>             
@@ -3016,6 +3026,7 @@
 <e lm="aye">             <i>aye</i><par n="mebbe__adv"/></e>
 <e lm="ayeweys">         <i>ayeweys</i><par n="mebbe__adv"/></e>
 <e lm="ayewis">          <i>ayewis</i><par n="mebbe__adv"/></e>
+<e lm="ayont">           <i>ayont</i><par n="mebbe__adv"/></e>
 <e lm="back">            <i>back</i><par n="mebbe__adv"/></e>
 <e lm="bairnishly">      <i>bairnishly</i><par n="mebbe__adv"/></e>
 <e lm="ben">             <i>ben</i><par n="mebbe__adv"/></e>
@@ -3168,13 +3179,19 @@
 <e lm="yin">             <i>yin</i><par n="one__num"/></e>
 <e r="LR" lm="een">      <i>een</i><par n="one__num"/></e>
 <e r="LR" lm="one">      <i>one</i><par n="one__num"/></e>
-<e lm="twa">             <i>twa</i><par n="one__num"/></e>
-<e r="LR" lm="two">      <i>two</i><par n="one__num"/></e>
+<e lm="twa">             <i>twa</i><par n="two__num"/></e>
+<e r="LR" lm="two">      <i>two</i><par n="two__num"/></e>
 <e lm="three">           <i>three</i><par n="three__num"/></e>
 <e lm="fower">           <i>fower</i><par n="one__num"/></e>
-<e lm="five">            <i>five</i><par n="one__num"/></e>
+<e lm="five">            <i>five</i><par n="two__num"/></e>
 
 <e lm="fowerty">         <i>fowerty</i><par n="one__num"/></e>
+
+<e r="LR" lm="hundred">  <i>hundred</i><par n="hundred__num"/></e>
+<e lm="hunner">          <i>hunner</i><par n="hundred__num"/></e>
+
+<e lm="thoosan">         <i>thoosan</i><par n="hundred__num"/></e>
+<e r="LR" lm="thoosand"> <i>thoosand</i><par n="hundred__num"/></e>
 
 <e lm="million">         <i>million</i><par n="one__num"/></e>
 
@@ -10561,14 +10578,15 @@
 <e lm="walk">             <i>walk</i><par n="jyne__vblex"/></e>            
 <e lm="want">             <i>want</i><par n="jyne__vblex"/></e>             
 <e lm="wauk">             <i>wauk</i><par n="jyne__vblex"/></e>             
-<e lm="wauken">           <i>wauken</i><par n="jyne__vblex"/></e>           
-<e lm="weet">             <i>weet</i><par n="jyne__vblex"/></e>                                   
+<e lm="wauken">           <i>wauken</i><par n="jyne__vblex"/></e>
+<e r="LR" lm="weelcome">  <i>weelcome</i><par n="airm__vblex"/></e>           
+<e lm="weet">             <i>weet</i><par n="jyne__vblex"/></e>          
 <e lm="weird">            <i>weird</i><par n="jyne__vblex"/></e>            
-<e lm="wheech">           <i>wheech</i><par n="jyne__vblex"/></e>                     
+<e lm="wheech">           <i>wheech</i><par n="jyne__vblex"/></e>          
 <e lm="wheesht">          <i>wheesht</i><par n="jyne__vblex"/></e>          
 <e lm="whistle">          <i>whistle</i><par n="jyne__vblex"/></e>          
 <e lm="white">            <i>white</i><par n="jyne__vblex"/></e>            
-<e lm="whustle">          <i>whustle</i><par n="jyne__vblex"/></e>                     
+<e lm="whustle">          <i>whustle</i><par n="jyne__vblex"/></e>          
 <e lm="wield">            <i>wield</i><par n="airm__vblex"/></e>            
 <e lm="wint">             <i>wint</i><par n="jyne__vblex"/></e>             
 <e lm="wite">             <i>wite</i><par n="airm__vblex"/></e>             

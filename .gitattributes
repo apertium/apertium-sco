@@ -18,3 +18,8 @@ dev/corp/sco/kingly_hooses_pdftotext_all.txt -text
 dev/corp/sco/text.txt -text
 /modes.xml -text
 /sco.prob -text
+*.dix linguist-language=XML linguist-detectable=true
+*.lrx linguist-language=XML linguist-detectable=true
+*.lsx linguist-language=XML linguist-detectable=true
+*.tsx linguist-language=XML linguist-detectable=true
+*.t[[:digit:]]x linguist-language=XML linguist-detectable=true

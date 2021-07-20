@@ -18,3 +18,11 @@
 /sco.automorf.bin
 /sco.autopgen.bin
 /sco.rlx.bin
+/*.hfst
+/*.zhfst
+/.DS_Store
+/*.mode
+/*-*.prob
+/config.in
+/config
+/test/*-output.txt
